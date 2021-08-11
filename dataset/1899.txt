@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:良心淋巴瘤多大可能会转恶性淋巴瘤（男，23岁）良性
+医生:您好，方便发一下检查报告吗？
+
+Summary:
+淋巴结的良性病变只要早期治疗,恶性变的概率是很低的。如果是早期发现的局限的恶性淋巴瘤,治疗效果也是很好的。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

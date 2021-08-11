@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:孕妇的了面神经炎，怎么弄（女，22岁）
+医生:您好！孕几月了？面神经炎多久了？
+患者:8个多月，2天了今天第3天
+医生:面神经炎有哪些症状？
+患者:眼睛看2  3分钟会手机会流泪，眼睛有点难闭合，脸一半有点肿
+医生:最近有没有感冒发烧的情况？
+
+Summary:
+自发性面神经麻痹一般来说是病毒感染，尚无特效药。一般都是休息生活调理让其自愈。虽然在发病两周内可以试用抗病毒药物和激素治疗，但现在既然怀孕，尽量少用药，所以可以不用药。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

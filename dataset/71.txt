@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:包皮是否影响性功能   ！！（男，18岁）
+医生:包茎有可能影响阴茎发育，性生活时疼痛，所以包茎影响性功能。
+医生:包皮过长注意每天清洗，不引起反复发炎，早泄，遗精等等问题，一般情况不影响性功能。
+患者:包痉是皮不能翻是吗？
+医生:包皮无法上翻露出龟头叫包茎，必须尽早环切。松弛状态下包皮遮盖尿道口就算包皮过长。经常痒，发炎，早泄最好手术
+
+Summary:
+可以加关注，病情有变化或者有其它问题再咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

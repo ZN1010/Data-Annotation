@@ -1,0 +1,21 @@
+Dialogue:
+
+患者:请问乙肝型病毒严重吗？（女，31岁）
+医生:您好，很高兴为您解答！我刚到科室，稍事停留，很快为您答复！谢谢理解！
+医生:肝功能正常吗？
+患者:正常
+患者:是我对象上次我们婚检医生说的
+患者:请问严重吗？
+医生:是乙肝携带者！通过输血能够传染
+医生:一般生活不会传染，不会遗传下一代
+患者:哦哦，那就好，谢谢医生
+医生:不客气
+
+Summary:
+再有疑问或者其他问题都可以随时联系我！
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

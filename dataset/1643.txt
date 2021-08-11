@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:胆囊炎，胰腺炎可以吃什么（男，79岁）
+医生:急性期要控制饮食甚至禁食
+医生:病情稳定指标正常后要清淡饮食
+患者:现在是急性出院了～医生说吃清淡点～可以吃哪些清淡的～瘦肉炖汤可以喝吗？
+医生:不要吃
+
+Summary:
+吃蔬菜粗粮，软食
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

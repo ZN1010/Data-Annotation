@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:经常拉手指手指会变长吗（男，16岁）
+医生:你好，这种情况是不会的，手指不能拉长
+患者:嗯  那有什么方法呢
+医生:没有太好的办法，手指的长短是你发育的结果
+
+Summary:
+经常拉手指关节,会导致关节周围松弛,可能会出现后期关节不稳定,以及脱位。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

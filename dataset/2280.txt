@@ -1,0 +1,20 @@
+Dialogue:
+
+患者:肺鳞癌.转移到颈部淋巴（男，33岁）
+医生:你好，希望我的回答能帮助到你。
+医生:有报告吗？
+患者:可以手术吗
+患者:说是中晚期，不让手术
+患者:骨扫了
+医生:可以看一下报告吗？
+患者:好的
+医生:好
+
+Summary:
+祝你健康快乐。有问题可随时咨询我。我会尽力帮助您的。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

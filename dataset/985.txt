@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:我今天上午和朋友闹的时候朋友用指甲扣了好几个伤口 现在伤口抹起来有点疼  我明天想买点红霉素抹 但伤口结痂了 当用吗（男，17岁）
+医生:当用，主要是保持局部清洁干净。
+患者:那我明天早上用会不会太晚了
+患者:结痂的话抹药确定管用吗
+医生:伤口不是很严重， 结痂的话抹药主要是预防甲下化脓的。
+
+Summary:
+轻微的划伤仅伤及表皮浅层可于一周内痊愈。 您可以用红霉素膏一直到完全愈合为止。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

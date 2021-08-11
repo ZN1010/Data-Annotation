@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:慢性扁桃体炎如何治疗（女，62岁）
+医生:第一是不吃辛辣刺激食品
+医生:多喝水预防感冒
+患者:她感觉口干，有时候会流口水～
+患者:现在打甲硝唑加头孢
+患者:有糖尿病
+患者:谢谢
+医生:可以
+
+Summary:
+清淡饮食清洁口腔。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

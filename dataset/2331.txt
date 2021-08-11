@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:你好。内分泌紊乱怎么办??。（女，28岁）
+医生:你好，内分泌紊乱的表现很多，请问你是哪里不舒服。
+患者:生产完以后起很多痘痘,睡眠差,月经时多时少的
+医生:痘痘跟皮肤条件，睡眠，饮食等因素有关，不一定是内分泌紊乱的原因。月经不调，建议性激素检查，必要时妇科专科诊治。
+
+Summary:
+建议清淡饮食,按时作息,完善性激素全套检查,必要时妇科就诊。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

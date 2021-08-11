@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:什么因素会引发前列腺癌？（男，22岁）
+医生:对于青春期和你这个年龄的青年常因为手淫会引起前列腺炎，但极少会有前列腺癌，因为前列腺癌在亚洲人群发病率很低的，多为老年人
+患者:哦哦，谢谢医生
+医生:不客气了
+
+Summary:
+对于青春期和你这个年龄的青年常因为手淫会引起前列腺炎,但极少会有前列腺癌,因为前列腺癌在亚洲人群发病率很低的,多为老年人。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

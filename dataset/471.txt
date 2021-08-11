@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:我的肛门口处有一大疙瘩，特别痒（男，25岁）
+医生:你好，痛吗，有图片吗
+患者:不疼
+患者:痒
+
+Summary:
+一般痔疮多见
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

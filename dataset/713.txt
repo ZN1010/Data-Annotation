@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:中年人得了胃穿孔怎么办？（男，39岁）
+医生:马上就医，接受专科治疗，保守治疗或手术治疗依病情定，治愈后注意保养，避免再发。
+患者:这个病难治吗？
+医生:不难，但防止复发得用心保养
+患者:嗯~我知道了，谢谢医生
+医生:不客气！
+
+Summary:
+胃十二指肠穿孔属急症，需及时上医院治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

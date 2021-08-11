@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:感冒咳嗽(怎样缓解)（女，18岁）
+医生:你好，感冒引起的咽喉炎，
+患者:那要怎样缓解
+医生:可以在口服感冒药的同时，蒲地蓝消炎片，甘草片，或者胖大海含片，多喝水，饮食清淡点，不要吃辛辣食物
+患者:好的，谢谢
+医生:不客气
+
+Summary:
+感冒引起的咽喉炎,可以在口服感冒药的同时,蒲地蓝消炎片,甘草片,或者胖大海含片,多喝水,饮食清淡点,不要吃辛辣食物。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

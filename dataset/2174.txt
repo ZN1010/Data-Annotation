@@ -1,0 +1,25 @@
+Dialogue:
+
+患者:外阴碰到尿液非常疼，是外阴炎吗？（女，22岁）
+医生:你好，很高兴为你服务
+医生:有可能
+医生:白带正常吗，有没有瘙痒
+患者:白带是蛋清状的
+患者:外阴有时候有一点痒
+医生:外阴有没有红肿
+医生:或者溃破
+患者:可能有点破溃，没仔细看
+医生:用洁尔阴洗洗看
+医生:不好就去医院检查一下
+患者:如果自觉症状比较轻可以不用药吗
+患者:会自愈吗
+医生:可以，阴道本身有自净功能
+
+Summary:
+注意卫生，特别是大便后清洗一下
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

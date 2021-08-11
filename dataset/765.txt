@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:脊柱损伤性截瘫病人饮食需要注意些什么（男，23岁）
+医生:忌食油腻食物，多吃高蛋白食物如搜肉，鱼肉，煲些汤，还可以多食新鲜蔬菜水果。
+医生:脊柱损伤切记不能长时间一个姿势大久，要经常翻身和瘫痪肢体的按摩
+医生:太久
+
+Summary:
+脊髓损伤多要很好的营养摄入,避开刺激饮食,多食高蛋白低脂饮食。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

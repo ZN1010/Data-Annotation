@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:21岁会不会得老年痴呆症（女，19岁）
+医生:你好！很高兴能为你解答！
+医生:老年痴呆顾名思义：老年啊！21岁怎么会老年痴呆呢！你过于担心了！
+患者:因为我最近讲话都讲不清楚 词不达意 然后不知道自己在说些什么 手每次都莫名其妙的抖
+医生:你这种情况持续时间了？
+患者:大概有一两年了
+
+Summary:
+你这种情况建议去医院看看神经内科！拍个头颅磁共振看看大脑有没有问题！这样最放心了！
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

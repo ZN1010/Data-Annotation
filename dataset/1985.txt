@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:营养不良引起月经不准，有什么方法调理（女，24岁）
+医生:你好，月经不调分为不同类型，不同处理方法
+医生:请问您月经不调具体表现？
+患者:就是不准
+医生:提前还是推迟多久一次？
+患者:没有什么具体的异状
+
+Summary:
+月经不调分为，月经提前，月经退后，月经过少，月经过多，月经先后不定期，经间期出血
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

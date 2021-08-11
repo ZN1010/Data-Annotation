@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:视网膜脱离外路手术三个月了，现在能不能带隐形眼镜？
+医生:视网膜脱离手术一般一月以上恢复正常，可以考虑配戴隐形眼镜，根据病情决定
+患者:恢复应该是不错，但我怕现在视网膜太脆弱会有影响
+医生:一般没有影响
+患者:好的谢谢
+医生:不谢
+
+Summary:
+眼科检查看看。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

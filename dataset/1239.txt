@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:更年期50岁女人喝了两支静心口服液，结果肚子疼痛并有出血，咋么办    急急急（女，51岁）
+医生:你好，您现在需要到医院做个超声检查一下出血部位
+患者:跟喝这个静心口服液有关系吗
+医生:跟这个关系不大
+
+Summary:
+现在需要到医院做个超声检查一下出血部位。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

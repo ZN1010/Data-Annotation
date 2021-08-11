@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:胆管炎，反复发作，能否彻底治愈（男，24岁）
+医生:是你本人吗？多长时间了？
+患者:是的一年了吧，以前医生就开些利胆片，挂挂水
+医生:建议系统查一下，是否有结石或者是先天性胆管畸形。
+患者:没结石，半月前查过
+
+Summary:
+总之，如果反复发作，就比较难彻底治愈。建议你系统检查、治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

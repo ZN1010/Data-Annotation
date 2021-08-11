@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:鼻炎。。。。。。。。。。。。。（男，14岁）
+医生:你好，很高兴为你解答多长时间了？
+医生:慢性鼻炎以鼻塞为主要表现，无或者少粘稠鼻涕，可伴头昏痛，可能同时伴有鼻中隔偏曲的，年青可以药物保守治疗 羟甲唑啉和辅舒良交替喷鼻子，先喷羟甲唑啉，三五分钟后喷辅舒良 羟甲唑啉连续使用时间不超过一周。停药后症状反复，达18岁，可考虑行手术综合治疗。
+
+Summary:
+因网络受限原因,患者提供信息不详,此次建议仅供参考,应以当地医院就诊为准,祝君安康。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

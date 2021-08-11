@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:咽喉癌吃灵芝可治好吗（男，60）
+医生:灵芝可以吃，但单吃这个是治不好的。需要规范化疗疗。
+患者:哦，我爸爸之前化疗过了
+患者:是不是紫栅醇可以治好
+医生:没有真正的治愈，只能达到一段时间不复发
+
+Summary:
+咽喉癌可以吃灵芝,但单吃这个是治不好的。需要规范化放疗。祝福安康。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

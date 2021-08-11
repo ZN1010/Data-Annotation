@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:65岁老人窦性心律不齐 问题大吗（男，66岁）
+医生:没有不舒服症状不要紧的，健康人也会有。
+
+Summary:
+紧张焦虑情绪下也可以出现窦性心律不齐。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

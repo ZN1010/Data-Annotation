@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:软组织损伤擦红花油可以吗
+医生:那个部位损伤，多长时间
+患者:手腕软组织挫伤怎么办？
+患者:一个月了用不上劲
+医生:意见建议：二十四小时后就可以用你所说的红花油之类的活血药物
+患者:现在都一个月了还不行
+
+Summary:
+ 意见建议：二十四小时后就可以用你所说的红花油之类的活血药物。如果效果不好，建议到医院就诊，希望对你有帮助
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

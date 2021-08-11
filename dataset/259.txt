@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:包皮长，阴茎，龟头有小红点。（男，39岁）
+医生:包皮过长引起的包皮龟头炎。
+医生:先控制炎症，外用洗剂用高锰酸钾，或者碘伏消毒。发红，破损等皮损处涂百多邦，口服罗红霉素。每天二次。
+患者:多长时间能恢复。容易复发吗？
+医生:一般情况需要一到两周。包皮过长注意每天清洗，否则容易引起复发。
+患者:高锰酸钾用那种浓度
+医生:一比五千。
+
+Summary:
+不方便配置的话可以用碘伏。 可以加关注，病情有变化或者有其它问题再咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:我爷爷中风了还有冶吗？（男，64岁）
+医生:你好！中风包括缺血性和出血性
+医生:中风有轻有重，具体情况需具体分析，一般情况是可以治疗的
+医生:预后好坏跟具体病情严重程度有关。不能一概而论。
+
+Summary:
+中风包括出血性和缺血性。后者更多见。发病率高,致残率高,严重的话死亡率也高。病因常常是多方面的。具体情况需要具体分析,不能一概而论。需要规范检查治疗。针对具体病因制定长期治疗预防方案。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:您好 消化道出血 痰里咳出血正常吗（男，66岁）
+医生:消化道出血是呕吐出来的，痰里有血是呼吸道的
+医生:需要你明确
+患者:痰里有血 而且血是那种暗红的  但是后来又咳了很多次 逐渐慢慢就淡了  会不会是肺癌啊？
+医生:这个是呼吸道出来的，叫做咯血，66岁了，需要高度重视，有没有吸烟
+
+Summary:
+咽喉部及呼吸道肺部病变都会引起咯血，咯血是需要非常重视的，建议去医院完善检查
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

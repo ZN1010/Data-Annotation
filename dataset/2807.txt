@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:鼻炎鼻炎鼻炎鼻炎鼻炎（男，25岁）
+医生:你好！下面由我为你解答！
+医生:请问你具体哪里不舒服？
+患者:那个蜂胶鼻炎通多少钱
+医生:这个好像大概30多块
+患者:谢谢了
+医生:不用客气！
+医生:请问还有其他疑问需要我解答的吗？
+
+Summary:
+鼻炎主要是对症处理,平时注意保持鼻部卫生,保持鼻腔湿润,忌食辛辣刺激食物,宜多饮水,希望对你有所帮助!祝你早日康复。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

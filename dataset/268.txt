@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:高血压应该吃什么？我已经中风了（女，52）
+医生:你好，如果你中风了建议到医院，立即做头部ct或者核磁住院治疗。别耽误病情。
+医生:不知道，平时你血压多少平时吃什么降压药物。如果以前吃的降压效果非常好，不必换
+
+Summary:
+中风了说明出现脑血管意外,应该立即做头部ct,住院治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

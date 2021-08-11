@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:神医，您好，我真心请教您，请医生耐心的回答我，谢谢您！ 1.闭合性粉刺有留下痘坑的危险吗？ 2.粉刺正在好的情况有几种？2（男，18岁）
+医生:你好，有的可以留下痘坑、痘印，不挤痘一般可以避免
+医生:好的时候会逐渐变平、颜色逐渐恢复正常
+
+Summary:
+痘印、粉刺问题咨询
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

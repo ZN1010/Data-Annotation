@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:急性浅表皮性龟头炎吃什么药（男，22岁）
+医生:你好，很高兴为您服务！
+医生:无需口服药，外用药即可，我发给你
+患者:急性浅表皮性龟头炎吃什么药（男，22岁）谢谢
+医生:聚维酮碘溶液  外用。用棉签蘸取少量，由中心向外周局部涂搽。一日1～2次。
+
+Summary:
+聚维酮碘溶液  外用。用棉签蘸取少量，由中心向外周局部涂搽。一日1～2次。
+
+1. Nonspecific template?: f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:聚维酮碘溶液

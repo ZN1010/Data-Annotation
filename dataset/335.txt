@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:请问我应该怎么做避免肥胖（女，22岁）
+医生:你好很高兴为您解答1
+医生:控制饮食，多运动，
+
+Summary:
+想要避免肥胖，主要就是控制饮食，禁忌暴饮暴食，禁忌摄入高热量，高脂肪以及含有糖分过高的食物，每天三餐饮食，每天可以适当的坚持半小时到一小时的运动锻炼，促进机体新陈代谢，防止肥胖的发生。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

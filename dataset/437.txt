@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:贫血,白细胞低，红细胞低，该怎么调理？（男，52）
+医生:有化验单吗？发上来看看。
+患者:我爸把单子扔了
+医生:我必须根据你的结果才能判断你的贫血类型
+患者:这样啊，那我们再去查查！ 谢谢啊！
+医生:有问题可以再来问我的，关注我就可以找到我了。乐意为你服务。
+
+Summary:
+必须根据你的结果才能判断你的贫血类型。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

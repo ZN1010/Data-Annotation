@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:有颈椎增生怎么治疗呢？（女，35岁）
+医生:骨质增生是肌肉无力的副产品，没有症状无需治疗。
+
+Summary:
+保护颈椎首先是保持正确姿势,重点是加强颈项肌锻炼。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

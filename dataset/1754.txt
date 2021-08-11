@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:输送阴道里的药第二天早上又尿出来了，是不是没对位置？（女，22岁）
+医生:尿出来说明放错地方了
+
+Summary:
+如果有问题欢迎再次咨询,祝健康。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

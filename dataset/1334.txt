@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:类风湿性关节炎很严重，可以怀孕吗？（女，24岁）
+医生:你好，很高兴为你解答
+医生:有多严重呢？指标不好还是关节变形严重？
+患者:关节变形严重啊，哎
+医生:能提供照片看看吗
+
+Summary:
+类风湿关节炎女性患者怀孕注意事项。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:请问有没有治疗椎间盘突出症的中成药？（女，37岁）
+医生:你好，中成药主要是一些活血止痛药！
+患者:什么药？
+患者:我原来用过一种苗药，滋补肝肾的，但是忘记名字了
+医生:比如活血止痛胶囊就常用于腰椎间盘突出引起的疼痛！
+患者:只止痛不治疗的？
+医生:没有啥药物可以将突出间盘治疗没了的！
+
+Summary:
+没有啥药物可以将突出间盘治疗没了的！
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

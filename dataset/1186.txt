@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:什么样的包皮算长啊？（男，26岁）
+医生:有什么明显的不适症状吗？
+医生:包皮无法上翻露出龟头叫包茎，必须尽早环切。松弛状态下包皮遮盖尿道口就算包皮过长。经常痒，发炎，早泄最好环切。青春期后可手术。
+患者:平时包皮有点外翻，有一半龟头外露，算包皮长吗？
+医生:不算。注意卫生，每天清洗，更换内衣裤。
+
+Summary:
+可以加关注，有泌尿外科男科问题再咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:心功能不全，心源性水肿（女，45岁）下肢水肿半年
+医生:你好，根据你说患者有心衰啊需要治疗
+医生:有什么问题请点击关注我
+患者:西南医院治疗 稳心颗粒， 银参通络胶囊， 呋塞米片， 螺内酯片， 还是没消肿，请问怎么治疗？？？：
+医生:心源性水肿，只能控制症状，感冒容易诱发，避免受凉 感冒，消肿方面速尿，螺类脂效果很好
+医生:急性期静脉
+
+Summary:
+心源性水肿,只能控制症状,感冒容易诱发,避免受凉 感冒,消肿方面速尿,螺类脂效果很好。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

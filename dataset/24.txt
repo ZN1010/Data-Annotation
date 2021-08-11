@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:请问孕48天胎停了，可以做药流吗？（女，29岁）
+医生:一般胎停首选人流术，其次再考虑药物流产。
+患者:人流比药流有什么好处？
+医生:胎停很多人药流后会有残留，仍旧需要清宫，所以首选人流。
+患者:恩！谢谢
+医生:不客气。
+
+Summary:
+人流药流对比。
+
+1. Nonspecific template?: f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:人流, 药流

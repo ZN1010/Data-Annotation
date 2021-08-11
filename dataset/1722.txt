@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:坐骨神经损伤做吻合术石膏打几天能拿（男，18岁）
+医生:一般要三个星期的，尽量不要早
+患者:今天已经31天了，
+医生:那应该可以的
+患者:谢谢
+医生:没关系，祝早日康复
+
+Summary:
+目前可以拆除石膏!祝您早日康复。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:是不是撸管会加快衰老（男，17岁）
+医生:手淫是个不好习惯  可导致前列腺炎  阳痿早泄 肾虚 神经衰弱等  坚决戒掉帅哥
+患者:那会加快衰老么
+医生:那不至于
+
+Summary:
+春雨诊所是个很好的健康平台。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,22 @@
+Dialogue:
+
+患者:嗓子发炎不能说话了，该怎么办啊（女，20岁）
+医生:你好，多久了，嗓子痛吗，吞咽困难吗，呼吸困难吗，咳嗽咳痰吗，发烧吗
+患者:从昨天开始，昨天只是吞咽困难，有痰，今天就不能说话了
+患者:嗓子很干
+患者:痛，但是没有发烧
+医生:你好，建议您及时就医检查下，最好检查喉镜
+医生:化验下血常规，看看有没有细菌感染
+医生:考虑急性咽喉炎
+患者:不是上火了吗
+医生:中医说上火，西医不这样说
+医生:建议您及时就医检查下
+
+Summary:
+建议及时就医检查。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

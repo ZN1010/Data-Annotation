@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:高165重160是肥胖症么？怎么治？（女，19）
+医生:是肥胖，你的身高的合适体重在110斤。减肥不外乎饮食控制，配合大量的运动，饮食控制不是不吃而是少吃，每餐都吃半饱，低盐低脂。
+
+Summary:
+减肥主要是控制饮食,配合运动。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

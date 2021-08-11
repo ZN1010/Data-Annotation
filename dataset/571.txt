@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:请问感冒了咳嗽可以做声带息肉手术么？（女，31岁）
+医生:最好等感冒好了再做手术
+医生:否则会引起很多并发症
+患者:好的 谢谢
+医生:不客气
+
+Summary:
+最好等感冒好了再做手术。否则会有术后并发症。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

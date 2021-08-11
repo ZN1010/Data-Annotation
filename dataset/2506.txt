@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:咳嗽，发烧，支原体肺炎，如何治疗（男，7岁）
+医生:支原体确诊的话现在阿奇霉素效果就挺好的。
+患者:小孩现在用头孢+红霉素，还有点抗病毒的药，但是还是咳嗽发烧
+患者:用阿奇霉素的话，就不用头孢了？
+医生:可能医生考虑还要兼顾其他感染可能，不是抗病毒药物也用了吗
+
+Summary:
+小孩生病大家都非常紧张,包括医生,要耐心点,咳嗽与病情严重程度不一定完全相关,还可以看看咳痰等情况。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

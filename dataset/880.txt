@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:眼睛视神经萎缩了能恢复吗？（男，36）
+医生:你好，下面由我来为你解答
+医生:如果视神经已经萎缩，就说明大部分的视神经纤维已经受到破坏，神经细胞破坏后都不能再生，所以已经被破坏的神经不能修复，就是说已经破坏的就不能恢复了
+
+Summary:
+如果视神经已经萎缩,就说明大部分的视神经纤维已经受到破坏,神经细胞破坏后都不能再生,所以已经被破坏的神经不能修复,就是说已经破坏的就不能恢复了。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:阑尾炎拍什么片能看清症状？（女，26岁）
+医生:阑尾炎一般依靠症状，查体，化验和超声综合判断。
+
+Summary:
+疾病的诊断需要全面综合判断。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

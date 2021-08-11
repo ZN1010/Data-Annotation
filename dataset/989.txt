@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:喉咙干，偶尔打喷嚏，是不是空调病（女，24岁）
+医生:你好，很高兴为你服务。
+医生:喉咙干，偶尔打喷嚏，这种情况是感冒先兆，可能与吹空调有关的。
+患者:好的谢谢
+医生:不用谢
+
+Summary:
+喉咙干,偶尔打喷嚏,这种情况是感冒先兆,可能与吹空调有关的。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

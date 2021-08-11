@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:5岁男童的血铅含量是多少？（男，5岁）
+医生:30.**** ug/l
+患者:我家小孩56，医生诊断铅中毒
+医生:可以用药排铅
+
+Summary:
+正常值： 30.**** ug/l。可以用药排铅。尊医嘱就可以了。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

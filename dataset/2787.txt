@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:医生您好，胆石性肠梗阻，该怎么办？（男，49岁）
+医生:您好:问题分配到了，确诊了，胆石肠梗阻，最好手术。
+
+Summary:
+确诊胆石性肠梗阻要手术。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

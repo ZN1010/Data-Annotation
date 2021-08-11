@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:经常小腿抽筋怎么办？（男，21岁）
+医生:有查过血钙吗？最近受伤没有，平常运动多不多？
+患者:平时运动不多
+医生:不排除缺钙，可适当补钙。
+
+Summary:
+补钙后如不缓解，需医院排除其他疾病
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

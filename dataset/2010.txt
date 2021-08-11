@@ -1,0 +1,23 @@
+Dialogue:
+
+患者:哺乳期肠胃感冒怎么办（女，33岁）
+医生:你好，很高兴为你服务。
+医生:请问你主要是什么症状呢？
+患者:恶心，喝水都吐
+医生:没有腹泻吧？
+患者:有
+医生:腹泻一天几次呢？
+患者:两次吧，今天早上开始的
+医生:哦哦
+医生:你这种情况建议多喝水，绝对清淡饮食，最好吃淡稀饭，药物可以吃点霍香正气液。
+患者:喂奶能吃吗
+医生:可以的
+
+Summary:
+肠胃感冒这种情况建议多喝水,绝对清淡饮食,最好吃淡稀饭,药物可以吃点霍香正气液。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

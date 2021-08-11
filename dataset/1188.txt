@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:4岁孩子太爱动，会是多动症吗（男，4岁）
+医生:不一定，这么大好动，喜欢探索，表现自我
+患者:他喜欢模范动画人物，有时候大人问他也不理，只顾玩自己的，
+患者:怎么正确的跟孩子沟通呢
+医生:可以引导他，不过没有危险可以给他想象空间
+
+Summary:
+正确指导孩子
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

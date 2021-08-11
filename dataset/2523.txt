@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:脸上被烫伤了该什么处理才不会留伤吧（男，27岁）
+医生:你好，烫伤多长时间了？
+医生:去整形美容科看看
+医生:您好!请给出本次咨询回答的评价! 谢谢
+
+Summary:
+看是否疤痕体质，建议去整形美容科看看
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:龟头炎用药手淫导致的（男，16岁）
+医生:包皮过长吗，红肿疼痛搔痒吗？
+患者:红肿瘙痒
+医生:先控制炎症，外用洗剂用高锰酸钾，或者碘伏消毒。发红，破损等皮损处涂百多邦，口服罗红霉素。每天二次。
+患者:，谢谢
+
+Summary:
+包皮过长的话，需要手术彻底治疗。 可以加关注，病情有变化或者有其它问题再咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

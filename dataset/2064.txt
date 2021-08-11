@@ -1,0 +1,24 @@
+Dialogue:
+
+患者:念珠菌感染需要配什么药（男，0个月）
+医生:口腔内真菌感染吗，鹅口疮，
+患者:龟头
+患者:有白色的膜一样一层东西
+患者:龟头上还有小颗粒
+医生:一般念珠菌的感染用碳酸氢钠清洗，再用点制霉菌素涂抹
+医生:大人？小孩？
+患者:内服药需要？大人 27岁 男
+患者:目前没什么药过敏
+患者:我从没外出越轨 为什么还会被感染？
+医生:这个免疫力也可以出现
+医生:免疫力低也可以出现
+医生:注意清洁
+
+Summary:
+如果有问题可以再咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

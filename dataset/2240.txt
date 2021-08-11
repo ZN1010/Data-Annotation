@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:股癣用什么药好点！大腿内测（男，29岁）
+医生:你好！外用皮康王软膏或者金达克宁软膏。
+医生:不要捂，内裤热水烫。
+
+Summary:
+股癣,外用皮康王软膏。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:体检时医生说我有甲状腺结节，这怎么办？（男，36）
+医生:甲状腺结节，是常见多发的甲状腺疾病，根据结节的大小、形态，多数是良性
+医生:甲亢、甲减、桥本、甲状腺结节等甲状腺疾病，近些年来发病率明显上升，主要是与环境因素有关
+医生:需要结合甲状腺功能化验结果，看甲状腺结节的大小形态，结节直径《0.5cm，可以每年复查一次，结节直径0.5～1cm，每半年复查一次，结节》1cm，密切观察，综合评估择机手术
+
+Summary:
+男36岁，甲状腺结节的问题
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

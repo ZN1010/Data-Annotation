@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:子宫内膜炎中药可以治愈吗（女，27岁）
+医生:可以尝试一下，但要看是急性还是慢性
+医生:做过什么手术？
+医生:如果症状典型，腹痛重，查体压痛明显，有发热，建议西医静脉抗炎治疗
+医生:如果慢性盆腔炎，表现为内膜炎，可以中西医结合治疗
+
+Summary:
+如果症状典型,腹痛重,查体压痛明显,有发热,建议西医静脉抗炎治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:你好，吸入过多煤气中毒怎么办（男，17）
+医生:你好，很高兴能帮助你
+患者:你好
+医生:现在什么症状，病人昏迷吗
+患者:还没有到昏迷
+医生:发现多长时间了
+患者:十分钟左右
+
+Summary:
+煤气中毒病人，建议马上去医院，抽血碳氧血红蛋白，必要时高压氧治疗
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

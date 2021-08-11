@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:请问医生艾滋病最快多久出现症状（男，26岁）
+医生:你好！HIV感染症状出现时间长短不一样，最快1-2周
+患者:我1号到7号同房8次和吃了一粒万艾可，会不会造成身体虚感冒盗汗早上遗精
+医生:有可能的
+
+Summary:
+HIV感染症状出现时间长短不一样,最快1-2周出现感冒样症状。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

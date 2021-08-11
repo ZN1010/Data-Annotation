@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:怎样预防急性鼻炎，和治疗（男，18岁）
+医生:急性鼻炎就是感冒的鼻腔表现，和预防感冒一样。
+患者:怎样治疗
+医生:鼻腔点呋麻液，口服抗生素就可以了
+
+Summary:
+急性鼻炎是上呼吸道感染的鼻腔症状,发作期需药物治疗,防止病情牵延不愈容易变成慢性鼻炎。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

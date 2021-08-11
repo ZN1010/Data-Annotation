@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:门诊患者问题已经创建，开始与医生交流吧~流产后一直有红的
+医生:你好，请流产后多少天了，
+患者:一个星期了
+医生:建议彩超检查一下，如果彩超检查很好，就没事，
+医生:有的见红两个星期
+
+Summary:
+流产后恢复期。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

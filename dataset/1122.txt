@@ -1,0 +1,20 @@
+Dialogue:
+
+患者:体內湿气重怎么处理？（男，36岁）
+医生:你好，现在怎么不舒服？
+患者:脸上油多，怕冷，大便粘马桶是不是湿气重？
+患者:经常乏力，犯困，干点力气活感觉累？
+医生:你分析的很有道理
+医生:建议服用参苓白术散祛湿
+患者:湿气重是说明阳气不足吗？头发干枯，要补阳吗？还是除湿补阳同时进行？
+医生:头发干枯大多数说明气血不足
+医生:可以与人参归脾丸合用
+
+Summary:
+体内湿气重，建议服用参苓白术散祛湿，
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

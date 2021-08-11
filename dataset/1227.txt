@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:肾结石是否用鸡内金可以治疗（男，25岁）
+医生:您好。鸡内金的功效主要是健胃消食，有一定抗癌疗效，也可以治疗血尿，但对肾结石帮助不大。
+医生:您好，收到我的信息了吗？还有什么需要咨询的吗？
+
+Summary:
+网上咨询不能完全替代门诊诊治,所以建议您门诊进一步诊治。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

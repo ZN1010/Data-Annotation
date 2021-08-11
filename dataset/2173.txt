@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:我的皮肤起那种类似于鸡皮疙瘩（女，14岁）
+医生:你好，你说的鸡皮疙瘩是毛周角化症，是遗传性皮肤病。
+医生:目前没有太好的治疗方法，可以通过用药缓解症状。皮疹可以随着年龄的增长会有所减轻
+
+Summary:
+毛周角化症,建议用温水洗澡(不要用太热的水),洗澡后及时总身体乳。平时多喝水,多吃水果蔬菜。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

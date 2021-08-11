@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:医生你好，我想问下外阴癌严重吗？（女，79岁）
+医生:您好，具体要看疾病发展到什么程度
+患者:医生这个应该挂妇科吗
+医生:妇科或者妇瘤科都可以
+患者:嗯，好的，谢谢医生
+医生:客气，如果对我评价满意，请给五星好评，谢谢您
+
+Summary:
+外阴癌以手术及放射治疗为主,视病情发展程度决定治疗方法。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

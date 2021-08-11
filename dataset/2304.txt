@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:被树砸了，会有脑震荡么？（男，22岁）
+医生:你好，这是啥时候的事？
+患者:今天
+医生:砸到脑袋上了么？
+患者:是的
+医生:流血了么？
+医生:去医院检查了没有？
+
+Summary:
+最好去医院及时检查颅脑CT明确颅内情况
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

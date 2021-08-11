@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:喉咙痛，有点发热，睡眠不好（男，21岁）
+医生:您的，您可不是感冒了，吃些感冒药吧！
+患者:那吃些什么药呢推荐
+医生:利君沙0.375，一天三次，维c银翘片2片，一天三次，发烧体温高时吃奈普生2片。
+
+Summary:
+利君沙0.375，一天三次，维c银翘片2片，一天三次，发烧体温高时吃奈普生2片。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

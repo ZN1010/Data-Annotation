@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:有遗精能吃五子衍宗丸吗？（男，23）
+医生:偶尔遗精属于正常现象。治疗遗精吗？
+患者:嗯
+患者:一周基本遗精一次
+医生:经常遗精注意是否包茎，包皮过长，尿道炎，前列腺炎等等疾病引起的。注意是否内裤过紧，被子过重等等。注意避免黄色视频等等不良刺激。
+
+Summary:
+可以加关注,病情有变化或者有其它问题再咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:黄疸反复的原因是什么
+医生:原因很多也很复杂.......
+医生:比如感染、母乳、胆管阻塞等等，建议去正规医院检查一下
+患者:查了胆道，也不溶血，应该不会反复吧
+医生:不好说，还有很多别的原因，比如感染原因呢，母乳呢等等
+
+Summary:
+黄疸。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

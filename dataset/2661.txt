@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:骨结核一般会伴随血沉加快吗
+医生:一般会的，但血沉的特异性不高，好多疾病都会引起血沉快。
+患者:请问一般如果是骨结核引起的腰部和臀部的疼痛，持续2年时间骨头是不是应该会被侵蚀了？
+患者:请问CT和核磁共振能检查出骨头上的囊肿吗？一般如果是骨结核引起的腰部和臀部的疼痛，持续2年时间骨头是不是应该会被侵蚀了？
+医生:不一定
+医生:CT或磁共振能检查出来囊肿
+
+Summary:
+血沉的特异性不高,好多疾病都会引起血沉快。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

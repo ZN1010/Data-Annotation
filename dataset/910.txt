@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:门诊患者问题已经创建，开始与医生交流吧~阴茎背神经阻断术会影响勃起不
+医生:你好很高兴为你解答……
+医生:时间短是吧
+患者:是的
+医生:恩
+
+Summary:
+根据你的情况,个人意见不建议做那个手术第一没有效果高消费第二个人意见会影像以后勃起功能。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

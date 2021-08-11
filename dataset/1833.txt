@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:枳术宽中胶囊，能吃多久？上面写着疗程两周，中医呵呵（男，22岁）
+医生:可以服用一个月  如果没有效果建议调整
+患者:这个药可以治疗脾虚吗？
+医生:可以的
+
+Summary:
+枳术宽中胶囊服用两疗程后没有效果建议调整。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:早泄吃万艾可有效还是必利劲（男，25岁）
+医生:改善勃起用万艾可。早泄用必利劲
+患者:性生活之前吃那个？
+医生:同时勃起不好和早泄，应该先改善勃起。
+医生:勃起正常后早泄还没有恢复的话，再用必利劲。
+
+Summary:
+可以加我关注,有问题再咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

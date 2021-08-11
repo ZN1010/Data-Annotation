@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:癌症晚期，我很难受。（男，29岁）
+医生:你好，请问是什么类型癌症呢
+患者:食道
+医生:具体怎么难受
+患者:跟你说也白说
+患者:你又治不好
+医生:希望自己专业对你有所帮助
+
+Summary:
+希望能有帮助你。祝生活美好,心情愉快。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

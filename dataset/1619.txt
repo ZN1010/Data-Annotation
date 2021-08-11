@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:肾结核会通过打喷嚏传染给别人吗？（男，25岁）
+医生:你好，如果没有肺结核，单纯肾结核是不会传染的
+患者:肾结核和肺结核有什么关系吗
+医生:肾结核的患者有很多有肺结核
+患者:您的意思是说，传染的话也是传染肺结核，不会传染肾结核？
+医生:是的，如果没有肺结核，就不会传染的
+
+Summary:
+肾结核患者多有肾外结核病史,如肺结核。治疗上应积极给予抗结核治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

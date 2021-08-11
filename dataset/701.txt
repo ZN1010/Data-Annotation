@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:生精胶囊那个牌子的好一点？弱精症（男，21岁）
+医生:这是一种中药，配方是相同的，效果应该区别不大!
+患者:这种药本身就很贵吗？我怎么百度了一下都70一盒。才吃两天
+医生:现在的中药都很贵的!
+患者:好吧。我吃那个补肾的中成药也是。1000多也就吃一个月
+医生:加强锻炼身体，劳逸结合，保持良好心态都有益于治疗！
+
+Summary:
+加强锻炼身体,保持良好心态。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:眼睛病毒性角膜炎，需要买药（男，25岁）
+医生:你好，眼睛红不红，分泌物多不多？
+患者:想问一下复方阿奇咯韦滴眼现在还能不能买到
+医生:抗病毒的眼药水，建议买一支更昔洛韦眼液（如果当地没有，就买阿昔洛韦眼液，或者干扰素眼液选一种就可以）。
+患者:我想复方阿昔洛韦，能不能买到
+患者:我们在郑州问的说这个药全国都没有了
+
+Summary:
+这种眼药水我还没听说过,可能不是特别好买,因为复方制剂的话,一般包含有很多种成分在里面。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

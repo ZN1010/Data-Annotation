@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:喝酒胃出血后，感觉很多痰，有时又感觉胸闷！这是怎么回事呢？（男，20岁）
+医生:建议去医院做一个心电图，过度饮酒很伤身体
+
+Summary:
+建议去医院做一个心电图,过度饮酒很伤身体。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:全身有十几颗脂肪瘤怎么办（男，26岁）
+医生:你好，，，，，，，，，
+医生:只有手术切除，
+医生:没有别的办法
+患者:为什么会长？
+医生:原因不明，
+
+Summary:
+原因不明。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

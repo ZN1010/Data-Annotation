@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:备孕期间热感冒怎么办（女，27岁）
+医生:有什么症状？发热吗？咳嗽咳痰吗？
+患者:嗓子疼，37度，没劲
+医生:您可以口服维生素c片 然后吸入开水蒸气 注意不要烫伤 备孕很多药物不能用
+
+Summary:
+您可以口服维生素c片然后吸入开水蒸气注意不要烫伤备孕很多药物不能用。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

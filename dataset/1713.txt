@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:腹膜炎感染性休克，上腹疼痛不已（女，46岁）
+医生:这种痛要专科医生明确了以后才能处理
+患者:该做的都做了，查不出来
+医生:可以看疼痛科
+
+Summary:
+这种多考虑神经痛。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

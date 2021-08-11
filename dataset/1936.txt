@@ -1,0 +1,23 @@
+Dialogue:
+
+患者:银屑病关节炎用中药治疗好还是用西药好（男，27岁）
+医生:你好，如果已明确诊断了，这两种治疗结合最好。
+患者:这个病会遗传下一代么
+医生:不遗传。
+医生:建议主要治疗原发病。
+患者:你是说先治疗银屑病么
+医生:是的，这个病好了。关节疼痛也可能好了。
+患者:在治疗过程中能要孩子么
+医生:最好不要。
+患者:大概停药多久才没副作用啊，谢谢
+医生:一般半年。
+患者:哦，谢谢
+
+Summary:
+祝你早日康复。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

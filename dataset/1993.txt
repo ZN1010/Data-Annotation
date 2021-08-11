@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:怎么样才能把脸上的毛孔收缩（女，15岁）
+医生:你好，很高兴为你解答
+医生:此类情况是肤质问题，个人不了解相关特效药物，不必过分关注，平时注意使用安全的化妆品以护肤，如十分影响美观可以考虑正规医院激光美容治疗，不建议过度关注，过度治疗了
+患者:用醋和盐能够管用吗
+医生:个人不建议乱用偏方，正规治疗，无需过分治疗
+
+Summary:
+正规治疗,切勿乱用偏方,损毁面容,如十分影响美观,建议家长携带医院就诊。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

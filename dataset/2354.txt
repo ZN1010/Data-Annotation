@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:tct结果，说明了什么（女，26岁）
+医生:你好，检查看时否存在宫颈糜烂，hpv感染等
+患者:宫颈糜烂不是不是病么
+患者:hpv不应该
+患者:诊断出良性反应性改变
+患者:重度炎症
+医生:是妇科常见病，宫颈糜烂现在医学上叫上皮瘤变
+
+Summary:
+本例是临床常见的宫颈糜烂,建议及时治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

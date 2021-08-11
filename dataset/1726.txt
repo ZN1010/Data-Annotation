@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:鼻塞，浑身乏力，吃了泰诺和头孢消炎，怎么没有效果（男，25岁）
+医生:您好，很高兴回答您的问题！一般青年人感冒不建议药物治疗的，多饮用开水，注意保暖多休息，大概2周左右会自愈的。如果实在难受可以服用点感冒药，您已经吃了泰诺和头孢，不是没有效果，是药物起到的是辅助作用，
+医生:最关键的还是自身免疫力及抵抗力
+
+Summary:
+一般青年人感冒不建议药物治疗的,多饮用开水,注意保暖多休息,大概2周左右会自愈的。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

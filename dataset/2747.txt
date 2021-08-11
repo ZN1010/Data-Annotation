@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:胸椎疼骶髂酸痛，是强直性脊椎病吗（男，36岁）
+医生:做过什么检查，有骶髂关节片吗？
+患者:没有这个做磁共振还是x
+医生:X光也是DR。
+患者:是要拍片子吗
+医生:拍片子可以排除骶髂关节炎。
+患者:就拍dr吗？如果是骶髂关节炎是不是强直的可能大
+医生:骶髂关节炎是诊断强直性脊柱炎的一个条件。
+
+Summary:
+保护脊柱首先是保持正确姿势,重点是加强颈腰肌锻炼。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

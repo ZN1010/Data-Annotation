@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:总是患得患失怎么办，谢谢（女，16岁）
+医生:你好，很高兴为您解答，请稍候
+医生:对什么患得患失
+
+Summary:
+祝身体健康!有问题再联系。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

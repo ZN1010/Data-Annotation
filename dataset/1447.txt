@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:少突胶质瘤二级术后是做放疗还是化疗（女，49岁）
+医生:您好！是什么时候做的手术？
+医生:哪个部位的手术？
+医生:我只能根据我的经验告诉您最好接受化疗，因为放疗效果不确定。如果病理检查结果好的话，手术也比较成功，甚至可以不化疗。病人五年生存率会很高。
+
+Summary:
+最好接受化疗,因为放疗效果不确定。如果病理检查结果好的话,手术也比较成功,甚至可以不化疗。病人五年生存率会很高。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

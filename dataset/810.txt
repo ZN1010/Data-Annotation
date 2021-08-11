@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:静脉炎，手腕抽血导致的，该怎么治疗？（男，20岁）
+医生:您好，现在是什么症状？
+患者:扎针的那个地方到手食指，手背一弯就有灼烧感，痛
+医生:可以口服消炎镇痛类药物。如布洛芬缓释胶囊。
+医生:局部热敷。
+
+Summary:
+可以加用静脉消肿的药物，如迈之灵片。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:胸口痛！！然后就是感觉呼吸困难……心脏做过胸部CT！胸片！心电图！动态心电图！心脏彩超～（男，26岁）这些都是正常的可还是感觉气短！然后胸口痛！有慢性胃炎
+医生:您好，您这些天是不是有些焦虑或是压力太大了。
+患者:恩！！有点焦虑的
+医生:您可以服用舒肝散颗粒，对您这种类型的胸痛效果不错。
+患者:那个药是治疗什么的
+患者:然后就是胃痛会胸口痛吗
+医生:中药舒肝理气，活血止痛的。
+
+Summary:
+祝您早日康复。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

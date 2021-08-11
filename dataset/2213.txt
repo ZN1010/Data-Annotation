@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:伤寒感冒和伤风感冒一样吗（女，24岁）
+医生:不一样，但是风寒之邪常常是同时侵人人体
+
+Summary:
+感冒都是伤风,他常与寒,热,湿邪一起侵入人体。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

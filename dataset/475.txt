@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:过敏性咽炎发作怎么办？（男，23岁）
+医生:你好，很荣幸为你解答。过敏性咽炎，建议做雾化吸入，用吸入性布地耐德混悬液做雾化吸入。
+医生:再加上抗过敏药，如左西替利嗪，治疗咽喉炎的中成药，如金嗓利咽丸口服。
+
+Summary:
+再加上抗过敏药,如左西替利嗪,治疗咽喉炎的中成药,如金嗓利咽丸口服。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

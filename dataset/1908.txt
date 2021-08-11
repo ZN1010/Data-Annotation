@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:慢性骨髓炎，需要怎么治疗（女，18个月）
+医生:请问是谁的问题？？？
+患者:小孩的
+医生:慢性骨髓炎属于骨科疾病，中医综合治疗也有效。对不起儿科医生这方面经验少。请您咨询相关科室。
+
+Summary:
+。看到您提的问题我的心情有些沉重,不好意思,医生都这样。这病有原因。希望尽快治愈。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

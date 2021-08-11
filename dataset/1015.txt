@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:您好！阴道滴虫病可怕嘛，能彻底根治嘛？谢谢
+医生:这是一种常见的阴道炎，能根治的，不用怕
+患者:谢谢医生，我今天去医院检查，白细胞两个加，滴虫一个加，那医生说很严重，把我吓坏了
+医生:按疗程用药即可
+患者:嗯勒，医生给我开了冲洗和外用的药
+患者:会不会引起盆腔炎什么的啊？
+
+Summary:
+这是一种常见的阴道炎，能根治的，不用怕，按疗程用药即可
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

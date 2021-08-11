@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:癫痫会造成月经不调吗（女，22岁）
+医生:你好！明确诊断了吗？在服用什么药物吗？
+医生:癫痫一般不会，怕是个别药物影响
+医生:我所了解的丙戍酸钠就可以影响月经，而疾病本身沒见到过类似患者
+
+Summary:
+癫痫病本身不会直接影响月经,多与治疗药物的副作用以及疾病造成的心理、饮食等变化有关系,再就是与专科相关的原因,建议您方便时可至妇科专科再查看一下以排除其它原因。祝早日康复。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

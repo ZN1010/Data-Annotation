@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:有精索静脉曲张怎么办还没结婚（男，31岁）
+医生:还有其它明显的不适症状吗？
+医生:一般精索静脉曲张保守治疗。禁饮酒辛辣饮食，穿三角内裤抬高阴囊，避免久坐久站。吃迈之灵二十天以上。  睾丸下坠疼痛严重无法忍受保守治疗无效，或双侧精索静脉曲张血液反流影响精子质量，这二种情况需要手术。
+患者:没有啊，不痛不痒，但是到了中重度，有静脉团了
+医生:提前禁欲五到七天，精液常规正常可以不手术。每半年复查。
+
+Summary:
+可以加关注，有泌尿外科男科问题再咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

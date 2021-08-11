@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:宝宝补钙要适时，也不能过量，不知道多大才能开始补钙
+医生:北方的孩子。出生后两个冬天都要补鱼肝油。平时补钙
+医生:只有按标准量吃，一般不会出现补钙过多的现象
+
+Summary:
+北方的孩子冬天一定要补钙和鱼肝油。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

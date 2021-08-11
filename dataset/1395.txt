@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:腹股沟疝气不做手术 吃药能好吗（男，25岁）
+医生:您好，吃药是吃不好的，手术是唯一的办法。
+医生:您还在吗？我是普外科专科医生，您可以关注我，有问题可以随时咨询我。再见！
+
+Summary:
+1岁半以上的腹股沟疝,手术是唯一的办法。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

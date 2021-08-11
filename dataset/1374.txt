@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:有什么方子让肝胆管结石不复发？（女，31）
+医生:肝胆管结石的成因很复杂，主要还是自身基因因素。所以没有有效的方式可以防止复发。
+医生:饮食上建议低脂饮食，少吃油腻性食物。
+医生:有个叫熊去氧胆酸的药可以试试，但价钱贵，对纯胆固醇结石可能有用。试用3个月后复查。
+
+Summary:
+肝胆管结石的成因很复杂,主要还是自身基因因素。所以没有有效的方式可以防止复发。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

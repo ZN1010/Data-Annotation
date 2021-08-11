@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:缺钾引起急性阑尾炎，手术后吃什么东西好（男，1天）
+医生:你好，术后多长时间了？
+患者:昨天刚手术
+医生:现在还没排气
+
+Summary:
+现在还没有排气，还不能吃东西
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:急性腹膜炎是什么东西  严重吗（女，20岁）
+医生:您好:问题领到了，女性，最常见腹膜炎有阑尾炎穿孔或化脓，原发腹炎，急性盆腔炎，宫外孕等，去医院查明原因。
+患者:是我舅舅   进的手术室  医生说现在还不太明白情况   所以我想知道这个严不严重   以后会不会有后遗症
+医生:是阑尾炎好些，男同志还要考虑胃溃疡穿孔。根据术中情况，要是肿瘤引起的严重很多。
+
+Summary:
+急性腹膜炎本身就很重,还要看到引起腹膜炎的病因。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

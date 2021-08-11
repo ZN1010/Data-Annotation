@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:喜脉怎么把，能自己把到喜脉吗（女，17岁）
+医生:你好！感谢你的信任我将为你回答
+医生:滑脉
+患者:就是，寸，关，尺都在跳动吗
+医生:是的
+
+Summary:
+,脉搏为滑脉。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

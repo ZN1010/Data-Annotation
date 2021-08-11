@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:勃起功能障碍（阳痿）（男，19岁）
+医生:还有什么其它明显不适症状吗？
+医生:什么原因造成的。手淫，性生活过度，还是其它疾病，手术，或者是精神打击。
+患者:手淫
+医生:逐渐减少手淫慢慢停止，恢复三个月以上，多数人能够恢复。
+医生:不能恢复再考虑用药。
+
+Summary:
+可以加关注，有泌尿外科男科问题再咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

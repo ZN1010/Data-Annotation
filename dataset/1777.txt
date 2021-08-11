@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:心脏供血不足可以吃什么营养品（女，47岁）
+医生:你好！心肌缺血主要需要药物治疗，饮食只能起辅助作用。
+医生:多吃新鲜蔬菜水果
+医生:低脂饮食
+医生:心肌缺血是因为心脏血管问题，不是因为身体缺乏血液引起
+医生:没有必要吃营养品。
+
+Summary:
+有时间可以随时联系我。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

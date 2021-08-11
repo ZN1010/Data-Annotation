@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:脑震荡会成帕金森吗？（女，34岁）
+医生:您好！很高兴能为您解答！
+医生:这个请放心！脑震荡不会变成帕金森的！
+患者:您好，脑震荡以后会成帕金森吗
+医生:不会的！
+
+Summary:
+脑震动和帕金森是两码事！不会互相转变的！
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

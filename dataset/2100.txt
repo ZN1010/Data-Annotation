@@ -1,0 +1,20 @@
+Dialogue:
+
+患者:肺积水是怎样形成及如何治疗？（女，51岁）
+医生:您好，您指的是胸腔积液吗？
+医生:还是肺水肿？
+医生:胸腔积液是因为肺部病变累积到胸膜引起积液
+医生:肺水肿是因为心脏病变心功能不全引起的。
+医生:会出现胸闷憋气喘，活动后更加明显，
+医生:这种情况一般来说需要到正规三甲综合医院住院系统诊治。
+医生:需要用利尿剂利尿消肿
+医生:减轻肺积水
+
+Summary:
+这种情况一般来说需要到正规三甲综合医院住院系统诊治。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

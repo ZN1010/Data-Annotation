@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:水肿了怎么可以消除呢?（女，23岁）
+医生:哪里水肿，多长时间了，发图看看
+医生:不同位置的水肿病因不同，治疗方案也不同
+
+Summary:
+没有回答问诊,无法建议。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

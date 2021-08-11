@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:新生儿脓毒血症，有哪些症状？（女，23岁）
+医生:有血培养结果吗？这诊断需要病原学证据才能诊断的。一般症状有全身中毒症状如发热，加上局部定位症状如肺部感染的氧分压改变等，严重的还会有肾功能不全等。
+患者:血培养有革兰杆菌
+患者:具体最后结果还没出来
+患者:这个只是两天的结果
+医生:可能是要做药敏试验以指导抗菌药物选择，挺危险的。
+患者:谢谢医生
+
+Summary:
+这时最好的选择就是全力配合医生了。为宝宝祈祷！
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

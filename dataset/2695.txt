@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:只是干呕，没有别的不是，也不发烧，精神状态良好，是消化不良吗？（男，2岁）
+医生:你好，宝宝可能上火，消化不良
+医生:大便好吗？
+患者:还好，偶尔有点粘稠感觉
+患者:那是给他吃点消食片之类的是不是就可以了
+医生:可以吃消食片，多喝水，吃流质食物就可以，清淡易消化的食物。
+
+Summary:
+两岁宝宝积食后干恶心，无呕吐，精神好，大小便正常。可以给宝宝吃消食片助消化。多喝水，吃清淡易消化的食物，多吃蔬菜水果，保持大便通畅。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

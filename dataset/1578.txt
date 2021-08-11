@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:包皮包茎经常粘合怎么回事（男，20岁）
+医生:你好！最好去医院泌尿外科医生当面检查一下
+医生:先把粘连分开如果不行就切除过长包皮
+
+Summary:
+包茎要手术治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

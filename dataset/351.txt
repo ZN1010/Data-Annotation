@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:尿路感染，连续五天了（男，17岁）有很弱的尿液滞留感遗精之后的一天有的感觉
+医生:用过什么药物，尿常规正常再停药
+患者:左氧杀星
+医生:可以服用二周
+医生:复查尿常规正常再停药
+医生:改变自己的生活习惯，勤换衣物勤洗澡，多饮水勤排尿，禁饮酒辛辣饮食，避免久坐久站熬夜，衣物适当宽松。
+
+Summary:
+可以加关注，有泌尿外科男科问题再咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

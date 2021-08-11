@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:小腿骨髓炎，怎么治疗好。（男，29岁）
+医生:住院治疗！骨髓炎一定要住院规范治疗！
+医生:骨髓炎必须规范用抗生素…足量…足疗程…有效！
+
+Summary:
+骨髓炎!要尽早治疗!足够疗程的治疗!足够有效治疗!抗生素要足量!必要时需要手术开骨窗引流治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

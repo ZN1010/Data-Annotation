@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:激素依赖性皮炎怎么办？（女，19岁）
+医生:你好！不再用激素膏。服氯雷他定，维生素c，复方甘草酸苷片，外用他克莫司膏。
+
+Summary:
+!不再用激素膏。服氯雷他定,维生素c,复方甘草酸苷片,外用他克莫司膏。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:哪里可以查到最规范最全的性病潜伏期时间表？每个医生说的都不完全一样（男，30岁）
+医生:您好，很高兴回答您的问题。
+医生:您可以到当地疾控中心性病科看一下。
+患者:网上哪里可以查到？
+医生:网上没有发现。
+患者:医生 我查到的卫生部的文件可以吗？
+医生:可以
+
+Summary:
+祝您健康幸福。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

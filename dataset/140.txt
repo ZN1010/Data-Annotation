@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:孩子室间隔缺损，怎样带孩子比较好（男，30岁）
+医生:不用太在意，主要是预防感冒，在学龄前手术
+医生:室缺有多大？膜部可以微创手术
+
+Summary:
+主要是防止感冒,定期复查心脏彩超。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

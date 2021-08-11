@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:淋巴癌会死吗？是怎么样得上这种病呢？（女，19岁）
+医生:淋巴癌如果不及时治疗，会导致死亡；致病因素很多，很难说清楚，建议你积极治疗，控制病情。
+患者:额。我没有淋巴癌欸。我只是问下
+患者:我腋窝下雨有两个疙瘩说是淋巴增大 要紧吗
+
+Summary:
+淋巴癌有原发和转移癌,淋巴瘤是预后较好的肿瘤。
+
+1. Nonspecific template?: f
+
+2. Medical terms in summary but NOT in dialogue:原发, 转移癌, 淋巴瘤
+
+3. Medical terms in BOTH summary and dialogue:淋巴癌

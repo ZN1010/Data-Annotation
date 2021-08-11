@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:医生您好，睡眠不好，该怎么办？（女，16岁）
+医生:睡眠怎么不好啊，是睡不着，还是做噩梦啊，多大了？工作压力大吗
+医生:不说话了呢？
+医生:建议你每天定时睡眠，一定要11点之前入睡。睡前不要做兴奋的动作，睡前烫脚。长期坚持才有效果，也可以长期口服安神补脑液。效果不错
+
+Summary:
+建议你每天定时睡眠,一定要11点之前入睡。睡前不要做兴奋的动作,睡前烫脚。长期坚持才有效果,也可以长期口服安神补脑液。效果不错。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

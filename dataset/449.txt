@@ -1,0 +1,20 @@
+Dialogue:
+
+患者:急性淋巴结炎吃什么药（女，36岁）
+医生:你好！你首先应该查一查血常规看看
+医生:什么部位
+医生:如果血常规白细胞或者中性粒细胞高可以服用消炎药
+医生:如没有过敏可以服用阿莫西林，头孢丙烯等等，同时多饮水，吃清淡饮食，合理休息
+医生:帮忙送一个‘’很满意‘’哦，谢谢！！！
+医生:如果发热可以服用退热剂
+患者:好的，谢谢医生
+医生:祝你好运
+
+Summary:
+记得,多饮水,吃清淡饮食,合理休息。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

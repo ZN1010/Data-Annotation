@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:孩子左髋关节骨折，有再生障碍性贫血（男，33岁）
+医生:你这个比较麻烦了。古镇没有片子，移位的严重不严重，如果，不严重尽量保守治疗。
+
+Summary:
+骨折不严重尽量保守治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

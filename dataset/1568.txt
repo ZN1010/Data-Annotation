@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:颞下颌关节紊乱综合征（女，27岁）
+医生:可以疗理，针灸，物理治疗！
+
+Summary:
+物理治疗为绿色治疗，可以反复进行，总之三分七分养，恢复期要注意保护不要过多说话和咬硬物！
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

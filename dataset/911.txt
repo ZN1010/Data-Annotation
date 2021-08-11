@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:请问孩子有口臭怎么办（男，11岁）
+医生:孩子口臭，多因胃热，少食冷食，可给予助消化药品。
+患者:吃点什么消化药
+患者:他对西药过敏
+医生:鸡内金散口服1周。
+患者:哦
+医生:嗯
+
+Summary:
+孩子口臭,多因胃热,少食冷食,可给予助消化药品。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

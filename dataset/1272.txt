@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:慢性骨髓炎可用啥药治好？（男，41岁）
+医生:一般四肢长骨的骨髓炎大都采用手术开窗引流治疗，
+患者:2003年夏左脚背遭蛇咬伤后，屡治难愈，于2012年经大(地、市级)医院专家诊断为慢性骨髓炎，如今脚踝上下尚还时常流脓，该怎么办？恳请指教！感恩……
+医生:您的情况需要住院治疗，手术切开引流治疗。
+
+Summary:
+骨髓炎的治疗比较棘手,主要在于很少有药物可以作用到髓腔内,目前比较普遍的治疗是手术引流加药物冲洗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:我盆友有慢性支气管哮喘（女，16岁）
+医生:你好，很高兴为你服务。
+医生:支气管哮喘日常调理很重要。清淡饮食忌辛辣，多吃蔬菜水果，休息好不熬夜，少喝酒抽烟，多活动多锻炼增强体质。冷热注意加减衣物减少感冒。哮喘发作时可以用点喷剂，缓解症状很快的。
+
+Summary:
+支气管哮喘日常调理很重要。清淡饮食忌辛辣,多吃蔬菜水果,休息好不熬夜,少喝酒抽烟,多活动多锻炼增强体质。冷热注意加减衣物减少感冒。哮喘发作时可以用点喷剂,缓解症状很快的。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

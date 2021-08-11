@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:龟头炎怎么治疗。     （男，29岁）龟头发干，龟头皮肤硬脆，干裂，包皮垢多
+医生:您好，如果反复发生，建议手术治疗
+
+Summary:
+龟头炎经常发生于包皮过长的患者,多是由于长期包皮垢刺激所致,如果偶尔发生,切包皮不长可以药物治疗,涂抹红霉素软膏,勤清洗,保持干燥,如果反复发生,建议手术治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

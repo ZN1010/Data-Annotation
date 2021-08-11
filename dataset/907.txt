@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:梅核气怎么治疗，好几年了。（男，18岁）
+医生:你好，很荣幸为你解答。梅核气在西医，一般称作慢性咽炎，或者咽异感症。一般多用中成药治疗，金嗓利咽丸，口服或者慢严舒宁口服。
+患者:一到晚上嗓子就疼哑是怎么回事
+医生:一到晚上嗓子就疼哑，一是饮水少，二是到夜间口腔唾液腺分泌少，所以嗓子粘膜干燥，可引起疼痛或者嘶哑。
+
+Summary:
+梅核气在西医,一般称作慢性咽炎,或者咽异感症。一般多用中成药治疗,金嗓利咽丸,口服或者慢严舒宁口服。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

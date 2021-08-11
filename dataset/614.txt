@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:声带小结，又是老师，有什么办法？（女，28岁）
+医生:需要小结手术切除，声带休息
+患者:会不会继续恶化
+患者:不做手术，会有什么后果
+医生:可能造成声音嘶哑加重
+
+Summary:
+需要噤声休息,加重需要手术。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

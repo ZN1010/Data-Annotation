@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:脑震荡引发的耳鸣，颅骨骨折（女，27岁）
+医生:您好，请问您想具体咨询什么问题？
+患者:怎么样可以缓解耳鸣
+医生:你的诊断应该是颅底骨折，造成内耳损伤而出现耳鸣，建议到耳鼻喉科检查一下。
+患者:嗯具体需要哪些检查呢可以恢复么
+
+Summary:
+你的诊断应该是颅底骨折，造成内耳损伤而出现耳鸣，建议到耳鼻喉科检查一下。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:淫羊藿和枸杞子泡茶喝好还是泡酒喝好，（男，30岁）
+医生:这两种中药材更适合泡酒，有效成分更容易溶于酒精
+
+Summary:
+这两种中药材更适合泡酒,有效成分更容易溶于酒精。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

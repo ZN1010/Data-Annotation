@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:急性乙型黄疸型肝炎能根治吗？？？（男，26岁）
+医生:你好.急性乙肝如果治疗及时.有一定的治愈率.但不是很高
+患者:现在全身没有什么不适？只是小便时有点黄
+患者:是不是一旦有了就会终身纠缠？？？
+医生:不一定.急性期有治愈可能
+医生:即使转为慢性吃药也可以控制的佷好
+医生:不知道你的检查结果什么情况
+医生:你可以咨询—下你的主治医师
+
+Summary:
+树立信心.及时治疗.祝您健康.
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

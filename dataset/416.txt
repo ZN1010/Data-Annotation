@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:气胸进行肺大疱切除手术后多久可以同房（男，20岁）
+医生:你好，术后体力恢变好就可以了，一般三周以后
+患者:怎么样算回复好呢
+医生:爬2层搂和手术前一样
+患者:好的。那现在不能同房对吗
+患者:如果女友在上呢
+医生:这个方式应该可以
+
+Summary:
+,手术后剧烈运动会造成切口部位疼痛,一般不会引起其他损害。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

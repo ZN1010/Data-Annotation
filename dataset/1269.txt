@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:19了..3-4个月没有遗精了（男，19岁）
+医生:你好，很高兴为您服务！
+医生:这3-4个月有无手淫？
+患者:没有
+患者:从开始吸烟
+医生:嗯，其实有时候遗精就是很不规律的，一般来说，几个月没有遗精，也不能说就是异常
+医生:继续观察看看吧！先不用紧张
+
+Summary:
+嗯，其实有时候遗精就是很不规律的，一般来说，几个月没有遗精，也不能说就是异常
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

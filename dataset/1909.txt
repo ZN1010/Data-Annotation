@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:每次感冒会胸口疼胸闷什么原因？（男，17岁）
+医生:你好！感谢你的信任我将为你回答
+医生:可能是心脏问题，完善心电图
+
+Summary:
+可能是心脏问题,完善心电图。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

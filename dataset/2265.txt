@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:已经做了ct，医生怀疑可能是肺癌。需要做进一步检查。（男，50岁）
+医生:你好，如果怀疑是肺癌的话，要全面评估了
+医生:第一，做一个胸部增强CT，评估能否手术切除
+医生:第二，做全身检查，全身骨骼扫描，头部核磁，颈部及腹部彩超
+医生:第三，评估患者的身体状况，肺功能，心电图，血气分析等
+医生:有必要的可能还要做支气管镜
+医生:你可以把图片或者CT报告发过来我给你大概分析下
+
+Summary:
+可疑肺癌,全面评估,进一步检查确诊。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:请问糖尿病的的前期有什么征兆吗？（女，28岁）
+医生:口干、多饮、多尿，体重下降是糖尿病的早期症状。
+患者:哦
+医生:但不是每个糖尿病患者都有上述症状的，部分糖尿病是由体检发现的，平时无任何感觉。
+患者:假如是家族使，可以预防吗？
+医生:如果有家族史应该注意低糖低脂饮食，适量运动，定期体检。
+患者:心脏病呢，可以预防吗？
+医生:冠心病也是可以通过健康的生活方式降低发病概率的。
+
+Summary:
+健康饮食、适量运动可有效降低糖尿病、冠心病的发病概率。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

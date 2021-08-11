@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:高度近视能不能按摩呢（男，30岁）
+医生:你好，您说的按摩具体指的什么？按摩眼睛？
+患者:除了头部，周身可以吗
+医生:好的
+
+Summary:
+这个常规按摩是可以的，但是眼球不能按摩，头部尽量减少拍打
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

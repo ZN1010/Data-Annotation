@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:检查甲肝乙肝心脏可不可以吃饭（男，25岁）
+医生:检查甲肝病毒，乙肝病毒，心脏超声，吃饭无影响。
+医生:但如需查肝肾功能、肝胆B超则必须空腹。
+
+Summary:
+健康体检时,抽血查肝肾功能及肝胆B超时需空腹。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

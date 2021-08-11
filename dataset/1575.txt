@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:肺心病中药调理能痊愈吗？（男，1个月）
+医生:你好，通过中药调理能减轻症状，但完全好了，很难
+患者:目前肺部肿大，有什么药物能减轻病人的痛苦吗
+医生:这个要根据病人的症状，舌脉等综合考虑才行
+患者:谢谢您
+
+Summary:
+不用客气，带病人去附近的医院找个中医医生给调理一下吧。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,25 @@
+Dialogue:
+
+患者:哺乳期肠胃感冒怎么办（女，27岁）
+医生:你好，请问你感冒有些什么症状呢？
+患者:肠胃感冒
+患者:拉肚。反胃
+医生:哦哦
+医生:腹泻一天几次？
+患者:刚刚有症状。
+患者:才拉一次
+患者:我喂奶呢现在。
+医生:腹泻一次，恶心，还不用吃药。
+患者:如果吃的话吃什么药
+患者:我怕明天严重啊
+医生:多喝水，饮食吃清淡易消化食物，忌辛辣油腻。
+医生:饮食注意了，有关会自愈的
+
+Summary:
+有关肠胃感冒的咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:天津市那家医院治疗梗阻性黄疸好（男，50 岁）
+医生:你好，患者年龄多少？？
+患者:50
+医生:去内科问，这里儿科
+患者:我让你来回答的？ 真是神经病
+
+Summary:
+你个神经病,垃圾。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

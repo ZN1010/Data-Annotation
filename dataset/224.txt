@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:尿潜血实验阳性      他（男，29岁）
+医生:你好，很高兴回答你的提问。有腰疼，腰部不适吗？
+患者:没有 有头晕 耳鸣
+医生:你好，几个加号？为什么查尿常规？体检吗？
+
+Summary:
+、尿潜血阳性必须高度重视、你不在、只能建议你查找原因、定期复查。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

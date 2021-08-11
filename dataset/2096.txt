@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:口苦口干咋回事，请回复（女，43岁）
+医生:你好！多是脾胃有热引起的
+患者:怎么治疗
+医生:可以服用龙胆泻肝丸。
+医生:平时多吃些山药，银耳，莲子，栗子，百合，枸杞等滋阴润燥的食物。多喝水，多吃水果蔬菜。
+
+Summary:
+祝你健康。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

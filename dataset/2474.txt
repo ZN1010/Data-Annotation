@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:你好，我之前吃了您建议我的高血压方案，从之前高压180降到了现在高压130、低压100。请问我还需要继续服那几种药吗？有没有调整，谢谢（男，45岁）美托洛尔片25mg/次，3/日；珍菊降压片2片/次，3/日，硝苯地平缓释片10mg/次，2/日还有螺内脂
+医生:目前血压控制还算可以，但舒张压还是高点，珍菊片可以减一半的量，其他的不改！谢谢你的信任！
+医生:其他的药物目前不改
+
+Summary:
+对于常年口服药物控制血压的患者,禁忌频繁的更换药品!取换药,应在煮专科医生的建议下更换。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

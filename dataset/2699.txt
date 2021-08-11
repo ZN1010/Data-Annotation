@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:长期黑眼圈三个多月了！（女，17岁）
+医生:长期玩手机电脑，熬夜都可以形成乌眼圈，注意休息，局部凉毛巾冷敷。
+患者:注意的非常好啊！
+患者:也不很玩手机啊！
+医生:少熬夜，睡前少喝水，局部凉毛巾冷敷。
+患者:哦哦！
+患者:谢谢您
+医生:祝健康快乐每一天
+
+Summary:
+乌眼圈: 注意休息,尽量少熬夜少玩手机电脑,睡前少喝水,并可以局部凉毛巾冷敷。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

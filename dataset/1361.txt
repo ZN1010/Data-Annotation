@@ -1,0 +1,21 @@
+Dialogue:
+
+患者:鼓膜穿孔面积十分之一左右，能自愈吗？（男，23岁）
+医生:你好，请问有多长时间了？
+患者:已经两天了
+医生:是外伤性的吗？
+患者:是的  打篮球的时候人家撞到的
+医生:嗯，这种情况只要不感染一般是可以自己愈合的。
+医生:注意保持外耳道干燥，不要进水，也不能点药。
+患者:请问医生，这种情况大概多久可以愈合呢？
+医生:一般的一个月左右吧。
+患者:平时要需要注意点什么呢？比如说有什么不能吃的，能不能运动。
+
+Summary:
+外伤性耳膜穿孔需要保持外耳道干燥。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

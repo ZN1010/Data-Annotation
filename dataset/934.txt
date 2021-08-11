@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:身上痒用什么药，皮肤达过敏。我是做毛纱的
+医生:可以用炉甘石外洗，也可以抗过敏治疗，
+医生:用扑尔敏，西替利嗪或氯雷他定
+
+Summary:
+如果对皮毛过敏,要注意尽量避免接触以防止过敏反复发作。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

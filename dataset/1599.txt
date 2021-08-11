@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:关于鼻咽癌，检查要多少钱？
+医生:你好，一般需要检查核磁共振，大约需要600元
+患者:一个项目就够了嘛？
+医生:是的，这个就可以确诊
+患者:谢谢了
+医生:不客气
+患者:右边的鼻涕红红的像是带血和脓   而且右耳像是被什么东西给堵住了     这是怎么回事？
+
+Summary:
+建议行核磁共振检查。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:乙肝病毒携带者可以熬夜么？（男，19岁）
+医生:您好，熬夜对乙肝非常不利
+
+Summary:
+熬夜对乙肝非常不利。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

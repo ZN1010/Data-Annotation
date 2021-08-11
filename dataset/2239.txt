@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:请问阳痿，早泄怎么办？（男，18岁）
+医生:这种情况一般药物治疗。
+患者:管用吗？
+医生:有效
+患者:嗯啊  谢谢
+医生:不客气，再见。
+患者:再见
+
+Summary:
+可以加我关注,有问题再咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

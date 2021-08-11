@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:刚刚量的血压109/57正常吗（女，25岁）
+医生:你好，上述血压很正常，不用担心！
+患者:正常血压值范围多少？我看网上说是112/73是正常的
+医生:正常血压在90/60----140/90毫米汞柱波动
+患者:好的谢谢医生
+医生:所以你血压应该很正常
+医生:安心工作学习，祝生活愉快！
+
+Summary:
+正常血压在90/60----140/90毫米汞柱波动,所以在正常范围的亲们不用担心,安心上班,工作,学习。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

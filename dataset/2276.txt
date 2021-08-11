@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:昨天开始喉咙痛，。。。。。。。。（男，16岁）
+医生:急性咽喉炎可能性大，不严重可以口服柑桔冰梅片，伴有发热头疼应该检查下咽喉部和血常规，有问题需要输液治疗。
+患者:不头痛，感觉喉咙沉重，像有痰又不像，想咽咽不下
+医生:应该是一般的咽炎，先口服点药部，上面提到的加个利君沙。
+
+Summary:
+急性咽喉炎比较痛苦,犯病后都很着急,实力容易控制。积极治疗,防止转为慢性咽炎。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

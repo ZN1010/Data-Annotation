@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:大腿粗，有点胖，这就是肥胖症嘛？（女，16岁）
+医生:您好！您的身高体重是多少？
+
+Summary:
+没有补充信息,无法答复提问。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:慢性肠炎可不可以饮黄酒（男，35岁）
+医生:慢性肠炎不要饮酒，会导致肠道功能紊乱的
+医生:而且要注意饮食调养
+
+Summary:
+肠炎和肠道紊乱等疾病,忌生冷、 硬、刺激性食物,多食软食流质饮食,平时注意避免腹部受凉,可以顺时针按摩腹部促进胃肠蠕动。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

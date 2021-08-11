@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:脑外伤能引起脑梗吗，，，，（男，49岁）
+医生:你好！脑外伤与脑梗是不同的问题，脑外伤可导致血压的波动，脑梗与高血压，低血容量脑灌注不足，高血脂高血糖，脑动脉血管硬化狭窄及吸烟喝酒等因素有关。
+
+Summary:
+脑外伤与脑梗是不同的问题,脑外伤可导致血压的波动,脑梗与高血压,低血容量脑灌注不足,高血脂高血糖,脑动脉血管硬化狭窄及吸烟喝酒等因素有关。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

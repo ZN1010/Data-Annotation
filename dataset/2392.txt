@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:孩子快二岁了，睡觉的时候老是吸允手指睡着，正常吗（男，23个月）
+医生:你好，请问平时谁带孩子呢
+患者:奶奶
+医生:嗯，这种情况一般是孩子与父母的接触少，缺乏安全感引起的
+医生:建议父母多接触孩子
+医生:平时注意纠正不良习惯
+患者:这样啊，可是我在家的时候，他睡觉也要这样
+
+Summary:
+建议父母多接触孩子
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

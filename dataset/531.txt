@@ -1,0 +1,20 @@
+Dialogue:
+
+患者:晚上尿的尿，早上发现很浑浊。为什么？出现好几次。（男，28岁）
+医生:尿液混浊，多见于两个病，前列腺炎和尿路感染，最好是查个尿液常规就行了
+医生:十几块钱，如果真的是，用点抗生素就可以了
+患者:晚上尿在尿盆里，当时很清，可是早上发现很浑，
+患者:一年出现几次。
+患者:女的也有这种情况。
+患者:不是上火引起的！
+医生:如果尿液结果没问题，一般都是喝水少引起的，问题不大～
+患者:再见
+
+Summary:
+恩~好的。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

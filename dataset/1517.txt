@@ -1,0 +1,21 @@
+Dialogue:
+
+患者:干燥综合征输环磷酰胺什么作用（女，28岁）
+医生:抑制免疫反应，尤其有肺间质病变着者
+患者:哦
+患者:副作用大吗，那是化疗药
+医生:一般可以导致骨髓抑制，肝损坏，充血性膀胱炎，闭经等
+患者:哦
+医生:需要检查上面的副作用
+患者:血沉高怎么回事
+医生:应该与免疫病活动有关
+患者:哦
+
+Summary:
+建议在风湿科正规治疗
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

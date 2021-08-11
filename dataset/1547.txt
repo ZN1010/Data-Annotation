@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:女，77岁，心脑血管疾病，（男，22岁）
+医生:脑梗塞，冠心病么？平时血压高么，有血糖，血脂异常么
+
+Summary:
+得了心脑血管疾病后主要治疗是二级预防,也就是防止再犯,治疗主要针对危险因素治疗,如高血压,高血脂,糖尿病,吸烟等,平时可以吃点银杏叶胶囊或者脑心通胶囊预防,阿斯匹林片是预防主要措施100mg/日,有动脉硬化,血管狭窄要加用他汀类药物。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

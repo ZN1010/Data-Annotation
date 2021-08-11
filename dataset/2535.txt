@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:失眠症老咳嗽头痛疲惫（女，45岁）
+医生:您好！您的症状与失眠有关。
+医生:可试用安眠药物改善睡眠质量
+医生:若效果不佳，建议做个多导睡眠监测看看各个睡眠时相是否有异常，根据具体情况制定相应方案。
+
+Summary:
+睡眠障碍表现多种多样,病因较多,具体情况需具体分析。找出确切的病因,去除病因有针对性治疗是关键。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

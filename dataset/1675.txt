@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:不射精症的所有检查项目大概多少费用？（男，28岁）以前经常手淫
+医生:你好，查性激素六项和B超不过五百元
+医生:手淫可射精吗?
+患者:可以
+医生:做爱时不射精吗?
+患者:是的
+医生:那问题不大
+患者:可是至少十年了
+
+Summary:
+调整好有利于你性感受的性交姿势，肌注HcG2000u，一周二次，服用复方玄驹胶囊，试试看，会好的
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

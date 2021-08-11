@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:婴儿九个半月，有口腔炎怎么治疗程度为中度，谢谢您了
+医生:你好。平时注意口服清洁，多喂水。口腔局部喷西瓜霜喷剂。
+患者:需要打点滴吗，能根治吗
+医生:多不需要。平时多注意就可以了。多会很快好转。
+患者:一般要几天能好，需要补维生素吗
+
+Summary:
+多喂水，注意口腔清洁，口腔喷药。正常情况下一周左右多会好转。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

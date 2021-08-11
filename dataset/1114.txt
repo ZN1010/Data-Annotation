@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:扩张性心肌病食疗，鹿心朱砂怎么用？（男，62岁）彩超后期诊断酒精性心脏病。鹿心血红枣做引，归心草泡水喝可否？
+医生:是偏方吧！红枣，朱砂都是安神药，
+患者:鹿心朱砂据说有千年历史，想确认一下计量
+医生:鹿心是以心补心，不知效果如何，扩张性心肌病要低盐低脂饮食，少饮水，避免劳累及情绪激动，保持大便通常等。
+患者:谢谢 一直在阜外就医
+医生:我觉得这行种偏方还是不太可靠。
+
+Summary:
+如有不适去正规医院就诊。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

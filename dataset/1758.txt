@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:阴虱病怎么办用什么药，感觉很不舒服（男，21岁）
+医生:您好，建议您首先把阴毛剃光，再外用百部酊治疗。
+患者:可以洗澡吗
+医生:可以的。
+患者:有其他药吗
+患者:百部酊是药膏还是什么
+
+Summary:
+建议您使用硫磺皂洗澡会更好的。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

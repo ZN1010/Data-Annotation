@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:我的了前列腺炎症好治吗？（男，19岁）
+医生:你好，很高兴为您服务！
+医生:确诊了吗？
+患者:还莫有
+医生:没确诊，就不要乱想，增加自己的心里负担
+
+Summary:
+没确诊，就不要乱想，增加自己的心里负担
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:早期先兆流产的孕妇能吃咸饼干吗？（女，33岁）
+医生:可以吃啊 饼干有什么关系
+患者:嗯
+医生:嗯
+
+Summary:
+先兆流产饮食上注意清淡 不要吃活血的定西 和生冷的定西。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

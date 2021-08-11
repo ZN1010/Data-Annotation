@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:原发性高血压如何处理（男，1个月）最高140……180
+医生:发现高血压有多长时间了？
+医生:高血压治疗原则：1、改善生活方式，养成良好的生活习惯，按时作息；2、戒烟限酒；3、低脂低钠饮食，控制血脂水平；4、适当运动锻炼；5、药物控制血压。
+医生:药物选择长效药。
+
+Summary:
+高血压的治疗中,非药物治疗也很重要。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

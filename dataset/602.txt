@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:男生，21岁，请问解脲支原体感染容易复发吗？
+医生:你好、对男性来说解脲支原体不容易复发
+患者:五月九去检查，解脲支原体感染，吃了十二天药，停药两天再去复查，转阴性了
+医生:那就没有问题了
+医生:安心
+患者:这两三又尿频尿急，喝完水后一个小时内三四次小便，有时候又正常，喝完水一个多小时没小便
+
+Summary:
+调整心态、正常生活
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

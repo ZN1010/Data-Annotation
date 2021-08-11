@@ -1,0 +1,25 @@
+Dialogue:
+
+患者:结核性腹膜炎应该注意些什么（男，19岁）
+医生:你好！结核性胸膜炎多长时间啦
+患者:是腹膜炎啊
+医生:在吗
+医生:多长时间啦
+医生:应该注意感冒
+患者:都住院20多天了
+医生:奥
+患者:医生今天才确认是这个病 说是不久能出院
+医生:现在没有什么症状啦吗？
+患者:想咨询一下 以后要注意些什么
+医生:以后注意感冒
+医生:加强锻炼
+医生:右上角有个评价，帮忙送一个‘’很满意‘’哦，谢谢！！！
+
+Summary:
+适当锻炼身体，注意感冒，同时适当加强营养
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

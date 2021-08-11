@@ -1,0 +1,21 @@
+Dialogue:
+
+患者:，用蛋清做面膜会感染禽流感吗？（女，29岁）
+医生:你好，这个是不会的，没有禽流感病毒怎么会传染呢？
+医生:你好，这个是不会的，只有带有禽流感病毒的禽类才能传播禽流感
+患者:也就是说不一定是吧
+医生:肯定不会
+患者:好
+患者:谢谢
+医生:不用谢！祝你开心😄
+患者:你也一样
+医生:谢谢你！
+
+Summary:
+蛋清做面膜是不会传播禽流感的,只有带有禽流感病毒禽类的粪便、分泌物污染后食入才可感染禽流感。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

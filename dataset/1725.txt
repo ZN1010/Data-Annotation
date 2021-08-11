@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:我最近浑身不自在，感觉就像激素分泌异常似的。坐着躺着时间稍微长一点就感觉心痒痒，像蚂蚁咬似的。昨天晚上就是这样，根本睡不着觉，阴茎持续勃起。我这是怎么了？（偶尔手淫，放假在家）（男，18岁）
+医生:您好，很高兴为你解答
+患者:吃的也都正常，就是甜的吃的多
+医生:你好，这种情况需要你运动调节
+医生:精力太旺盛，需要适当宣泄
+医生:运动是非常好的选择
+
+Summary:
+合理运动,分散精力。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

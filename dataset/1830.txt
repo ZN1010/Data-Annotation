@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:结核感染是什么 要紧吗 会怎样（男，59岁）
+医生:你好，你是怎么知道自己结核感染的。
+患者:说考虑左肺上叶陈旧性结核
+医生:陈旧性结核是说明你以前得过肺结核，不太重，自己好了，这个一般没有事，只是在肺上留一些阴影。
+患者:会不会变严重
+医生:一般不会，但平时也注意少感冒，尤其发热早治疗，以免引起的引起肺炎而加重。
+
+Summary:
+陈旧性结核是说明你以前得过肺结核,不太重,自己好了,这个一般没有事,只是在肺上留一些阴影。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

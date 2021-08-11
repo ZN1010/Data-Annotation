@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:请问医生检查心内膜炎应该用什么检查？（男，24岁）
+医生:做病理活检检查比较准确。
+患者:心电图或者x光能不能检查？
+患者:经常感觉心脏左边会痛，请问医生什么原因？
+医生:心电图和X光对心内膜炎诊断意义不大。
+
+Summary:
+胸痛除了考虑心肺疾病原因，还有消化系统疾病原因。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

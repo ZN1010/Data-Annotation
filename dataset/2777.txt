@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:胆脂瘤手术后能吃桑葚和椰果吗？
+医生:你好，这个没有禁忌，可以吃的！
+患者:就是说这个手术后吃水果没有禁忌吗？
+医生:是的，没有禁忌
+患者:那有哪些是不能吃的呢？
+医生:不要吃辛辣食物
+患者:好的，谢谢医生
+
+Summary:
+不要吃辛辣食物。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

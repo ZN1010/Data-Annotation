@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:130/89是高血压吗？在美国80以上是属于高血压，给吃baby阿司匹林家里有中风病历
+医生:临界高血压。。。。。
+医生:你几岁呢
+患者:1972年出生
+医生:建议低盐饮食，适当运动，暂时不用吃降压药
+患者:ok
+患者:谢谢
+医生:祝您健康，有事再联系
+
+Summary:
+建议低盐饮食,适当运动,暂时不用吃降压药。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

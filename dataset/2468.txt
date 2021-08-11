@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:心脏冠脉回旋支被堵了，严重不？（男，64岁）
+医生:心梗了吗 别的血管有事吗 回旋支大吗
+医生:心脏三根大血管 回旋支 前降支 右冠脉 以前降支为主要血管 最重要 出问题会猝死 右冠脉次之 掌控心律 及心率 回旋支以大小定论 太小太细不需处理 例如直径小于2毫米 就是发病 一般不致命
+患者:好像回旋支还是较粗，医生建议放支架，但是没有打通又送回病房了，建议保守治疗
+医生:嗯 闭塞时间长就不好打通 保守治疗 逐渐活动 侧支循环长好不影响
+
+Summary:
+好好吃药 忌烟酒 适度运动。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

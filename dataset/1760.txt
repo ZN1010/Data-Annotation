@@ -1,0 +1,20 @@
+Dialogue:
+
+患者:您好。我想问一下做过卵巢畸胎瘤手术能顺便吗顺产
+医生:你好，这样的手术一般不会妨碍正常生产的
+医生:手术后多久
+医生:一年内不应该有分娩，以防原有的刀口撕裂
+医生:还有咨询吗
+医生:希望我的回答有利于你的治疗和康复，欢迎你再次咨询
+医生:祝你健康，愉快，幸福，早日复康
+医生:本次咨询后请能对我的回答和服务态度做出评价
+患者:大概三年了
+
+Summary:
+卵巢畸胎瘤手术后三年将不在影响正常分娩。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

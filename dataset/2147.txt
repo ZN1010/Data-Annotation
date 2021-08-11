@@ -1,0 +1,22 @@
+Dialogue:
+
+患者:现在杀鸡回感染禽流感吗？（男，18岁）
+医生:你好！不是疫区不可能感染
+医生:你什么地方
+患者:浙江
+患者:余杭
+医生:这个地方没有报禽流感
+医生:帮忙送一个‘’很满意‘’哦，谢谢！！！
+患者:那应该不会感染是吧
+医生:不会感染
+患者:好
+患者:谢谢
+
+Summary:
+不在禽流感疫区,不可能感染。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:肿瘤会死吗？腹部都是肿瘤，不疼（女，51岁）
+医生:什么肿瘤？原发灶在那里？
+患者:不知道是什么肿瘤，就是在腹部
+医生:这个需要检查才能明确
+
+Summary:
+到院就诊,需要检查才能明确。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

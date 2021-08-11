@@ -1,0 +1,22 @@
+Dialogue:
+
+患者:淋巴管瘤是癌症吗？怎么治疗（女，29岁）女，4岁
+医生:你好，属于癌症的一种
+医生:目前什么症状？
+医生:通过什么检查出来的？
+患者:彩超，耳后包块
+医生:这个需要做病理检测！
+患者:用药就消下去，还可以抽出积液
+患者:过段时间又长
+医生:建议取病理组织化验，没有病理怎么知道是淋巴管癌的？？
+患者:医生说的
+医生:必须有病理才可以确诊
+
+Summary:
+建议取病理组织化验,病理是诊断金标准。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

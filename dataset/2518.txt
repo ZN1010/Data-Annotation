@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:腹痛腹泻几年了，可以用针灸治疗吗（男，26岁）
+医生:你好，时间长需要做肠镜找原因的！
+患者:刚做过所有检查都没什么问题啊，就是吃西没有效果
+医生:可以中药灌肠！
+
+Summary:
+多注意休息及清淡营养饮食,不要熬夜、劳累,不要吃辛辣肥甘厚腻食物。建议配合医生调理,有利于身体健康。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

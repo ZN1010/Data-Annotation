@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:我儿子4岁8个月了，咳嗽好几天了，去儿医院看了两次，还是咳嗽，现在晚上咳的厉害，白天不怎么咳嗽，吃了药也不见好转，去看了，医生说是咽喉发炎了，可为什么吃了药还是咳呢？急死了我，晚上我都不能睡觉，看着他咳嗽好心疼呀！儿童医院是最好的医院了，都看不好，该怎么办？（女，29岁）
+医生:有没有检查扁桃体和腺样体的情况？有鼻塞症状吗？
+
+Summary:
+这个年龄段的孩子容易因为扁桃体和腺样体肥大引起鼻塞睡眠打鼾的症状,症状严重需要及时就医必要时手术治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

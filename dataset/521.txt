@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:问一下医生 热伤风都什么症状 严重吗（女，16岁）
+医生:你好，热伤风就是感冒症状加上嗓子疼痛的症状等
+医生:不严重，吃点感冒药加上清热解毒药物就行了
+
+Summary:
+热伤风可以用感冒药加清热解毒药物治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

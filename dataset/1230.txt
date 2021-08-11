@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:心房性早搏怕吗，高中生用停止学习吗（女，16岁）
+医生:心悸症状明显吗？会不会影响日常活动？一天有几次早搏？做过相关检查吗
+医生:房性早搏一般不影响日常生活，但如果一天次数太多，如有几千次，那样就诊，查一下原因，比如，做个动态心电图，心脏彩超，甲状腺功能
+
+Summary:
+房性早搏一般不影响日常生活,但如果一天次数太多,如有几千次,那样就诊,查一下原因,比如,做个动态心电图,心脏彩超,甲状腺功能,一般不用停止学习。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

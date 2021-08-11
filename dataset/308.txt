@@ -1,0 +1,22 @@
+Dialogue:
+
+患者:冠心病，心功能不全，累，吃不下饭……（男，79岁）
+医生:心功能不好可以有胃纳差，关键是找到心功能不好的原因
+医生:做过心脏彩超、心电图和冠脉造影吗
+患者:冠脉照造影没有
+患者:医生每次都说心功能不好
+医生:依据是什么
+患者:我也不知道，还说心衰
+患者:都是教授说的
+患者:开的药有欣康 生脉 地高辛
+患者:之内的药
+医生:做心脏彩超看看，如果心功能差，肯定有原因
+
+Summary:
+建议心内科专科全面检查，明确心功能不全的原因
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

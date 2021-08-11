@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:大便不顺畅不成形都有半年了。每天就一次大便。左下腹痛平躺时摸到一个管子的东西。大便浆糊状？肛门下坠感。（男，31岁）
+医生:你好，考虑有可能是脾虚湿热造成的
+患者:什么
+医生:肛门下坠考虑有可能是肛窦炎
+患者:什么意思
+患者:我这个都有半年了
+
+Summary:
+大便不成型主要是体质因素造成的,一般气虚湿热体质容易出现,肛门下坠跟大便不成形关系不大,考虑有可能是肛窦炎。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:我血小板增多症 该注意点什么（女，74岁）
+医生:血小板增多，容易导致血栓形成，需要进一步明确下是什么原因导致。
+医生:在积极病因治疗的同时，注意监测出血凝血情况，以及血小板变化，配合医生积极治疗
+医生:血小板增多症特征为出血倾向及血栓形成，外周血小板明显增多，功能不正常。患者需要做好病情的监护，以及规范化治疗，定期复查，不适随诊。
+
+Summary:
+血小板增多症,要注意学会自我监督,动态观察,在医生指导下科学诊治。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

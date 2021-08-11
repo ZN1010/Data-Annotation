@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:宝宝水痘感觉想破   正常吗？（男，1个月）
+医生:你好，水痘破掉很正常的
+患者:破了能洗澡吗
+医生:还没有结痂的话，最好先别洗，以防继发感染。
+
+Summary:
+有事可以再联系。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

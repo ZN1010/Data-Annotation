@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:阴茎勃起时用手把包皮拉下来是包茎吗（男，19岁）
+医生:能够露出来龟头不属于包茎，属于包皮过长
+患者:之前有医生说是假性包茎，会影响以后生活吗，是否需要动手术
+医生:假性包茎就是包皮过长
+医生:注意每天清洗，仍然反复发炎，早泄，遗精等等问题，应该手术。否则不需要手术。
+
+Summary:
+可以加关注，有泌尿外科男科问题再咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

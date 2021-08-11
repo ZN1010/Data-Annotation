@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:做爱有时勃起很硬，有时又不硬，什么情况（男，25岁）
+医生:你好，这是正常的，就像你的心情一样，会有波动的，不要紧张。
+患者:谢谢
+医生:不客气，祝您生活愉快！
+
+Summary:
+针对本次问诊,医生更新了总结建议:针对本次问诊,医生更新了总结建议:针对本次问诊,医生更新了总结建议:祝您生活愉快!希望您给予客观平价,欢迎您关注我,利于有问题咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

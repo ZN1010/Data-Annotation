@@ -1,0 +1,22 @@
+Dialogue:
+
+患者:子宫内膜异位囊肿是什么（女，28岁）
+医生:你好，很高兴为你服务
+患者:您好
+医生:子宫内膜异位症引起的囊肿一般叫巧克力囊肿
+医生:因为它的囊液像巧克力
+患者:B超单上，左侧卵巢内可见一大小约1.93*1.02cm无回声区
+医生:有没有腹痛，做过CA125没
+患者:没有腹痛，ca125是什么
+医生:做这个检查可以判断是不是子宫内膜异位症
+患者:做这个B超，上面写的是“考虑子宫内膜异位囊肿”
+医生:所以查一下CA125
+
+Summary:
+生活规律，定期复查
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

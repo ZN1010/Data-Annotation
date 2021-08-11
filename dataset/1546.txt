@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:鱼刺卡在喉咙，一天了，咽东西的时候不疼，咬的时候有点，还有抽烟的时候也会，这样的情况是鱼刺还在不在？（男，22岁）
+医生:有可能在，建议去医院检查一下
+患者:就是咽下去的时候没感觉
+医生:最好取出来
+患者:嗯嗯，谢谢
+医生:不客气哈
+
+Summary:
+祝早日康复。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:哭 哦哦呼呼呼好 going你（男，20岁）
+医生:精神病？内心极度空虚？学会用知识武装自己，年轻人，光阴似箭，莫虚度啊
+
+Summary:
+我们要重视心理疾病的治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

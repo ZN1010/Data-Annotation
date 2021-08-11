@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:门诊患者问题已经创建，开始与医生交流吧~
+医生:你好，收到问题，正在给你解答
+医生:请问有什么不舒服呢
+患者:腿上有痛风，怎么治疗比较好？
+医生:痛风主要是尿酸增高引起的，饮食避免高嘌呤食物
+
+Summary:
+痛风主要是尿酸增高引起的，平时饮食注意避免高嘌呤食物
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

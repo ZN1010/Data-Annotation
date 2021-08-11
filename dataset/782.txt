@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:我员工患扩张型心肌病，这病严重吗（男，40岁）
+医生:这种病目前没有好的治疗方法，病情逐渐发展会严重。
+患者:寿命有多久
+医生:很难说。
+患者:他才29岁
+
+Summary:
+扩张型心肌病是一种原因未明的原发性心肌病。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

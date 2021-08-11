@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:过敏性哮喘早上起来咳嗽的原因（女，30岁）
+医生:咳嗽的时候咽喉痒么？
+医生:咳嗽原因：1、咽喉部、气管等呼吸道分泌物的刺激，气管反射性收缩引起咳嗽；2、过敏性哮喘，引起的咳嗽属于气道过敏性炎症。分为致病因素和诱发因素。如变应原、细菌、病毒因素等
+
+Summary:
+咳嗽原因:1、咽喉部、气管等呼吸道分泌物的刺激,气管反射性收缩引起咳嗽;2、过敏性哮喘,引起的咳嗽属于气道过敏性炎症。分为致病因素和诱发因素。如变应原、细菌、病毒因素等。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

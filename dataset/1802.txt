@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:昨天喝了酒，吐了。今天胃不舒服，唾液特别多。怎么回事呢，吃点什么药？谢谢啦（男，23岁）
+医生:适当应用质子泵抑制剂，可适当摄入甜食
+患者:刚才吃了晚饭，又吐了。怎么办呢
+医生:去医院用止吐药
+
+Summary:
+去医院用止吐药。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

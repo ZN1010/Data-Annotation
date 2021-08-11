@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:先知道肾上腺肿瘤得挂哪一科的号啊（男，53岁）
+医生:你好！很高兴为您解答问题！
+医生:肾上腺肿瘤可以挂泌尿外科或者内分泌科
+患者:哦，好的，谢谢
+医生:保守治疗的话可以去肿瘤科
+
+Summary:
+肾上腺肿瘤可以挂泌尿外科或者内分泌科。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

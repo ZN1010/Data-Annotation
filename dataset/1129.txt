@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:妻子摔跤后颅内出血，送到医院的时候（女，28岁）
+医生:您好！请把片子发给我看看，我可以帮您出点主意。
+
+Summary:
+颅内出血,一般幕上出血(就是大脑出血)超过30毫升就可以考虑手术治疗,幕下(就是小脑出血)超过15毫升就可以考虑手术治疗。当然还需要结合瞳孔神志和生命体征综合判断。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

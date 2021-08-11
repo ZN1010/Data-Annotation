@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:脑肿瘤手术费一般得多少钱（女，50岁）
+医生:您好，关于费用不同级别医院收费标准是不一样的
+医生:另外，不同省份因经济发展水平不同，收费也不同
+医生:具体多少您可以咨询您准备就诊的医院
+
+Summary:
+,关于费用不同级别医院收费标准是不一样的,详细标准可咨询拟就诊的医院。祝福。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:子宫内膜厚做了无痛刮宫，医生就给交代不能盆浴，一个月内不能同房，还有其他注意事项吗（女，27岁）
+医生:你好，其他的就是不要热敷，另外生冷辛辣食物不要吃
+患者:哦哦，不需要特意卧床休息啊，什么时候可以要小孩呢
+医生:不需要特意卧床，一般建议3-6个月后备孕
+患者:等这么久，内膜不会再变厚吧
+
+Summary:
+,这个只能定期复查看看。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

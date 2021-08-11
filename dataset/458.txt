@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:左扁桃体结石是什么？（男，31岁）
+医生:慢性扁桃体炎引起的。是白色的。它是小脓栓聚集起的。
+患者:怎么处理
+医生:自己可以掉，也可以到医院，取出。也可能做手术。
+患者:遇刺激气味或粉尘，就会咽痒咳嗽喷嚏鼻塞，是不是它引起的
+医生:应该不会。
+患者:那会是什么原因
+医生:抵抗力下降，对某种物质过敏。
+
+Summary:
+扁桃体炎反复发作,如控制不住,可以考虑手术治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

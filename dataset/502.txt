@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:病毒性结膜炎用埃美汀滴眼液可以吗？（女，30岁）
+医生:你好，很高兴帮你解答
+患者:你好
+医生:如果是确定是病毒引起的结膜炎，建议使用利巴韦林或者阿昔洛韦等抗病毒眼药水，埃美丁眼药水是抗过敏的眼药水
+患者:现在眼角有点出血状态
+患者:用埃美汀滴眼液管用吗？
+
+Summary:
+如果去医院检查考虑是病毒引起的结膜炎，建议你还是使用利巴韦林或者阿昔洛韦眼药水
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

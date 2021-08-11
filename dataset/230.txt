@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:我想知道我的脚是不是扁平足（男，16岁）
+医生:建议到医院骨科或足外科检查
+医生:我在网上无法为你亲自检查
+患者:奥，这些医生
+患者:谢谢医生
+医生:听我建议，结果可以告诉你的
+医生:欢迎咨询
+
+Summary:
+足部病很多,扁平足只是一种,除主观症状外,医生通过检查及拍拍片明确诊断。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

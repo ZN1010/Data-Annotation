@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:长期喝有沙子的水会怎么样 最近水龙头水有沙子放那沉淀之后看还有发光的物体估计是没有重量的沙.买了个过滤器妈妈不用 她就这么喝我告诉她会肾结石！其实我也不知道沙喝多了会怎么样（女，26岁）
+医生:你好，一般情况是没有什么问题的
+医生:肾结石一般饮水少会引起，有沙子还是等沉淀一下
+医生:还有其他疑问，很荣幸再次回答。祝你们身体健康，生活愉快。
+
+Summary:
+肾结石一般饮水少会引起,有沙子还是等沉淀一下。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

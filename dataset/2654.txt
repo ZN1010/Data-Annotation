@@ -1,0 +1,22 @@
+Dialogue:
+
+患者:您好我末次例假是11月10日今天去做了HCG血检帮忙看看这个值正常吗 结果：3020 单位：mIU/mL 卵泡期：<3mIU/mL
+医生:是怀孕了啊，值还行，做孕酮了吗？
+患者:去医生只开了HCG所以就没有做
+患者:孕酮
+患者:没做孕酮
+医生:哦，下周日可以复查HCG，孕酮，彩超也可以做了
+患者:需不须要再做个孕酮
+患者:恩好的
+患者:下周做B超再做好了
+医生:如果没有流血，腹痛可以下周一起做
+医生:嗯
+
+Summary:
+早孕,建议定期复查孕酮,HCG,到期做彩超。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

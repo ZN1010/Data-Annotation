@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:房颤，心脏消融术，风险，（女，51岁）
+医生:房颤消融分内科介入和外科，但远期都有复发机率
+患者:我母亲，51岁检查房颤，医生建议做射频消融术，还有其他办法吗，这手术算大手术么，
+医生:作过心脏B超吗
+患者:做过
+医生:有血栓吗，心房大吗，瓣膜有问题吗
+
+Summary:
+房颤消融术风险。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

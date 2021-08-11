@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:怎么治疗弱精症，今天刚查的（男，27岁）
+医生:可以口服生精胶囊治疗
+患者:要多久可以恢复
+医生:这个就不好估计，你的程度是什么样的？
+医生:引起弱精的原因检查没用？
+患者:A级12.54
+患者:B21.19
+医生:一个月后复查，有希望
+
+Summary:
+口服药物治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:肾病综合症主要吃什么药为主（男，25岁）
+医生:你好，造成肾病综合症的病因有很多，不同病理类型治疗方案不同，请问你做过肾穿刺吗？
+患者:做了
+医生:请把病理报告发上来
+患者:现在没在家，发不了晚点吧，好像记得是蛋白质有2个加
+医生:24小时尿蛋白定量及白蛋白多少
+患者:现在主要药物是激素《强的松》
+医生:看你病理后我再回复你吧
+
+Summary:
+肾病综合症的治疗,肾穿刺病理相当重要,往往决定了后续治疗方案,疗程,预后。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

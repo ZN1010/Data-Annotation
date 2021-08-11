@@ -1,0 +1,20 @@
+Dialogue:
+
+患者:肝癌肝肿瘤吃什么药？（男，22岁）
+医生:主要以介入，化疗栓塞，冷冻，手术为主。
+患者:吃什么中药好？谢谢，
+医生:目前常用的靶向药物是索拉非尼
+医生:一般都是中西医结合治疗，中药的话，人参皂苷效果不错
+患者:能痊愈吗？
+患者:哦，谢谢
+医生:肝癌是恶性肿瘤，除非肝移植，不能痊愈。
+医生:不客气
+
+Summary:
+原发性肝癌是恶性肿瘤，主要以手术，肝动脉化疗栓塞，射频，介入等治疗为主，配和中医调理扶正固本，提高机体免疫力。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

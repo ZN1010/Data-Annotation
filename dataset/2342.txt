@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:耳朵的耳垂靠耳骨的地方长了一个硬的小块一摸还很疼，最近感冒挂水吃药是过敏反应还是体质下降？（女，30岁）
+医生:到医院检查一下看看好吗？
+医生:你照个照片我看一下好吗？
+
+Summary:
+有问题可以咨询我的。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

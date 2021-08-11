@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:腿粗腿短，矮胖，腿歪（女，14岁）
+医生:你好，很高兴为你解答找到
+医生:建议每天坚持慢跑，跳绳游泳
+
+Summary:
+针对本次问诊,医生更新了总结建议:针对本次问诊,医生更新了总结建议:针对本次问诊,医生更新了总结建议:针对本次问诊,医生更新了总结建议:减肥是一个长期系统工程,是需要循序渐进的,减肥主要是每天控制食物中的热量和运动同时结合才是最有效,最科学的方法,你是清淡少食多餐多吃蔬菜和水果,每天喝水1800毫升每天坚持慢跑40分钟。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

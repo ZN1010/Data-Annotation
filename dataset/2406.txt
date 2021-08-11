@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:你好，我刚买的惠氏孕妇奶粉再喝，请问在奶粉里面兑点蜂蜜一起喝可以吗？（女，19）
+医生:你好，我不建议您放这个应该很容易导致奶粉里面的成分，就是被影响，吸收不好
+患者:哦，那先喝奶粉后喝蜂蜜可以吧？
+医生:这个可以，你中间可以大概间隔有一个一小时吧
+患者:好的，谢谢
+
+Summary:
+别客气，有不明白的可以随时再来咨询我
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

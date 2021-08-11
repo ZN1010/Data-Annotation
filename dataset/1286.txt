@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:产妇羊水栓塞是什么意思？（女，27岁）
+医生:你好，这是一个挺复杂的医学知识。
+医生:简单的说就是包裹在羊膜囊里的羊水进入到孕妇的血液循环里引起的一系列病理改变。
+医生:最明显的就是呼吸循环系统出现障碍导致病人猝死。
+患者:哦，知道了谢谢医生
+
+Summary:
+羊水栓塞是个复杂的医学问题,简单的说就是包裹在羊膜囊里的羊水进入到孕妇的血液循环里引起的一系列病理改变。病情严重者可在几分钟猝死。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

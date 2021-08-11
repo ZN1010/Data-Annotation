@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:五十天宝宝   拉肚子   妈妈可以吃葡萄  和苹果么？ 【本问题来自帮宝适用户，目前只支持单次文字交互，即用户只能看到第一条提交的回复内容、无法追问，请您根据用户描述的症状直接解答，谢谢】
+医生:可以，适当补充果蔬，有利于母乳营养。
+
+Summary:
+宝宝的营养来自于妈妈,妈妈应荤素搭配,适当补充果疏更有利于宝宝营养发育,尤其是腹泻恢复期更需要维生素的补充。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

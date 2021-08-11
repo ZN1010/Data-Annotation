@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:过敏性哮喘怎么治疗，好治疗吗？（女，45岁）
+医生:支气管哮喘关键要控制症状，降低发作的各项风险。建议患者要到医院进行评估。比如做问卷测试，或者做肺功能检查。等。这样评估后就可以针对性给与恰到好处的治疗了。
+
+Summary:
+养成良好的健康生活方式对每个人的健康有利。可以参看我发起的多个健康话题。也许对你有用。祝身体健康。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

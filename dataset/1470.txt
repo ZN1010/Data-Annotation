@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:疤痕体质会不会遗传啊？（男，0个月）
+医生:你好，我是王医生，有一定机率遗传
+患者:我朋友是那种胸前背后都长东西的，十几岁就有了，之前也看过没用。今天又去海南187医院看，医生说是疤痕体质。那个东西也治不好
+医生:不好治，花费比较大，容易复发
+患者:谢谢昂，
+
+Summary:
+1保持卫生干净,2避免受伤挂碰。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

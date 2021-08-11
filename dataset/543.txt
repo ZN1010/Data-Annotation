@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:失眠症有什么办法调理?（男，36岁）
+医生:失眠多长时间了?晚上一点都睡不着吗？
+
+Summary:
+失眠大多与思虑过多有关,建议平时睡前尽量别喝咖啡、茶、喝酒、红牛等功能性饮料,睡前别看书看电视、玩电脑、玩手机,还有就是白天尽量别睡觉,早上不要太贪睡,纠正一些睡眠的不良习惯。建议可到医院心理科就诊,开些帮助睡眠的药物,同时让医生做一下心理疏导。调整自己的心态,改变自身不良睡眠习惯,必要时可以口服唑吡坦改善睡眠。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

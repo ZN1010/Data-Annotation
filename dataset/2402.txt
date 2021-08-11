@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:为什么静脉血栓形成多于动脉血栓形成？（男，20岁）
+医生:静脉血流速度比较慢。这是一个原因
+患者:嗯嗯
+医生:好的，别忘了对我评价
+
+Summary:
+静脉血流速度比较慢。受外界促凝因素影响较大。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

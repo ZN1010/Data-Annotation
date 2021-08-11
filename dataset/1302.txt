@@ -1,0 +1,20 @@
+Dialogue:
+
+患者:老人，心房扑动怎么改善（男，84岁）
+医生:你好！请问老人房颤多长时间了？
+医生:有没有做过心脏彩超
+患者:都做了，房颤也是一起检查出来的
+医生:心房大吗
+患者:大
+医生:方便把心脏彩超结果发给我吗
+患者:一会好吗
+医生:可以
+
+Summary:
+有时间可以随时联系我。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

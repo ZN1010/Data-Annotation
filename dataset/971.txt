@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:食物中毒症状是什么呀（男，39岁）
+医生:您好！食物中毒主要表现：恶心、呕吐、腹痛或腹泻，每个人都不一样！
+医生:有的这些症状都有，有的只表现其中一个或几个症状！有的还可能有发热！
+医生:与食物污染物有关：如微生物是细菌、病毒、农药等。
+
+Summary:
+!食物中毒主要表现:恶心、呕吐、腹痛或腹泻,每个人都不一样。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

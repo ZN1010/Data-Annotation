@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:22岁了 还遗精是怎么回事（男，22岁）是不是太想嘿咻了  然后憋回去了呢？
+医生:这个年龄偶尔遗精属于正常现象，
+医生:经常遗精注意是否包茎，包皮过长，尿道炎，前列腺炎等等疾病引起的。注意是否内裤过紧，被子过重等等。注意避免黄色视频等等不良刺激。
+
+Summary:
+可以加关注,病情变化或有其它泌尿外科男科问题欢迎咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

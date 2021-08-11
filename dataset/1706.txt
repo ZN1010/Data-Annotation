@@ -1,0 +1,22 @@
+Dialogue:
+
+患者:植物神经紊乱吃什么药？（男，19岁）
+医生:可以口服安神补脑液或健脑片缓解症状，关键在于自己调节，适当活动。
+患者:甲钴胺片可以吗？有没有用哦
+医生:用处不大。
+患者:嗯嗯
+医生:好的！
+患者:感觉这个病没有什么有效的治疗手段，
+患者:几乎治疗不好
+医生:关键在于自己调节，注意休息调节，适当活动，心情愉快。
+患者:好的
+医生:ok   ok!
+
+Summary:
+神经功能紊乱,可以口服安神补脑液或健脑片缓解症状,关键在于自己调节,适当活动。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

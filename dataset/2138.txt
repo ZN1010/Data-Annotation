@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:急性扁桃体炎烧39.5怎么办（女，24个月）
+医生:你好，39.5度需要用退热药，如退热栓或者口服布洛芬
+医生:最好明天去医院查个血象，白细胞增高明显的话需要输液
+
+Summary:
+扁桃体发炎有一定疗程,不能着急,中间发热就退热对症处理。精神反应不好及时去医院。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

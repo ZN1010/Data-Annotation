@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:急性菌痢晚期属于假膜性炎症吗（女，21岁）
+医生:你好，细菌性痢疾是肠道的炎症改变。
+医生:外毒素使肠粘膜受损，病变部位有多核细胞浸润，形成脓肿或溃疡。病变局部肠系膜淋巴结充血肿大
+患者:病理类型是假膜性炎吗
+医生:稍等一会回复
+医生:跟假膜没关，它是脓肿和溃疡改变
+
+Summary:
+如果你这个一个医学题,就是错的,它是炎症改变。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

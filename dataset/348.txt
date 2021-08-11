@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:我父亲得，心房扑动有没有啥治疗方法（男，55）
+医生:心房扑动可以用药物控制或者射频消融治疗。
+
+Summary:
+心房扑动患者,根据情况可以用药物控制或者射频消融治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

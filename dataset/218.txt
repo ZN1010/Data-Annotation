@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:症状好多了谢谢你的建议（男，25岁）
+医生:v 客气的，还要多喝水
+患者:好的
+医生:嗯
+
+Summary:
+最好最健康方法是规律生活不要熬夜,养成运动习惯提高免疫力,对全身脏器都有好处。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

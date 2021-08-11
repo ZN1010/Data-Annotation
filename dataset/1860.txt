@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:高血压怎样调理，谢谢（女，61岁）
+医生:您好！1、规范的药物治疗，2是饮食方面：低盐低脂饮食，以减少钠盐、减少膳食脂肪并补充适量优质蛋白，注意补充钙和钾，多吃蔬菜和水果、3、戒烟戒酒、科学饮水为原则。
+
+Summary:
+  1、规律服药2、低盐低脂饮食3、适量运动4、调节情志。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

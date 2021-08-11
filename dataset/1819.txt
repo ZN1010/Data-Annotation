@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:十七周感觉胎儿在动，是错觉还是真实的
+医生:如果你感觉比较敏感的话，可能就是胎动。你比较瘦吧
+患者:嗯，很多次都感觉到了
+医生:当妈妈是不是很幸福
+患者:呵呵，是啊
+患者:谢谢您嘞
+
+Summary:
+保持好心情!慢慢的体会当妈妈的快乐。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

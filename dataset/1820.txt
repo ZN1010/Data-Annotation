@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:慢性咽炎，鼻炎混合，鼻炎属于过敏性的（男，35岁）
+医生:从资料看，初步考虑：过敏性鼻炎，变异性咽炎。两者之间密切相关。
+患者:请问怎么治疗？
+医生:若放任不管，有可能发作成变异性咳嗽，过敏性哮喘。建议：口服西替利嗪抗过敏治疗，雷诺考特鼻喷剂喷鼻，择期到医院查找过敏源，明确原因，过敏源种类。
+
+Summary:
+口服西替利嗪抗过敏治疗,雷诺考特鼻喷剂喷鼻,择期到医院查找过敏源,明确原因,过敏源种类。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

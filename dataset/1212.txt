@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:雄性激素偏高怎么调理？（女，20岁）
+医生:到底高多少？可以用雌激素对抗。一般用黄体酮。
+
+Summary:
+如果雄性激素较好,最好查一下激素六项,排除内分泌疾病。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

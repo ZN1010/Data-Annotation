@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:汗蒸后关节很容易响，是不是钙被蒸流失了（男，25岁）
+医生:钙没有那么容易流失！有没有酸痛什么不舒服的？
+患者:有酸疼有时又没有
+医生:有可能是你本身就缺钙，或者关节本身就不好，汗蒸本是促进血液循环的，关节没通的时候就痛，也许多做几次通了就不痛了
+
+Summary:
+欢迎再次咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:
