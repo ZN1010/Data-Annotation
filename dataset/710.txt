@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:医生，你好，过敏性咽炎可以吃虾吗?（女，39岁）
+医生:假如到医院查找过敏原，对海鲜过敏，则不要吃。
+医生:如果查找过敏原未发现，就可吃
+
+Summary:
+假如到医院查找过敏原,对海鲜过敏,则不要吃。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

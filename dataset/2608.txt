@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:前列腺囊肿 吃了药还是老疼（男，22岁）
+医生:前列腺囊肿有多大，一般情况没有症状。
+患者:做个b超检查的是前列腺囊肿，前列腺大小 3.9×3.0×3.3
+医生:囊肿有多大
+患者:不大很小
+患者:现在右侧小肚子到下边疼，睾丸也疼
+医生:精索静脉曲张，输尿管结石B超查查
+医生:或者前列腺炎
+
+Summary:
+检查清楚疼痛的原因，治疗更有效。 可以加我关注，有问题再咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

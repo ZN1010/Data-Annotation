@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:大叶肺炎 但是支原体衣原体都是正常  拍x光 和 ct 显示大叶肺炎  13天了 还是没好转 人前几天正常了 昨天又高烧了（女，7岁）
+医生:您好，老人肺炎一般来说病情不轻，加上反复发烧等于没有治好
+医生:建议住院系统抗生素诊治
+
+Summary:
+,老人肺炎一般来说病情不轻,加上反复发烧等于没有治好。建议住院系统诊治。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

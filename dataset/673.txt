@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:医生我长大现在都不知道做爱的爽  我想看av你能不能给我说个网站（男，24岁）     做爱视频也行
+医生:你好。春雨医生只为患者服务。
+医生:您咨询的非医学问题。无法回答
+患者:你好能不能给我说个网站求求你了
+
+Summary:
+。咨询的非医学问题。无法回答。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

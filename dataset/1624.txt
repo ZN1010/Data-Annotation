@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:咨询一下一期梅毒的问题（男，31岁）
+医生:你好。好治的，青霉素不过敏的，只要打长效青霉素
+患者:我是高危两周发现硬下疳，四周确诊了RPR1:32以后当天注射青霉素，治疗四周后1:8，治疗八周后1:4.请问这个效果怎么样？
+医生:你好，效果不错。
+患者:RPR多久会转阴呢医生？我需要注意什么吗？可以性生活吗？
+医生:3个月左右。皮疹消退后可以性生活。
+患者:那我现在还有传染性吗？tppa有可能转阴吗
+医生:可以有。转不了阴。
+
+Summary:
+梅毒用青霉素治疗效果好。疗后要随访。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

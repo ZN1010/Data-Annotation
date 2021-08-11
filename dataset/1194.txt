@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:今天去了医院检查是急性尿道炎（男，21岁）
+医生:急性尿道炎需要抗感染治疗，并且多饮水。医生应该给你开了药。
+
+Summary:
+急性尿道炎需要抗感染治疗,并且多饮水。医生应该给你开了药。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

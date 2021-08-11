@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:女生熬夜有什么危害？（女，14岁）
+医生:熬夜首选对眼睛有危害，容易引起眼疲劳，引起近视，干眼症。尽量不熬夜
+
+Summary:
+影响身体健康。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

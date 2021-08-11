@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:请问腰椎间盘突出可以骑自行车吗（男，25岁）
+医生:你好很荣幸能回答你的咨询
+医生:可以的
+医生:但急性期不行哦
+患者:那对腰椎间盘突出是有好处吗
+医生:没什么好处
+患者:哦，知道了，谢谢
+医生:不用谢
+
+Summary:
+其实诊断一种疾病需要问诊(就是平常患者的诉说)体格检查,以及实验室检测等,所以医生也很少能直接通过问诊得出诊断,其实就评问诊诊断疾病也不科学。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

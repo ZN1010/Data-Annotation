@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:我姥爷一氧化碳中毒怎么办（男，69岁）
+医生:你好，需要进行高压氧治疗！
+
+Summary:
+,需要进行高压氧治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

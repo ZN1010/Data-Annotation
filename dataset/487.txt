@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:皮肤晒黑之后会不会造成黑色素沉积？（女，16岁）变回来之后会不会还有黑色素沉积
+医生:这个谁也没有办法保证的啊，避免继续日晒。
+患者:那这么说还是会有沉积
+医生:会的
+患者:有什么别的缓解办法吗
+医生:外用一些美白霜类产品
+患者:哦      我没问题了，谢谢！
+医生:不客气
+
+Summary:
+总结就是避免日晒哦。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

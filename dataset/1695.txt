@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:急性外耳道炎严重么？（女，22岁）
+医生:急性外耳道炎首先看你症状严重不？症状严重那么病情严重。
+患者:什么为轻？什么为重呢？
+患者:我就是疼 吃东西都疼
+医生:耳朵流脓，耳闷胀，听力下降，发烧为重，其他为轻。
+
+Summary:
+耳朵流脓,耳闷胀,听力下降,发烧为重,其他为轻。不是很厉害,可以先口服消炎药。必要时到医院就诊。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

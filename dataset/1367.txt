@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:请问脱肛咋治？老人67了（女，36岁）
+医生:你好，你说的脱肛是痔疮脱出吗
+医生:还是直肠脱垂
+患者:不出血，应该不是痔疮
+患者:六天不大便引起的
+医生:是肛门一圈脱出来吗
+
+Summary:
+平时保持大便通畅。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

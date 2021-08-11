@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:宝宝急性咽炎跟疱疹性咽峡炎一样吗
+医生:一样的，都是病毒感冒的
+
+Summary:
+急性咽颊炎和疱疹性咽颊炎都是病毒性感冒的,部分急性咽颊炎,也有细菌性感染!如果是病毒感染,是有一定的病程的!多是抗病毒治疗的!急性咽颊炎如果是细菌感染,应抗菌素应用。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

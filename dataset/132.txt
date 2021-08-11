@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:你好，请问子宫腺肌病，严重吗？
+医生:请问你年龄？有什么症状
+患者:26岁，没什么症状
+医生:这个病比较常见。我建议你去看看中医
+
+Summary:
+祝你健康快乐。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

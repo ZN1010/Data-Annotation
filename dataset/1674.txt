@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:鼻中隔偏曲需要做手术嘛？有什么危害啊（女，22岁）
+医生:一般鼻中隔偏曲，如果不影响鼻腔通气、双侧鼻腔没有炎症、没有反复鼻窦炎症的话，是可以不做手术的
+医生:但是，有上述那些症状的时候，就建议手术矫正了
+患者:哦哦，谢谢医生
+医生:不客气
+医生:鼻中隔偏曲矫正手术不是大手术，一般来说没有什么不好的影响
+
+Summary:
+鼻中隔偏曲时常见病,但并不是所有鼻中隔偏曲都要做手术的。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:血小板低吃什么药物以及食物？？？（女，19岁）
+医生:您好，很高兴为您解答，你目前有皮肤粘膜等出血表现没有？目前血小板是多少？
+医生:您好，针对血小板减少，没有什么很好饮食疗法，主要是要明确血小板减少对原因，明确诊断后才能有效治疗。
+
+Summary:
+建议到医院就诊明确血小板减少原因,尽早治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:老年人高血压，要吃什么药（女，27岁）
+医生:你好，血压多高？有没有其他疾病？
+患者:没有，高压120底压160，50多岁
+患者:请问要吃什么药
+医生:这个血压比较高，建议先去医院查肾功能和尿常规，排除高血压并发症
+
+Summary:
+每日吃盐不超过6克,低脂饮食,服用长效药物!注意并发症!有问题再联系,让健康伴随你。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

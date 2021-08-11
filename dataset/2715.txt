@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:精神恍惚，要死了！！！（女，16岁）
+医生:怎么不舒服么？？没有休息好么？？
+
+Summary:
+睡前喝一杯热牛奶,睡前热水泡泡脚,以微出汗为宜。再就是缓解压力,精神放松。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

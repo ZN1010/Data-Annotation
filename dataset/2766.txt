@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:功能性消化不良能吃奥美拉挫吗？（男，21岁）
+医生:有反酸嘈心症状可以吃
+患者:好像效果不明显
+患者:吃饭后一会儿一会儿就有呕吐，恶心的感觉，特别难受
+患者:能和健胃消食片一起吃吗？
+医生:可做胃镜检查了
+
+Summary:
+查一下胃镜确诊,可看医生吃中药效果好。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

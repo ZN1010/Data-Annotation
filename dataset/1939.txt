@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:稽留流产只留2天血好还是留5天血（女，19岁）
+医生:这个和流产时间关系不大，主要是看宫腔内还有无残留，一般建议做清宫
+患者:是清宫没错
+患者:留两天血而且很少是清的干净还是不干净
+
+Summary:
+清宫后可能会有一些出血,但是不会时间特别长,量也不会很多,反之则需要去医院就诊。同时,这种术后流血并不是清宫干净与否的证明,术后复查b超才是比较准确的。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

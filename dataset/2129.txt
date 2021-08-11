@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:糖尿病多发性骨髓瘤有发热（女，51岁）
+医生:你好！很高兴为您解答问题！
+医生:请问多发性骨髓瘤做什么治疗了？啥时候发热？体温最高多少？
+患者:一做了化疗一个疗成在家休息但是有发热38度
+医生:哦，复查个血常规
+医生:看看有无骨髓抑制
+
+Summary:
+多发性骨髓瘤化疗后出现发热。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

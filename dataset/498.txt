@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:肝血管瘤有0.8*0.8cm大小（男，30岁）
+医生:肝脏的血管瘤为良性病变，像您这种直径小于一厘米的血管瘤，不用特殊处理，也无需手术治疗，定期复查即可，用药也没有必要。
+
+Summary:
+肝脏小血管瘤的处理原则咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

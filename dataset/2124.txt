@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:把包皮弄开后，碰到龟头会很疼（男，15岁）
+医生:你好，很高兴为您服务！
+医生:龟头有无红肿？
+患者:没有
+医生:包皮能完全翻转吗？龟头能完全暴露吗？
+患者:能的
+医生:那就问题不大了，注意清洗
+
+Summary:
+那就问题不大了，注意清洗
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

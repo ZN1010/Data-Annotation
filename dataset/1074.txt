@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:冠心病气促吃红参还是西洋参效果好？餐后血糖必须是8点吃早饭吗？（女，48岁）
+医生:冠心病不建议没有医生指导服药，红参补气作用强，西洋参补气的同时会清热养阴，建议在医生指导下用。餐后血糖不一定非是八点
+
+Summary:
+冠心病建议平时口袋随时携带丹参滴丸或者消心痛,平时也可以服用丹参滴丸,心电图排除严重疾患。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

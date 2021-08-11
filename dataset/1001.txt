@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:本人反流性食管炎已经有增生了，检查出来3年了，还有慢性胃窦炎，这三年来，一直吃药，但是病情总是反复，请问这正常吗？（男，47岁）
+医生:你好，现在有什么症状吗？
+
+Summary:
+反流性食管炎规律口服药物一段时间,还要长期生活饮食调理,这样才能控制症状。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

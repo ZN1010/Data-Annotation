@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:求肝胆外科专家，咨询下胆石症！！！（男，16岁）
+医生:你好，胆石症是一种常见病，较小的胆囊结石，单发的小于2cm，无症状的静止性结石，均可以观察，不予处理，半年查一次B超即可。
+
+Summary:
+胆石症是一种常见病,较小的胆囊结石,单发的小于2cm,无症状的静止性结石,均可以观察,不予处理,半年查一次B超即可。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

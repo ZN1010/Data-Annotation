@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:腰疼一月，以前到医院看过，筋膜炎（男，44岁）
+医生:治疗需要制动休息 这样炎症也会好转 当然可以用西乐葆之类的镇痛消炎药
+患者:我在北京，去301医院看病的话，挂号哪个科室？
+医生:一般骨科，如果就单纯疼痛的话，疼痛科也可以
+
+Summary:
+制动休息配合药物治疗
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

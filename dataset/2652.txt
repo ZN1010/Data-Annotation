@@ -1,0 +1,22 @@
+Dialogue:
+
+患者:身体干燥没有劲是什么肺病（男，83岁）
+医生:您好，感谢您的信任！
+医生:请问有咳嗽咳痰等肺病方面的症状吗
+患者:没有
+医生:那不一定是肺病
+医生:有可能是干燥综合征
+患者:到医院去说是肺病
+患者:就是想知道严不严重
+医生:有做过肺方面的检查吗
+患者:没有
+医生:这样直接说是肺病没有依据
+
+Summary:
+祝您早日康复🌹🌹,点我头像到我主页加我,方便以后询诊。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

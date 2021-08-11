@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:胆管癌，肿瘤大小2cm，是几期的症状（女，58岁）
+医生:还有没有其他的检查？
+患者:目前照了加强CT和核磁，病理医生说肿瘤部位比较深，所以没有做病理
+医生:那么就是还没有明确是胆管癌了？
+患者:嗯，化验了血，医生说情况不乐观，您看会不会是良性肿瘤
+医生:有相关的检查么？
+患者:目前我还没看到片子和检查报告，等我明天回去后把相关的检查报告拍照给您看看
+
+Summary:
+传相关结果,再明确分期。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

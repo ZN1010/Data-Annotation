@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:肝内胆管结石不能吃什么？鹅肉能吃吗（男，26岁）
+医生:肝内胆管结石，没有肝内胆管扩张，没有腹痛。不需要治疗。鹅肉可以吃，不要太多。
+患者:我肝痛啊
+医生:肝痛鹅肉不要吃
+患者:吃了会怎样
+患者:鹅肉对结石，囊肿，胃病有什么副作用？
+医生:口服消炎利胆片，熊去氧胆酸治疗
+医生:容易一起疼痛
+
+Summary:
+肝内胆管结石,没有肝内胆管扩张,没有腹痛。不需要治疗。鹅肉可以吃,不要太多。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:什么是胃原位癌？？？？（男，20岁）
+医生:就是仅局限于黏膜层的癌症，很早期，能下内镜下根治
+
+Summary:
+如果可疑早期病变注意及时治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:正常人误服两天抗抑郁药停药后出现了头疼，血冲头顶的感觉多久可以恢复？（女，33岁）
+医生:计量多大关键？偶尔一片问题不大的
+患者:头一天半片帕罗西汀，半片米氮平，第二天半片帕罗西汀，就吃了这么多，停药后吃完后失眠，心慌，头沉，别的都缓解了，就是头还没有缓解，请问多久可以缓解。
+医生:噢，那问题不大，等三四天看看
+医生:多喝水药物代谢完就好了
+患者:都七八天了，就是头部症状还没缓解
+患者:别的还好
+
+Summary:
+不放心做过颅脑ct。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

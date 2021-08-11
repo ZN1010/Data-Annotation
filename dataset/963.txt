@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:咳嗽得厉害怎么办，那个蒸橙子怎么做（女，40岁）
+医生:您好，根据您所描述的情况，建议您多喝白开水，可以蒸冰糖雪梨喝。
+患者:谢谢您啦
+医生:不用谢，一定要多喝白开水哦！祝您早日康复！得空的时候麻烦您好评一下，谢谢！
+
+Summary:
+上呼吸道感染一般引起流鼻涕鼻塞、咳嗽咳痰及咽喉不适等症状,恢复时间需要一周左右时间,多喝白开水有促病情愈合。祝您早日康复。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:腋下藓怎么治疗，老是出汗就有异味（男，21岁）
+医生:你好！发现多长时间了？发个清楚的照片看看吧？
+医生:因为没有照片不能确诊啊？
+患者:腋下有白色的东西，洗不下来
+医生:最好是发个清楚的照片看看吧？
+
+Summary:
+只有明确诊断才可以对症治疗的。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

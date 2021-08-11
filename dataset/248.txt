@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:空洞型肺结核 是不是会传染（男，61岁）
+医生:大多数可能都有传染性。但是不是有传染性，传染性强弱，要做痰检。
+患者:这种病属于医保范围吗 请问这是哪一类呢
+医生:不但属于医保范围，而且可以申请免费治疗药物。
+
+Summary:
+可以到当地结防所申请免费治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

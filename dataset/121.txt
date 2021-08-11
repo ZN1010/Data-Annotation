@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:医生您好，频繁生气，该怎么办？（男，34岁）
+医生:你好，很高兴为你解答
+医生:压力大吗
+医生:舌苔看下
+
+Summary:
+祝身体健康。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

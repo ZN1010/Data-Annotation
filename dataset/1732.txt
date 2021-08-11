@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:术后下肢静脉血栓能用热水泡腿吗?（女，51岁）
+医生:下肢静脉血栓术后多长时间了？
+患者:十三天了。
+患者:下腿有轻微肿。
+医生:最好不要泡，洗洗可以
+患者:有的医生说可以泡走动走动不要做巨烈运动。
+医生:主要是您的下肢还肿，血管不能完全保证没血栓
+患者:下肢轻微肿彩超有两处血栓医生说不能搓揉但可以走。
+
+Summary:
+下肢静脉血栓术后13天，下肢仍有浮肿，建议4周确定无血栓再泡脚。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

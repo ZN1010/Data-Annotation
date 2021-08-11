@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:间质性肺炎？这个病好治么（男，31岁）
+医生:得经皮肺穿分型后才能定治疗方案
+
+Summary:
+如有不适及时到医院就诊,不要自己不规律用药 。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

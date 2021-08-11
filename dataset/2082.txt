@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:颈椎结核病都有什么症状？（男，47岁）
+医生:建议拍颈椎的片子可以检查出来，症状比如颈椎疼之类的，发热等
+患者:拍有片子
+患者:颈椎疼。。。现在不发烧啦，
+医生:建议进一步检查肝功，以及PPD，去专科的医院就诊
+
+Summary:
+正规医院就诊。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:请问有关包皮包茎的问题要到哪个科室（男，21岁）
+医生:你好，挂泌尿科即可了
+患者:可是网上挂号好像只有男科
+医生:也可以的
+
+Summary:
+挂泌尿科或男科均可以。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:胃炎是怎么引起来的。（女，23岁）
+医生:你和，胃炎病因很多，饮食，环境，药物，病毒，细菌等
+患者:得了胃炎怎么治疗
+医生:首先确诊，可以胃镜检查，治疗以口服药物，注意饮食卫生，
+患者:有什么食物对胃比较好的
+医生:养胃的食品较多，但是不要刻意去想，维生素类，纤维素食物即可
+
+Summary:
+胃病保健养胃的食品较多，但是不要刻意去想，维生素类，纤维素食物，合理营养即可
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

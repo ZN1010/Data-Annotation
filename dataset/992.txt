@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:接触麻风病人书本衣物会被传染么？（女，18岁）
+医生:有传染的可能性。但是，麻风杆菌的致病力不强，多数人对其有抵抗力，一般不会传染上。
+患者:那，现在能不能检查出来？？  那个书本已经很长时间了，还会有病菌么？
+医生:可以检查。很长时间了就不会传染。
+患者:嗯嗯，好的，谢谢您。
+医生:麻风病是接触性传染病，但传染性不强；成年人一般都有抵抗力，一般不会传染上。
+
+Summary:
+麻风病是接触性传染病,但传染性不强;成年人一般都有抵抗力,一般不会传染上。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:亚临床甲减记忆力减退怎么办（女，51岁）
+医生:亚甲减，看你的TSH、FT3、FT4、两个小时及甲状腺彩超情况
+医生:根据化验结果及甲状腺彩超检查，确定治疗方案
+
+Summary:
+女51岁，亚甲减问题
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:请问急性胆囊炎和胆石症怎么办（女，45岁）
+医生:经常发作的需手术治疗，如果病史详细，再有B超描述就能回答的更准确。
+
+Summary:
+经常发作的胆囊炎需手术治疗,如果没有症状,胆囊功能正常,可暂不处理,观察。
+
+1. Nonspecific template?: f
+
+2. Medical terms in summary but NOT in dialogue:胆囊
+
+3. Medical terms in BOTH summary and dialogue:胆囊炎

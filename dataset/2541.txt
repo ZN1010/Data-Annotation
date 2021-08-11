@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:有时候耳朵听不见，嗡嗡作响，感冒的时候更严重（女，21岁）
+医生:要排除下是否有中耳炎了
+患者:好的，谢谢
+医生:不用谢
+
+Summary:
+上呼吸道感染有引起中耳炎可能的。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

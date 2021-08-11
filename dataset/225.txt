@@ -1,0 +1,23 @@
+Dialogue:
+
+患者:幼儿急疹会不会越起越多？（女，10个月）
+医生:你好，请问孩子急疹出多久了？
+患者:今天第二天！
+医生:今明天会达高峰
+患者:可以洗澡吗
+医生:先别洗，消退后再洗
+患者:我感觉她发烧到出疹都没什么胃口！要不要吃点什么药
+医生:可以吃些小儿豉翘清热颗粒
+患者:有什么戒口的吗
+医生:清淡饮食
+患者:噢、好的！谢谢
+医生:不客气，有事再联系吧
+
+Summary:
+有事可以再联系。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

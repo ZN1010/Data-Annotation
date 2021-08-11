@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:我病了了了了了了了了了（女，16岁）
+医生:你好，请问有什么需要帮助的吗？
+患者:昨天我不小心生病了，去医院我是去那个科看病
+医生:你好，是哪里不舒服？
+
+Summary:
+,请仔细说明你目前的症状,从而确定疾病范围,有利于为你准确选择治疗科室。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

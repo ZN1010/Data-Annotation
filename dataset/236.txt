@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:眼睛激光手术后十五天了 有时候滴眼药水火辣痛 闭上眼睛就不痛 是不是太干了？ 复检的时候医生说恢复的很好（男，21岁）
+医生:你好，很荣幸为你解答
+患者:？
+医生:因为眼药水都会有点刺激性，所以你滴了之后会觉得不舒服，这是正常现象
+患者:但是流泪也痛
+
+Summary:
+刚滴眼药水的时候是这样的,滴了之后眼睛适应了这种刺激就慢慢缓解。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

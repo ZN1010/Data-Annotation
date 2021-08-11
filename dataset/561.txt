@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:神经性头痛应注意什么（男，20岁）
+医生:请问你头痛有多长时间了？
+患者:半年了
+医生:如果病程比较长、可以自发缓解、疼痛的部位不固定，考虑血管神经性头痛。平时生活中尽量减少可能引发头痛的一切病因，包括避免头、颈部的软组织损伤、感染、避免接触及摄入刺激性食物、避免劳累、用脑过度、情绪波动等。头痛​患者应减少巧克力、乳酪、酒、咖啡、茶叶等易诱发疼痛食物。头痛发作时立即口服止痛药。
+患者:的
+医生:？
+
+Summary:
+神经性头痛避免诱因很重要。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

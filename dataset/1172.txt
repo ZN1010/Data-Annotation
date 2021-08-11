@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:慢性泌尿系感染怎么能治好，谢谢（女，33岁）
+医生:你好，慢性泌尿系感染是消炎药。
+医生:三次尿检阴性可停药！
+患者:我看了好多都没查出原因，化验尿都正常，今天找老中医说我是肾虚也就是慢性泌尿系统感染，是一样的吗
+医生:消炎药可用阿莫西林加环丙沙星。
+医生:我认为肾虚和慢性泌尿系统感染，不是一个概念。
+患者:哦，谢谢
+
+Summary:
+希望我的建议对你有帮助,祝你早日康复。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

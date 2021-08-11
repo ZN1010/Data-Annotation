@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:我是一名产妇，今天中午吃东西烫到舌头了，怎么办？（女，26岁）
+医生:你好，没有关系的。很快就恢复正常了。祝你健康快乐
+患者:会落下月子病吗？不会出了月子舌头没知觉了吧
+医生:你不要担心的，没有后遗症的
+患者:谢谢
+
+Summary:
+或者吃一些维生素C，B2就可以达到治疗的效果,有发炎的可以吃一些阿莫西林。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

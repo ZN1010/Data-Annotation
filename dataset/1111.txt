@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:医生你好 我有焦虑型神经官能症 医生给我开了帕罗西汀 后来又我开了度落西汀 我能只吃一样吗？感觉副作用大 2种一起吃怕受不了 2种药作用是否一样的 谢谢解答。（男，25）
+医生:是的，只是吃其中的一样！别多吃
+患者:哦 2种药功效是一样的吗？
+医生:对，只能吃一个。
+患者:嗯 谢谢
+医生:别客气哈，马上给我个满意的5星好评！
+
+Summary:
+按医师处方及说明书口服。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

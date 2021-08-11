@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:医生您好，你们医院测静脉血测血糖，用的试剂是强生还是罗氏的？
+医生:每个医院都不一样，这两个牌子都很好
+
+Summary:
+血糖仪和试纸罗氏的和强生的都还不错。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

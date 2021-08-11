@@ -1,0 +1,20 @@
+Dialogue:
+
+患者:酒精肝硬化腹水怎么办（男，41）
+医生:请问腹水严重吗？转氨酶多少
+患者:吃,什么药
+医生:肝硬化多长时间了
+患者:挺严重
+患者:半年
+患者:现在吃不下饭也有便血n脚也有点肿
+医生:如果病程短而且肝功能正常腹水量少的话可用点白蛋白。
+医生:哦。建议您去医院吧。
+
+Summary:
+分类常见病咨询总结酒精性肝硬化的治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

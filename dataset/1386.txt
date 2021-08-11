@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:高血压如何诊断治疗，男34岁三高，让住院检查（女，34岁）
+医生:高血压病一般要连续监测 三次非同日血压高于140/100为高血压
+患者:晚上睡觉打呼噜，嘴角有白沫，去阜外医院了让住院检查，验血不知道什么项目说两周才出结果，这是验什么项目
+医生:说不好 验血能验好多项目
+医生:你要不先等那边结果吧 没结果也诊断不了 何况治疗
+
+Summary:
+建议先等医院的检查结果 再安排进一步治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

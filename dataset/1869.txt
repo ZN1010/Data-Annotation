@@ -1,0 +1,22 @@
+Dialogue:
+
+患者:易勃起，早泄，盗汗怎么回事（男，25岁）
+医生:你好，很高兴为您服务！
+医生:你说的早泄是什么表现？
+患者:还没进去就不来了
+医生:还没开始性交，就射精了吗？
+患者:去医院看了，医生给开了两种药，达泊西订，复方玄驹不知道管不管用
+患者:恩
+患者:正准备进去的时候就射精了
+医生:排除泌尿系感染了吗？
+患者:我感觉也没什么炎症，以前有过龟头炎不过早好了，割过包皮
+医生:嗯，那就吃那两种药吧！可以的
+
+Summary:
+嗯，那就吃那两种药吧！可以的
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

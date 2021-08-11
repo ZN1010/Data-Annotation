@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:月经量过多，怎么办啊医森，帮帮忙（女，13岁）
+医生:你好，月经量过多，考虑是体内激素水平导致内膜过度脱落，应该去医院做b超检查，测量子宫内膜的厚度，并根据检查结果来服药。
+
+Summary:
+,妇科炎症,月经不调等疾病是很常见的,所以不要太担心,祝你健康。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

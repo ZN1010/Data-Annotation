@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:白喉  可以吃阿莫西林消炎吗？（男，23岁）
+医生:可以的。但是没有头孢类好
+患者:我对头孢不过敏  但我吃头孢 不消炎
+医生:那吃阿莫西林
+患者:嗯嗯  白喉是怎么引起的
+医生:感染
+患者:病毒感染吗
+医生:白喉杆菌
+
+Summary:
+祝早日康复。尽快治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

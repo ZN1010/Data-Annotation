@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:妇科检查是查什么？（女，25）
+医生:外阴的情况，阴道的情况，宫颈的情况，盆腔里头的情况。
+患者:是包括哪些项目呢？
+医生:就是这些呀，妇科检查就是上床那个检查，查的就是这些
+患者:不好意思我是说是做彩超之类的吗？
+医生:你说的是妇科体检吗？妇科体检，一般包括B超，妇科检查，和宫颈癌筛查，就是tct和hpv。
+
+Summary:
+祝你身体健康,一切都好。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

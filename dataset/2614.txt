@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:腰椎间盘突出，骨质增生（女，24岁）腰椎间盘突出，腰部骨质增生，脊椎弯曲
+医生:你好！今年你多少岁？有没有脊柱的相关检查！
+患者:24岁，拍过CT，检查结果是腰椎间盘突出
+患者:显示脊柱有些弯曲
+医生:有没有腰腿疼痛麻木等不适！
+
+Summary:
+腰椎间盘突出的诊断包括临床症状和X片CT或MRI检查。侧突多少代偿性。腰椎间盘突出突出治疗后多可恢复!但应该排除其他原因所致的脊柱侧弯。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

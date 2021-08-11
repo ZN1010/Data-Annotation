@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:你好，医生，我想了解下，病毒感染和细菌感染引起的感冒症状分别是什么情况（男，3.5）
+医生:症状差不多的，血常规可以区别
+医生:病毒感染后，因为抵抗力下降，可以继发细菌感染
+医生:比如开始的清鼻涕变成黄鼻涕，出现咳嗽有痰等
+医生:你说一下宝宝情况
+患者:他现在打喷嚏会有黄鼻涕，昨天下午37.8有点低烧，嗓子有痰但是不咳嗽，今天不热了，吃了优卡丹
+医生:还行
+
+Summary:
+再吃点清热解毒口服液。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

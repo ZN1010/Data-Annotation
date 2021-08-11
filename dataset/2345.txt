@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:是仇医生吗？关于食管癌病人疼痛的问题我父亲食管癌已手术，一年后复发，现在放、化疗，患部疼痛，睡眠也不好，希望减轻他的疼痛，有何良方？谢谢！（男，44岁）
+医生:疼痛可以控制的，现在用了什么止疼药啊？
+
+Summary:
+针对本次问诊,医生更新了总结建议:请关注我的春雨诊所,方便我们联系,可以更好的帮助您。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

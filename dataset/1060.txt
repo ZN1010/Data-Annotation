@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:眼眶良性假瘤，可以做手术吗？（女，29岁）
+医生:你好，很高兴帮你解答
+患者:眼球被压迫下移
+医生:眼眶良性肿瘤可以做手术，不过要排除有手术禁忌症，例如严重高血糖，高血压，严重心脏病，以及身体不能耐受手术的情况
+患者:做手术费用大概多少钱？
+
+Summary:
+手术费具体多少要看具体的手术方式，不同手术方式收费会有所不同，还有不同地区不同医院收费也会不同，具体你要咨询手术医生
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

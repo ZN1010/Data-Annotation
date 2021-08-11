@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:什么叫中风？生活中如何预防？（男，17岁）
+医生:您好！很高兴能为您解答！
+医生:中分泛指脑出血、脑梗塞！
+医生:你这个年纪应该没有这个问题！
+患者:生活中如何预防？
+医生:低盐低脂饮食、控制血压血糖血脂、适量体育锻炼！
+
+Summary:
+一般中老年人要注意！
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

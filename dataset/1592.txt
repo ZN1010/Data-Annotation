@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:大隐静脉曲张需要动手术吗（女，47岁）
+医生:这个得看严重程度，一般情况下只能靠手术彻底治愈，但如果不是很严重，可暂保守治疗。
+患者:严重程度怎么划分
+医生:到医院门诊找医生看看，就知道了。
+
+Summary:
+这个得看严重程度,一般情况下只能靠手术彻底治愈,但如果不是很严重,可暂保守治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

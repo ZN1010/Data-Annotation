@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:更年期综合症 浑身时冷时热怎么办（女，53岁）
+医生:症状很明显可以补充雌激素治疗缓解症状
+患者:我想去医院看看，挂什么科室好呢
+医生:妇科
+
+Summary:
+更年期综合症激素治疗
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

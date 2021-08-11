@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:肺心病需要做那些检查（男，72岁）
+医生:你好！肺心病需要做胸部CT及心脏彩超检查！
+医生:平时有什么症状吗
+
+Summary:
+建议到医院检查。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

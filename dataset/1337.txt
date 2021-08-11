@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:高血压老年人适合喝什么样的奶粉？（男，21岁）
+医生:低脂奶粉，低盐饮食。
+患者:脱脂的可以吗
+医生:可以
+患者:豆奶粉高血压老人能喝吗
+患者:我奶奶80多了，高血压，我想买点奶粉去看看她，但不知道买什么样的好
+医生:豆奶粉也可以，年纪大的需要低脂奶粉
+患者:好的，谢谢
+
+Summary:
+高血压病人,应该低盐饮食,年纪大需要低脂饮食。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

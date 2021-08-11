@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:头有时候无聊就会头疼这是为什么（女，20岁）
+医生:你好，多久了？还有其他症状吗？
+患者:不久，今天十二点多的时候
+患者:没有其他症状了
+医生:休息不好或心情不好或饮食不正常都可以引起。建议观察一下，应该没什么问题。
+患者:哦哦，那谢谢了咯
+医生:很高兴为你解答，如果你满意，请给5星好评，也可以关注我，以后有问题可以电话或者图文咨询。谢谢！
+
+Summary:
+生活中常出现的症状没有临床意义,建议放松心情,多休息。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

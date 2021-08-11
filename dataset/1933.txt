@@ -1,0 +1,27 @@
+Dialogue:
+
+患者:川崎病出院可以出去玩吗（女，2岁）
+医生:你好，1月内不建议剧烈运动
+患者:就是想去外面走走晒晒太阳，昨天刚出院
+医生:这个可以的。不要去人多密集的地方
+患者:但是还是怕，她现在抵抗力是不是很差呀
+医生:是的
+患者:出去需要带口罩不
+医生:需要
+患者:她现在饮食要注意什么
+医生:清淡，均衡饮食，注意卫生
+患者:好的谢谢医生
+医生:不客气，有事再联系吧
+患者:好的麻烦了
+医生:祝宝宝健康成长
+患者:谢谢
+医生:😊
+
+Summary:
+有事可以再联系。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

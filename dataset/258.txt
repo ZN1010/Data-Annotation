@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:神经性偏头痛吃什么药见效快（女，42岁）
+医生:妹妹你好:去医院神经内科就诊复查过吗？
+医生:建议妹妹口服布洛芬缓释胶囊止痛，对症治疗。
+医生:祝妹妹早日恢复健康啊，病情变化及时就医复查呀！
+
+Summary:
+祝你早日康复啊。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

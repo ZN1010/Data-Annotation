@@ -1,0 +1,21 @@
+Dialogue:
+
+患者:输精管堵塞，摸起来有硬节，能治疗吗（男，41岁）
+医生:这不能排除输精管结核的问题，还是去医院确诊!
+患者:就是附睾两侧摸起来有疙瘩，检查无精，能治吗
+医生:要去医院做输精管造影确诊!
+患者:哦，一般医院都能做吗
+医生:一般医院做不了的，还是要去有男科的医院确诊!
+患者:这病好治疗吗，能动手术吗
+医生:根据检查结果才能判断!
+患者:哦，谢谢
+医生:好的!有帮助请好评!
+
+Summary:
+早去医院检查确诊。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

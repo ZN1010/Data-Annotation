@@ -1,0 +1,24 @@
+Dialogue:
+
+患者:慢性乙肝，CA199   42，有没得事？（男，33岁）
+医生:其他正常吗？甲胎蛋白正常吗？肝功能以及肝脏超声正常吗？
+医生:病毒量多少？
+医生:你应该全面说说
+患者:病毒量之前查的1.5✘10的8次方
+患者:谷丙280
+患者:AFP好像没检测
+患者:b超，点状回声密集稍粗
+医生:嗯
+医生:平时饮酒吗？能够合理休息吗？
+患者:以前喝的
+患者:休息还好
+医生:嗯
+
+Summary:
+现在肝功能明显因此，病毒量高，CA199高可能于肝功能因此相关，建议你积极保肝降酶治疗，应该考虑抗病毒治疗，复查CA199
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

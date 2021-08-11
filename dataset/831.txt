@@ -1,0 +1,21 @@
+Dialogue:
+
+患者:比较烦躁，咆燥 心烦意乱，思绪万千你好刘医生
+医生:最近心情或者工作压力大吗？
+医生:平时爱发脾气吗？总感觉心情不好
+医生:你的例假现在怎么样？
+患者:压力不大，工作比较繁忙
+患者:平时比较爱发脾气
+患者:好心情持续一段时间后，就要发一次脾气
+患者:例假每次都提前1到2天
+医生:你好！你的症状和精神因素关系很大
+医生:不以物喜，不以己悲
+
+Summary:
+考虑肝气郁结！保持心情舒畅！必要时可口服柴胡疏肝散！
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

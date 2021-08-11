@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:现在广东廉价江的疫苗接种可不可以打（女，33岁）
+医生:你好！建议按国家计划免疫接种疫苗
+
+Summary:
+祝宝贝健康。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

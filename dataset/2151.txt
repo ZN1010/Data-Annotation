@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:心衰有可能是肺动脉栓塞引起的吗（女，39岁）
+医生:你好，昨晚休息的早，没有收到消息，还在吗？
+医生:肺动脉栓塞严重会引起心栓，要尽快解决
+医生:会引起缺氧，严重导致猝死
+
+Summary:
+有问题再联系,让健康伴随你。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

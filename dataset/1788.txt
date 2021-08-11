@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:哪位专家可以给我聊聊心肌桥（男，29岁）
+医生:心肌桥先天存在，正常冠状动脉在心外膜表面，
+患者:有什么危害
+医生:当一段冠状动脉被心肌所包绕，该段心肌就称为心肌桥
+医生:心肌桥可能与冠心病的发病局部因素有关，也可能引起心肌缺血
+
+Summary:
+心肌桥是一种先天性冠状动脉解剖畸形,冠状动脉壁内段在收缩期可受到挤压,多在中年以后才出現心肌缺血症状。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

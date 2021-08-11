@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:肾阴虚，肾阳虚.区别何在。（男，65岁）
+医生:你好，肾阳虚的症状为，腰痛四肢发冷畏寒。肾阴虚，一般表现为口干烦躁手心发热爱出汗。
+
+Summary:
+身体虚弱,饮食要调节好,加强锻炼。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

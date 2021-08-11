@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:空调病的症状是怎么样的（男，20岁）
+医生:空调病一般多是着凉后的一些表现。
+患者:会恶心呕吐不想吃东西吗？
+医生:胃着凉了有可能会的
+患者:最近空调吹多的就恶心不想吃东西气短头晕
+患者:好的
+医生:少吹点空调，喝点热粥，养养胃。
+
+Summary:
+空调病咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:诊断为硬膜外血肿3天，意识不清（男，24岁）
+医生:血肿量大不、做手术没？
+
+Summary:
+头颅外伤小心颅内出血。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

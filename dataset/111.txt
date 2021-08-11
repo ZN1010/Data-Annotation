@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:今早开始嗓子疼，刚才好像稍微有点鼻涕，头晕几次，好像尿频了，没准是喝水多了吧，视力好像下降了点有点觉得发烧，什么情况呢（男，18岁）
+医生:您好，您以上情况分析考虑是上呼吸道感染
+患者:可以自愈吗
+患者:正常人一天几次尿尿
+医生:一般4到5次
+
+Summary:
+建议您测量体温,应用抗感染药物治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

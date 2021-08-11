@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:左肾积水，是不是碎石引起的（男，25岁）
+医生:结石可以引起积水，先天性发育不良可以引起积水
+医生:碎石后小结石堆积堵塞输尿管也可以引起积水
+医生:看碎石前后的B超检查或者造影判断。
+
+Summary:
+可以加关注,有泌尿外科男科问题再咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

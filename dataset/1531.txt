@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:我想问下专家，网上那个所谓的滴儿通，说是能治疗耳鸣耳聋是真的嘛，希望医生能给我个确切的回答谢谢。。。（男，27岁）
+医生:我觉得最好还是去正式大医院检查后用药，因为耳鸣耳聋原因很多，网上药物最好谨慎
+
+Summary:
+建议正规医院治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

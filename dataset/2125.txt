@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:心肌酶谱与心得安试验分别在什么情况下需要检查（男，28岁）
+医生:心肌酶是测定心肌有无损伤的指标，心得安试验，以鉴别自主神经功能紊乱所致的非特异性ST-T改变与心肌病变引起的ST-T改变。同时伴有窦性心动过速、心悸、气短、多汗、失眠等，心电图T波低平或轻度倒置、ST段轻度压低者，特别是青、中年女性患者。
+
+Summary:
+祝您早日康复,如果有疑问可以继续咨询我。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

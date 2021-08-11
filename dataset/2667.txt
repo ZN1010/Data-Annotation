@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:空腹时候吃甜的蛋卷货蛋糕后胃会疼几下  是不是甜的东西吃了会有胃酸（男，38岁）
+医生:你吃完食物时，肯定有胃酸分泌的
+患者:我胃饿时候会难受
+医生:建议来医院进一步
+医生:饥饿时，分泌的胃酸会消化你的胃黏膜
+
+Summary:
+建议正常饮食，合理饮食
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

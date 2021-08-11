@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:结核病在治疗吃药中可以喝酒吗（女，28岁）
+医生:绝对不能饮酒，抗痨治疗多长时间了
+患者:6个月了
+医生:不行，不能饮酒
+医生:屏幕右上角有个评价，帮忙送一个‘’很满意‘’哦，谢谢！！！
+患者:点都不能喝酒吗
+医生:对
+患者:那平时要注意些什么
+
+Summary:
+抗痨治疗期间不能饮酒，酒影响药物吸收，另外有其他副作用
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

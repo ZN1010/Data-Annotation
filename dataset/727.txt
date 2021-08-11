@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:快速问答-严重脱发 有半年了 吃维生素b族有用吗（女，16岁）
+医生:您好，问题已经收到，如果您有图片或检查报告，请您发给我，这样能更好的帮助您解决问题
+患者:没有
+医生:你好，头发出油多吗😊？
+患者:就是脱发严重
+医生:与饮食习惯，环境因素，情志因素，生活学习压力等关系密切。
+医生:外用补骨脂酊，配合口服首乌丸，养血生发胶囊。多吃蔬菜水果，黑芝麻黑木耳黑豆等食物。保证睡眠质量，心情愉快。
+
+Summary:
+OK,祝你早日康复。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

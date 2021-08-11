@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:腱鞘囊肿怎么治？有什么好办法？（男，38岁）
+医生:请问有多长时间了？囊肿大吗
+
+Summary:
+如果囊肿不大发病时间不长的话可以让骨科医生将囊肿挤破即可。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:如何让淋巴结核快速好起来（女，26岁）
+医生:确定是淋巴结核吗，淋巴结核需要正规抗结核治疗，需要时间
+患者:各种实验的结果都显示淋巴结核。靠长时间吃药可以好吗
+医生:抗结核治疗，现在是很成熟的，治疗没有问题
+患者:不想介入手术，吃药抗结核等它自己结巴行吗？
+医生:只口服抗结核药物，需要时间长
+
+Summary:
+女26岁，淋巴结核的治疗
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

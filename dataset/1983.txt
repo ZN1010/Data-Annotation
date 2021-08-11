@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:胆囊结石伴急性胆囊炎的治疗方案我想知道这个病的治疗方案，最好不要摘胆
+医生:你好，胆囊结石伴急性胆囊炎多考虑行胆囊切除术，术前应预防性应用抗生素。
+患者:是要切胆吗？这种情况可以做激光治疗吗
+医生:目前治疗胆囊就是唯一可靠的方法就是胆囊切除术，药物治疗没有任何效果。
+
+Summary:
+胆囊结石伴有反复胆囊炎症状时，应该行胆囊切除术。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:做了稽留流产后能化淡妆吗（女，27岁）
+医生:可以化淡妆的，影响不大。
+患者:那多久后能做面膜，贴的那种
+医生:阴道流血停止后就可以做。
+患者:谢谢您
+医生:不客气，再见
+
+Summary:
+流产后化妆咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

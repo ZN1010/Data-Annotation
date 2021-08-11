@@ -1,0 +1,20 @@
+Dialogue:
+
+患者:你好，宝宝八个月风疹可以出门吗（女，22岁）
+医生:宝宝是确诊得风疹了吗？
+患者:是的
+患者:会自动消失吗？
+医生:风疹是一种病毒感染的传染病，宝宝是到医院确诊的吗？
+患者:是的，吴主任
+患者:医生说三天就会消失
+医生:宝宝有没有发烧？
+患者:感冒发烧好了起的，感冒时一直出虚汗
+
+Summary:
+据您说的，加上宝宝的月龄，考虑宝宝起的是幼儿急疹，如果现在不发烧，可以到外面，但是注意不要时间太长，避免着凉
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

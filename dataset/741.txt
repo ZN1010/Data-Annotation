@@ -1,0 +1,21 @@
+Dialogue:
+
+患者:我找神经内科的医生，看我有脑膜炎吗？（男，41岁）
+医生:有头痛，恶心呕吐，发热吗？
+医生:脑膜炎需要腰椎穿刺查脑脊液
+患者:是的
+患者:喜欢胡思乱想
+医生:查过头部核磁共振吗？
+患者:我做过ct
+医生:胡思乱想与脑膜炎无关
+患者:医生说我有支气管炎
+医生:脑膜炎需要腰穿
+
+Summary:
+脑膜炎需要腰穿查脑脊液才能确诊。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:医生您好，冠心病，该怎么办？（男，44岁）
+医生:您做过冠脉CTA或冠脉造影，确有冠心病吗？
+患者:做过
+患者:确有
+医生:有报告结果吗？
+患者:有，冠心病
+医生:我是想看看冠脉狭窄的程度，您有报告吗
+
+Summary:
+冠心病主要注意低脂饮食，多吃蔬菜水果，避免情绪激动，劳累，适当运动如散步，打太极等
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:过敏性哮喘如何预防不犯病呢？（男，17岁）
+医生:你好欢迎就诊春雨诊所
+医生:减少过敏源接触！
+医生:应该去医院做过敏源测试！查出过敏源避免接触并且去医院脱敏就可以了
+患者:谢谢啦
+医生:好的
+
+Summary:
+祝您快点好起来。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

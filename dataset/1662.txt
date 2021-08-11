@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:医生您好 例假不准怎么办  13岁来的例假 来的一直不准 有吃过中药也没有什么用 一个季度来一次 一年才来 4次有这种人吗 有时候 一年5.6次正常？有什么办法可以改善吗（女，16岁）
+医生:您好!这种情况很多，不要过于担心。建议您按说明服用逍遥丸。归脾丸。忌辛辣食品
+患者:很久不来例假 来了以后小腹腰部很痛 会影响以后怀孕生子吗
+医生:不会的。保持心情舒畅。建议您立秋后坚持用中药泡脚。
+
+Summary:
+坚持锻炼身体，忌辛辣食品。保持心情舒畅。配合中药调理。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

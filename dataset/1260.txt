@@ -1,0 +1,23 @@
+Dialogue:
+
+患者:血压85 112正常吗（女，26岁）
+医生:您好，您的血压是正常的
+医生:正常人血压在140/90以下，90/60以上，单纯看您的血压是正常的
+患者:好的
+患者:但是我总是头晕
+患者:我今天没吃早餐量的
+患者:吃完之后应该会高点吧
+患者:吃点素的没事
+患者:油腻的吃了就头晕
+医生:嗯，没问题，您血压是正常的，对于油腻尽量少吃
+患者:好的，谢谢
+医生:嗯，祝好！
+
+Summary:
+注意休息,不适可以神经内科进一步诊治,祝您健康。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

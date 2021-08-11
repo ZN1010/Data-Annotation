@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:伤寒感冒可以继续喂奶吗？（女，27岁）
+医生:伤寒感冒可以继续喂奶，注意洗手，保护宝宝
+
+Summary:
+伤寒感冒可以继续喂奶,重点是洗手,保护宝宝。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

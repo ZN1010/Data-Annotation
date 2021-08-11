@@ -1,0 +1,23 @@
+Dialogue:
+
+患者:湿肺病国家有补贴吗？（男，46岁）
+医生:你好，这个没补贴，不过属于免费治疗的，
+患者:哪需要申请治疗吗？
+医生:不用，确诊了去当地慢性病防治院就可以
+患者:这个病国家没规定治疗免费吗？
+医生:规定免费的
+患者:明确规定医院免费治疗吗？
+医生:是的，给你说多变了
+患者:矽肺病呢？
+医生:这个好像不补贴
+患者:好吧，谢谢哈
+医生:不客气
+
+Summary:
+肺结核是国家规定的免费治疗的疾病。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

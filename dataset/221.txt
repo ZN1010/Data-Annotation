@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:头顶有个三角形凹陷，从后面延伸到前面，这是为什么？（男，21岁）
+医生:您好！请拍个照片给我看一下。
+
+Summary:
+需要更多信息才能给出建议。祝一切顺利。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

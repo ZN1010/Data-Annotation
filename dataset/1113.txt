@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:神经官能症北京哪家医院治疗好（女，32岁）
+医生:你好！神经官能症属于功能疾病。一般大医院都可以。
+医生:要注意排除器质性疾病才行。
+医生:北京权威的大医院很多。比如协和医院，301医院，宣武医院等等。
+
+Summary:
+身体出现可疑异常症状有时不知不觉发生,原因常常不易马上找到。医生要完善相关问诊有助于判断病情,具体情况需具体分析。一般是先观察或对症治疗,并积极寻找原因。针对病因治疗效果最好。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

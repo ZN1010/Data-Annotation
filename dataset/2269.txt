@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:食管癌后期是不是很痛（女，32岁）
+医生:食管癌后期主要是进食困难，如果有多发转移，特别是骨转移，可能会也出现疼痛。
+患者:哦哦，谢谢
+医生:不客气。
+
+Summary:
+食管癌后期不一定会很痛。主要根据自身情况而定。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

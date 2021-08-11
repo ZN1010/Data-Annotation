@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:肺结核病能治么？？已经1个月了（男，22岁）
+医生:明确诊断肺结核，就应该联合抗痨治疗
+医生:可以治疗，治疗效果不错啊！
+医生:你详细说说你的情况
+医生:抗痨治疗要求合理  足量    规范抗痨治疗，早期一般四联如异烟肼  利福平   吡嗪酰胺    乙胺丁醇2个月强化抗痨治疗，然后二联如异烟肼  利福平4个月抗痨治疗，最后根据治疗效果记得是否进一步治疗
+医生:屏幕右上角有个评价，帮忙送一个‘’很满意‘’哦，谢谢！！！
+
+Summary:
+肺结核治疗咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

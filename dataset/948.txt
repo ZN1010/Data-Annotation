@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:细菌性前列腺炎可怕吗（男，29岁）
+医生:你好，不可怕，容易治疗！
+医生:做个前列腺液的培养，找到对什么药物敏感！一般都是阿奇霉素类的效果比较好
+患者:请问有没有效果比较好的，治疗细菌性前列腺炎的药方，求介绍
+医生:阿奇霉素+哈乐+前列舒通！
+
+Summary:
+前列腺炎不可怕，正规治疗效果好
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

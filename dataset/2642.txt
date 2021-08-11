@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:早上会有一些口气。，，，，（女，13岁）
+医生:一方面是口腔问题，刷牙不好，牙周状况差，进行定期洗牙并进行高质量刷牙，另一方面是全身疾病在口腔的表现，建议到消化科和呼吸科就诊，找到病因，进行对症治疗
+患者:那怎样刷牙才正确。
+医生:建议每天保证刷2次，早晚各一次，每次3分钟以上，竖着刷牙~定期去洗牙~
+患者:那饮食方面要注意吗？
+医生:没有饮食方面限制
+
+Summary:
+祝您健康~☺。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

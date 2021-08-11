@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:成年人晚上遗精怎么回事？（男，21岁）
+医生:偶尔遗精属于正常现象。
+医生:经常遗精注意是否包茎，包皮过长，尿道炎，前列腺炎等等疾病引起的。注意是否内裤过紧，被子过重等等。注意避免黄色视频等等不良刺激。
+患者:那平时应注意什么？
+医生:分析分析，避免可能存在的原因
+患者:好的
+医生:多数人能够恢复正常。
+
+Summary:
+可以加关注，病情有变化或者有其它问题再咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:宝宝眼睛泪囊炎怎么办（女，27岁）
+医生:你好，失去医院检查过吗
+
+Summary:
+可以先点点眼药水,但是首先要确诊还是很关键的,有问题随时再跟我联系。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

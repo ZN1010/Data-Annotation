@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:请问慢性或者急性肝炎这个病严重不严重啊？男 46岁（男，45岁）
+医生:看肝功和凝血象和患者状态的，不能根据病明来判断严重的。
+患者:最近老呕吐，没食欲
+患者:也没什么精神
+患者:这个传染吗
+医生:看肝炎的原因了
+患者:传染吗
+医生:一般病毒性肝炎的引起的是传染的
+
+Summary:
+建议您去医院检查肝功，凝血象和肝胆脾ct的
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

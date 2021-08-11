@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:中医怎么治疗类风湿这样的慢性病？（女，51岁）
+医生:中药可以用祛风化湿，清热凉血，活血通络的方法治疗。
+医生:西药治疗也重要，用甲氨喋呤或来氟米特，生物制剂（益赛普）效果也不错。
+
+Summary:
+中药可以用祛风化湿,清热凉血,活血通络的方法治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

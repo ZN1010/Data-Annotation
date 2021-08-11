@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:儿童自闭症怎么治疗，（男，3岁）
+医生:你这个要专科治疗了，三岁的话要抓住时机，要药物和训练一起，现在还有一些生物电的治疗
+医生:省内的话可以到南京脑科医院
+患者:对不起治疗写错了，我儿子刚满两岁
+医生:越小治疗越好
+患者:能治疗好吗
+医生:要看程度了，要有信心，加油
+患者:好吧，谢谢
+
+Summary:
+家长要多费点心了,加油。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

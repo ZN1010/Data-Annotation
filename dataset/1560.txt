@@ -1,0 +1,21 @@
+Dialogue:
+
+患者:鼻窦炎副鼻窦炎用辅舒良可以么（男，25岁）
+医生:可以，鼻用激素属于1线用药
+患者:嗯嗯就是什么鼻炎都可以吧
+医生:鼻窦炎，过敏性鼻炎，还有慢性鼻炎都可以
+患者:好的大夫
+医生:干燥性或萎缩性鼻炎应该慎用
+患者:萎缩性鼻炎怎么治疗，我怎么感觉像这个
+医生:萎缩性鼻炎是鼻腔黏膜萎缩，造成鼻腔过度通气的一种疾病
+患者:嗯嗯
+医生:还有问题可以帮助你吗？
+
+Summary:
+鼻窦炎,过敏性鼻炎,还有慢性鼻炎都可以。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

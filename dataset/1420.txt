@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:强直性脊柱炎到底多严重（男，23岁）
+医生:你好！强直性脊柱炎是免疫相关疾病。
+医生:一般会逐渐进展加重的。主要是控制症状，减缓进展的对症治疗。
+患者:应该怎么控制，会严重到什么程度
+医生:一般是抗炎镇痛理疗等综合治疗。防治畸形
+医生:严重时生活不能自理
+
+Summary:
+强直性脊柱炎是免疫相关疾病。治疗主要是抗炎镇痛防治关节畸形,理疗康复,延缓进展。正确认识疾病,包括心理护理等综合治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

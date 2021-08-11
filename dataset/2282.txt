@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:低压高怎么降？现在血压120/90（男，34岁）
+医生:先建议您改善生活方式，低盐低脂饮食，抽烟的话戒烟，适当锻炼，通过改善生活方式还降不下来的话再考虑服用降压药物
+患者:我有慢性肾炎
+医生:化验肌酐高吗，尿里有没有蛋白
+医生:如果肌酐小于262，尿蛋白阳性，建议服用依那普利或者坎地沙坦降压
+
+Summary:
+高血压,若肌酐无明显异常,可服用ACEI类或者ARB类降压。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

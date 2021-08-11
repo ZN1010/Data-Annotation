@@ -1,0 +1,20 @@
+Dialogue:
+
+患者:请问下要确诊急性胰腺炎应做啥检查？（女，39岁）
+医生:您好，您是问需要什么辅助检查吗
+医生:有饮酒和暴饮暴食吗，
+医生:腹痛部位？持续性吗？腹胀吗？呕吐吗？发热吗？
+患者:有吃肉史
+患者:上腹痛
+患者:干呕，不热，持续性
+患者:要做哈检查确诊呢？
+医生:血淀粉酶，尿淀粉酶，胰腺CT，脂肪酶
+
+Summary:
+祝您早日康复。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

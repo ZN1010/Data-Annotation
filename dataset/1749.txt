@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:出血热是白血病吗？应该怎么办？（女，36岁）
+医生:您好，出血热不是白血病的！
+患者:那是什么意思？
+医生:您被诊断为出血热了吗？
+
+Summary:
+希望您有问题随时咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

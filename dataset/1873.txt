@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:皮伤炎乳膏对体癣有郊么（男，23岁）
+医生:你好   体癣可用的乳膏很多  如复方酮康唑膏 联苯苄唑膏或克霉唑膏均可   但不用你说的皮伤炎膏
+
+Summary:
+体癣多属浅表真菌感染引起皮肤科常见可服灰黄霉素片一日三次一次一片外涂复方酮康唑膏或联苯苄唑膏均可。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

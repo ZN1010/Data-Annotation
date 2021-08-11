@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:这次来的月经好多哦，已经第五天了，吃滇桂艾纳还是一样多（女，17岁）
+医生:b超、激素无异常的话，可定期复查
+患者:囊肿
+医生:只是囊性占位吗，多大
+患者:两个
+医生:大小呢
+
+Summary:
+月经过多,检查b超及性激素。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

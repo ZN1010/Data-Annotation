@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:用辣椒泡白酒可以喝吗？（男，35岁）
+医生:可以喝          。
+患者:此方有哪些功效
+医生:可以去风湿去寒
+
+Summary:
+可以去风湿去寒
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

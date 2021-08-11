@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:请问大便一整条很长正常吗（女，24岁）
+医生:你好，我是葛医生，很高兴为你解答问题。
+医生:正常。
+患者:喝水就马上要去厕所上小号这是什么情况
+医生:无尿痛、尿频就正常
+患者:尿频繁啊
+
+Summary:
+正常情况，不要担心
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

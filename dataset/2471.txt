@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:怎样预防皮肤癌比较好？？（女，19岁）
+医生:你好，皮肤癌的预防一般包括注意皮肤干燥，避免摩擦等
+
+Summary:
+皮肤癌注意没有皮肤破溃应该不是的。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

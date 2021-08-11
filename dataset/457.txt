@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:肾囊肿怎么治？2.0*2.0（男，28岁）
+医生:有什么明显的不适症状吗？
+医生:没有症状不需要治疗，每年复查两次，增大明显或者超过三厘米应该手术治疗。
+患者:有的时候有点疼
+医生:应该与囊肿关系不大
+患者:哦
+患者:用药怎么治？
+医生:没有药物治疗或者缩小囊肿。
+
+Summary:
+可以加关注，有泌尿外科男科问题再咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

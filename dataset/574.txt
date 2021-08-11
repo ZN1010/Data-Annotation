@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:气管炎多年，吃药，不管用（男，35）
+医生:您好，感谢您的信任，我是上海市肺科医院主治医生胡洋
+医生:您现在的主要症状有哪些，有气喘吗，平时是否吸烟
+患者:有一点气喘，有吸烟，淡多
+医生:请问有没有做过检查，比如胸部ct或者肺功能
+医生:您好，😃😃
+医生:还在吗
+
+Summary:
+祝您健康快乐。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

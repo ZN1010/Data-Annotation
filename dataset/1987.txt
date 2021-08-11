@@ -1,0 +1,20 @@
+Dialogue:
+
+患者:AST/ALT 0.69  但是 他们各自的值都在正常范围  只是比值偏低  正常吗（女，19 岁）
+医生:能把你的检查单子发过来看一下么？
+患者:怎么的不过来图片啊
+医生:可以的，您再试试
+患者:点不动啊
+患者:我换个手机试试
+医生:恩
+医生:好的
+医生:如果发不过来也没事，一般来说只要AST'ALT正常，他们的比值是没意义的，我主要想帮您看一下您的其他项是不是都正常
+
+Summary:
+一般来说只要AST'ALT正常,他们的比值是没意义的。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

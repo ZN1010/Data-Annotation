@@ -1,0 +1,24 @@
+Dialogue:
+
+患者:怀疑自己得了尘肺怎么办（男，22岁）
+医生:做什么工作？工作多长时间了?可以去职业病防治所，一般医院不能诊断
+患者:好的
+患者:工作一年了
+患者:车间有粉尘
+患者:在汽车厂工作
+医生:工作粉尘多不多
+患者:也不是太多
+患者:现在咳嗽
+患者:有痰
+医生:可以换个工作环境，尘肺病的可能性不大
+患者:为什么不大呢
+患者:我现在害怕死了
+
+Summary:
+尘肺病属于职业病，一般的医院没资格诊断，一般是职业病防治所诊断。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

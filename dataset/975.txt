@@ -1,0 +1,20 @@
+Dialogue:
+
+患者:主动脉夹层做过手术后还能干体力吗（女，20岁）
+医生:您好，哪一型的夹层 ，做的什么手术？
+患者:哪一型？
+医生:嗯，分型是哪一个类型
+患者:医生就说是在主动脉放个支架
+医生:还没做手术吗？是腹主动脉夹层吗？
+患者:还没有，说是下个星期做
+医生:是腹主动脉夹层吗？
+患者:我也不知道，他就说是主动脉夹层
+
+Summary:
+主动脉夹层有STANFORD分型，DEBAKEY分型，如果单纯放支架估计可能是腹主动脉夹层，术后尽量不要干重体力劳动，恢复期尽量以休息为主，防止夹层破裂，恢复期过后可以适当的运动，但是重体力劳动不可以。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

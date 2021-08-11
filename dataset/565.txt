@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:看胸腺瘤挂哪个科室的号？（女，42岁）
+医生:内科治疗肿瘤科，手术胸外科。
+患者:好
+医生:依据性质决定治疗。
+
+Summary:
+依据性质决定治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

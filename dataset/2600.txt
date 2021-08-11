@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:血糖问题？？？？？？？（男，23岁）
+医生:您好，请说，您血糖怎么了？血糖多少？
+患者:血糖吃完饭6是正常吗
+医生:正常的，没问题。
+
+Summary:
+您的血糖水平正常,不用担心。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:继发性高血压，怎么检查？（男，50岁）
+医生:继发性高血压先排出肾脏原因，先做一个双肾肾上腺肾动脉超声，查醛固酮。
+患者:谢谢
+医生:不客气，去医院心内科医生会告诉你的。
+患者:县级医院有吗？
+医生:一般都有。
+
+Summary:
+高血压病人，特别是年轻人高血压首先排除继发性高血压，继发性高血压常见原因肾脏，肾上腺，肾动脉，醛固酮增多。一般医院均有相关检查。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

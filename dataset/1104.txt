@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:医生您好，腰痛（不适），该怎么办？座时间长了就腰疼，有点发胀，平躺着总感觉脊柱拧着，拍片子医生说没有问题。脊椎两边肌肉特别僵硬。谢谢（男，45岁）
+医生:还是要考虑腰部肌肉劳损的原因，可以适当锻炼，找中医按摩师辅助治疗
+患者:哦，适合做哪些锻炼呢
+医生:扭腰，侧弯等，自己按柔腰部肌肉，缓解肌肉紧张
+患者:谢谢您的指导
+
+Summary:
+腰肌劳损可以适当锻炼
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

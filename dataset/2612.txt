@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:肠胃寄生虫病挂号什么科？（女，17岁）
+医生:挂消化内科，感染科都是可以的。
+
+Summary:
+挂消化内科,感染科都是可以的。如果当地有寄防所,可以到寄防所治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

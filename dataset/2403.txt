@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:窦性心律不齐怎么办？没事吗（女，25岁）
+医生:没有不舒服症状没问题的，很多健康人都有。
+患者:感觉总是要深呼吸，不深呼吸的话气接不上来
+医生:经常性吗？
+医生:工作生活压力大吗？
+患者:15岁的时候也出现过，后来没注意没有了，好几年前也有，
+患者:压力不大
+
+Summary:
+窦性心律不齐很多健康人都有。一般做心电图时紧张、焦虑或运动后也会出现。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

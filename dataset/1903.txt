@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:吹风感冒了流鼻涕怎么办医生（男，17岁）
+医生:您好，建议您服用三九感冒灵颗粒或莲花清瘟或复方氨酚烷胺治疗。多喝水，少吃辛辣油腻食物，多吃富含维生素的水果蔬菜
+医生:注意保暖，多休息
+
+Summary:
+服用三九感冒灵颗粒或莲花清瘟或复方氨酚烷胺治疗。多喝水,少吃辛辣油腻食物,多吃富含维生素的水果蔬菜。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

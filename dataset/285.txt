@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:曾医生你好！如高度怀疑有膀胱结石，该怎么办？
+医生:膀胱结石有尿频、尿急、尿痛的症状，常伴排尿困难、尿流中断或尿流分叉。尿道结石时尿痛症状突出，伴排尿困难，尿线变细，有终末血尿，严重时会出现尿潴留。多喝水
+患者:谢谢
+医生:不客气！
+
+Summary:
+多喝水,清淡饮食。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

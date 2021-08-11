@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:快速问答-脸上有痤疮 闭合性粉刺（男，20岁岁）
+医生:您好，问题已经收到，如果您有图片或检查报告，请您发给我，这样能更好的帮助您解决问题
+医生:建议外用斑赛软膏，阿达帕林凝胶。
+医生:建议口服"维胺酯胶囊，螺内酯片"，外用"斑赛软膏，阿达帕林疑胶"，平时少吃麻辣油炸食品，勿熬夜。
+
+Summary:
+建议口服"维胺酯胶囊,螺内酯片",外用"斑赛软膏,阿达帕林疑胶",平时少吃麻辣油炸食品,勿熬夜。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

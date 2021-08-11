@@ -1,0 +1,22 @@
+Dialogue:
+
+患者:轻微脑震荡休息几天男18岁（男，17岁）
+医生:需要休息半个月，口服脑复康
+患者:遗精影响吗？
+医生:不影响
+患者:这几天一直卧床休息
+医生:可以简单活动
+患者:还是有点头疼
+患者:嗯嗯
+医生:脑震荡临床表现
+患者:一般要休息多长时间
+患者:我还要上学
+
+Summary:
+身体健康重要，建议休息半个月
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

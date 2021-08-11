@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:医生您好，多尿（次数增多），该怎么办？（男，31岁）
+医生:还有什么其它的不适症状吗？
+患者:早泄
+医生:什么原因造成的。手淫，性生活过度，还是其它疾病，手术，或者是精神打击。
+患者:性生活过度
+患者:尿不尽
+医生:改变自己的生活习惯，勤换衣物勤洗澡，多饮水勤排尿，禁饮酒辛辣饮食，避免久坐久站熬夜，衣物适当宽松。
+医生:避免手淫，减少性生活，适当休息。宁泌泰一月看看效果。
+
+Summary:
+可以加关注,有问题再咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

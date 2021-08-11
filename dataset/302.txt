@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:骨巨细胞瘤患者能吃腌蒜吗（男，18岁）
+医生:你好，希望我的回答能帮助到你。
+医生:骨巨细胞瘤对饮食没有要求。
+患者:不是不能吃刺激性食物吗
+医生:适度就可以了
+
+Summary:
+祝你健康快乐。有问题可随时咨询我。我会尽力帮助您的。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

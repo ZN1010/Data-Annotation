@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:不知道男生去喉结后会有那些出现的问题，看清题目再回答，想去做个去喉结手术，不知道价格和多久能唱歌或者有没有明显疤痕，影响声音吗？会变得中性或者偏女性音吗？（男，29岁）不要问些没有营养的，就提供专业知识
+医生:手术风险较大，甚至出现永久性声嘶
+
+Summary:
+建议考虑清楚了再手术。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

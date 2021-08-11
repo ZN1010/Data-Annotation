@@ -1,0 +1,20 @@
+Dialogue:
+
+患者:急性阑尾炎打消炎针有用吗（女，21岁）
+医生:你好，你有什么不舒服
+患者:最近几天肚子很痛，做b超都是正常的验血说有炎症医生说是急性阑尾炎打三天消炎针有用吗
+患者:昨天我打了一天了还是会觉得痛
+医生:化脓了吗
+患者:阑尾做了b超显示正常的
+患者:验血显示有炎症
+医生:输液还是打针
+患者:输液
+
+Summary:
+急性阑尾炎首选手术治疗,输液也可以,输液时间要长点儿,7~10天。注意休息,多吃清淡的少吃油腻的,不要喝酒不要吃辛辣刺激性的食物。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

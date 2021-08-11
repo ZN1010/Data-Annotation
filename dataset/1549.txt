@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:怎样判断是否有妇科病（男，25岁）
+医生:这类疾病太多了，看看妇产科医生吧。
+
+Summary:
+根据症状判断疾病。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

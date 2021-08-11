@@ -1,0 +1,20 @@
+Dialogue:
+
+患者:医生我想问一下怀孕九周彩超显示已有胎心胎芽是不是稳定了就可以放心了？（女，25岁）
+医生:你好，怀孕九周如果胚胎正常，基本稳定，但也不能保证以后绝对没事
+患者:噢
+患者:胎芽显示2.3
+患者:这个值正常吗
+患者:2.3厘米
+医生:你要胎心胎芽正常，先不用纠结胎芽到底多大，孕囊的大小跟排卵早晚有一定关系
+患者:噢
+医生:嗯
+
+Summary:
+放松心情,祝孕。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

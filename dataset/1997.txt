@@ -1,0 +1,20 @@
+Dialogue:
+
+患者:扁桃体结石可不可以用药去除？（女，27岁）
+医生:药物不行，应该手术。
+患者:不是很严重
+医生:那就不用做处理的。观察一段时间
+患者:有没有什么办法预防
+医生:这个没有什么预防的方法
+患者:好吧
+医生:祝您健康。快乐😊
+患者:谢谢
+
+Summary:
+暂时不用做处理的。观察一段时间。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,20 @@
+Dialogue:
+
+患者:鼻咽癌的起因病情证状（女，20岁）
+医生:你好，，，，，，，，
+患者:鼻咽癌的起因病情证状（女，20岁）
+医生:这个问题太大了，
+患者:鼻咽癌的起因病情证状（女，43)
+患者:说来听～
+医生:买本书看看吧
+医生:要，3天3夜啊，你要累死我啊，呵呵
+医生:目前研究证明鼻咽癌与。EB病毒有关，具体原因还不明。
+
+Summary:
+目前研究证明鼻咽癌与。EB病毒有关,具体原因还不明。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

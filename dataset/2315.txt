@@ -1,0 +1,20 @@
+Dialogue:
+
+患者:体位性低血压会不会造成中风？
+医生:您好，很高兴为您解答
+医生:请问您平时有高血压等病史吗？
+患者:会不会
+医生:体位性低血压是因为暂时性的脑供血不足引起的，跟中风原理也不同
+患者:不是我
+患者:是我家人
+医生:正常人也会出现体位性低血压
+患者:哦
+
+Summary:
+但如果平时无明显诱因出现头晕,晕厥等现象建议还是做个颅脑CT,排除一下脑血管疾病。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:包皮过长加上包茎必须要做手术吗
+医生:你好，很高兴为您服务！
+医生:如果是包茎的话，就需要手术治疗，包茎容易导致龟头炎，反复感染很麻烦
+
+Summary:
+如果是包茎的话,就需要手术治疗,包茎容易导致龟头炎,反复感染很麻烦。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

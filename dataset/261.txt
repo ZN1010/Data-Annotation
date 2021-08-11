@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:我姥爷80岁，2014年做过一次膀胱恶性肿瘤清除，今年又发现一个小的肿瘤，进行切除的同时还做了前列腺增生手术，据现在还不到一个月，现在出现浑身疼痛现象并且乏力，这种现象正常吗。有什么缓解的办法（女，28岁）
+医生:您好，这个年龄有些大了，我建议结合中医治疗
+医生:找中医会诊
+医生:针灸还是不错的
+
+Summary:
+,这个年龄有些大了,我建议结合中医治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

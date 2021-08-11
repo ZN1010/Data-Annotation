@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:肾结石吃什么好？蔬菜和水果还有肉食（男，30岁）
+医生:多饮水，少吃豆制品       。
+
+Summary:
+结石属于常见病，平素生活多饮水，少食辛辣、油腻食品，少食含钙高、豆制品等。结石发作时常伴有相应侧腰部疼痛，可伴有血尿、发热、恶心呕吐等。对于小于6毫米的结石常选择保守治疗先，若结石未排出建议外科干预治疗
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

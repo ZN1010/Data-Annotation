@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:怎么分辨生理性黄疸跟病理性黄疸？
+医生:生理性是指刚出生婴儿出现的过一段时间消退
+医生:病理性可通过抽血化验加B超确诊
+患者:生理性黄疸一般多少天消退？
+医生:十天左右，有的时间长些，特别早产儿
+患者:我家宝宝二十一天黄疸都没退，会是病理性黄疸吗？
+医生:如比前期减褪些不要紧，会消失的
+医生:个体差异，只要不越来越重就好办
+
+Summary:
+多喝水，可吃点中药退黄
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

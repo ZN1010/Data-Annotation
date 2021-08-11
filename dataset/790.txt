@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:孩子有自闭症不会说话不会自理（男，18岁）不会对话生活不会自理
+医生:你好，我一听到孩子有自闭症感到非常难过，孩子活在他的世界里，真的没有啥好办法，只能发现他的爱好，尽量帮助他
+患者:医院可以治疗吗药物可以吗
+医生:你好，到目前没有药物控制一说，可以去北京或上海，青岛一些大城市有医院专做训练，但效果较慢且不理想
+
+Summary:
+你好，尽量帮助孩子，找到他的爱好，去进自己所能吧，坚持下去
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

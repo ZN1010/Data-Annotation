@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:请问月经后两天同房内射好几次会不会怀孕（女，18岁）
+医生:请说清楚，是月经干净2天，同房几天？
+患者:月经最后一天同房内射然后接下来两天也同房内射
+医生:一般不会怀孕
+
+Summary:
+建议做好避孕
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

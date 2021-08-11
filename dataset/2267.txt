@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:胸腔    半年前房子装修 提重物后胸口疼 一直疼了半年 晚上疼的比较厉害 白天深呼吸或者弯腰会疼 这是怎么回事？（女，23岁）
+医生:拍过片子或者做过什么检查吗？
+患者:拍过肺部的片子 然后跟着单位体检过 这些项目都没查到问题 是我母亲的症状 她今年50岁
+医生:是骨头疼还是肌肉疼
+
+Summary:
+胸片只能看出骨头问题，看不出肌肉和软骨问题
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

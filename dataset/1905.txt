@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:医生，您好，我家宝宝6个半月，特别感动，愿意翻跟头，屁股撅的老高，没有闲着的时候，抓什么都吃，正常吗？
+医生:宝宝好动尤其是男宝宝，属于正常现象。
+患者:对，是男宝宝，特别淘，害怕有问题，不能是多动症啥的吧，他不哭闹吃奶正常，就是特别好动！哎
+医生:发育生长期，宝宝运动发育好
+医生:也和性格有关。性格也具有一定遗传性
+
+Summary:
+发育生长期，宝宝运动发育好
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

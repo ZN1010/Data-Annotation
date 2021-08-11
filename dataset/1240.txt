@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:脊柱侧弯怎么自己纠正（女，19岁）
+医生:保护脊柱首先是保持正确姿势，重点是加强颈腰肌锻炼，平常多练军姿。
+患者:有时候晚上睡姿不正确了 第二天早上起来很累
+患者:平躺睡好吗
+医生:睡觉的姿势看自已的习惯。
+
+Summary:
+保护脊柱首先是保持正确姿势,重点是加强颈腰肌锻炼。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:晚上醒三次算不算失眠症？（男，68岁）
+医生:失眠分好几种，有入睡困难，早醒，多梦等。请问您醒后多长时间还能睡着
+医生:您好在吗
+医生:是不是失眠看您醒后还能睡着吗？多长时间睡着
+医生:是因为上厕所还是有什么原因醒
+医生:在吗
+
+Summary:
+因为未问诊明白,抱歉没能帮到您,祝您早日康复。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

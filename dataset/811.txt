@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:肥胖症，21天减肥法管用吗（男，17岁）3天断食阶段，中8天蔬果餐，后10天6成饱饮食
+医生:减肥是个“慢活”，一蹴而就的办法对身体伤害大，减肥的成果也不容易长期保持。
+患者:那怎样才能有效减肥减脂
+医生:您首先要找到自己肥胖的成因，再有针对性地去克服。
+患者:那这种方式有用吗
+患者:甲亢
+医生:甲亢？
+医生:我相信医院里的医生都不会推荐您提及的减肥方式的。
+
+Summary:
+已就患者的提问作出了相应的解释。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

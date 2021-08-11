@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:上海老年痴呆如何申请残疾证（女，87 岁）
+医生:已经确诊了吗？有哪些症状
+医生:可以咨询计生部门，看看是不是手续不全还是残疾级别不够啊？
+患者:确认了，是重度。已经四年了
+医生:这个是建议到正规的申请残疾的部门的
+患者:好的谢谢啦
+
+Summary:
+这个是建议到正规的申请残疾的部门的。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

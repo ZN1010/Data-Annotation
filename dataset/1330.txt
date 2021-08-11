@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:胃糜烂有细菌怎么办。（男，25岁）
+医生:请问胃有什么不舒服的吗？
+医生:不在吗？
+患者:在的，就胃痛
+医生:那需要服药治疗的
+医生:需要根除幽门螺杆菌治疗
+患者:吃了胃药，不管用，还是胃疼。怎么根除幽门螺杆菌
+
+Summary:
+根除幽门螺杆菌一般需要服4种药物2周,阿莫西林'克拉霉素'甲硝唑,根据有无青霉素过敏选2种,饭后。奥美拉唑'泮托拉唑'兰索拉唑'雷贝拉唑 选一种及丽珠得乐,饭前吃。停药一个月后复查。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:肠胃感冒能吃西瓜吗(现在不拉了)（男，46岁）
+医生:你好！很高兴为你解答！
+医生:可以的
+患者:哦哦，谢谢
+医生:不客气。
+
+Summary:
+你可以进入我的诊室关注我做我的粉丝,方便以后遇到问题咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

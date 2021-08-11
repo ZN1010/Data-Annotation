@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:蚕豆病引起的黄疸，住院10天期间，可以出院吗
+医生:溶血症状控制后，网织红计数下来，总胆好转，就可以出院啦
+患者:问题是我们什么都不知道，医生只喊住，
+医生:要多和医生沟通，问清楚
+
+Summary:
+医生诊断疾病后，患者不清楚的时候，要反复就自己的症状以及化验结果以及治疗方案问清楚医生，要对疾病有总体了解。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

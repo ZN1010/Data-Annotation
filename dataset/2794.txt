@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:小孩小鸡鸡上长了个硬块是怎么回事啊？大夫。求解
+医生:你好，有没有照片给我看一下？
+患者:得怎么发照片啊大夫
+医生:点那个右边十字就可以看见拍照的字样了
+患者:对话框的右边只有提问两个字啊
+医生:您是手机模式吗？
+医生:那宝宝鸡鸡上的宝宝看上去是不是白色的，在皮肤里面
+
+Summary:
+如果在阴茎表皮下看上去似白色米粒样,考虑包皮垢的可能。由于网络医生不能亲自看患儿,不能盲目下结论,还请原谅。建议带宝宝去医院外科就诊。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

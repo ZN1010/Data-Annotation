@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:怀孕15+4周了，第一次检查还是在12+5周当时B超单子开成52天的单子了检查结果我们当地医生说没什么事一切正常，那现在检查的话又是什么时候检查呢？该检查些什么呢？我没建卡当时这是第一胎不懂
+医生:一般16到20周之间做唐氏筛查。
+患者:那最好什么时间呢？
+医生:16周以后应该去检查一次吧！
+患者:哦哦，谢谢医生
+医生:不客气，再见！不用回复。
+
+Summary:
+孕期产检咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

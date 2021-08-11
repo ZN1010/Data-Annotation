@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:医生您好，脂肪肝倾向，该怎么办？（男，28岁）
+医生:你好，能描述一下你的体型吗？身高体重
+患者:160斤，1米80
+医生:那倒是不胖，血脂高吗？父母有无肥胖或脂肪肝
+患者:没有
+医生:那问题倒不大，注意饮食和运动就好，一年复查一次
+患者:运动强度方面呢
+
+Summary:
+注意低脂饮食
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

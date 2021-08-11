@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:请问大夫我有冠心病放了一个支架两年了一直服药呢现在又煎中药调理身体和西药一起服药可以吗？（男，48岁）
+医生:建议分开时段服用，中药里面成分复杂，可能与部分西药产生相互作用
+患者:隔多长时间呀？
+医生:半小时以上为宜
+患者:好吧
+
+Summary:
+中西药适当分开服药时间,避免互相作用产生不良反应,影响药效。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

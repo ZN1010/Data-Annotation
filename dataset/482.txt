@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:你好、我宝宝刚满月、这两天发现她眼屎有点抖、使睫毛都黏在一起了、有点黄、是眼睛发炎了吗
+医生:你好，这种情况多长时间了
+患者:之前也有眼屎、但少，这两天发现多了，今天还有点黄
+医生:很可能是结膜炎或者角膜炎，注意不要捂得太厚，判断宝宝冷不冷就摸手脚，只要不凉就没事
+医生:可以用托百士滴眼
+患者:好的
+医生:嗯
+
+Summary:
+有事给我留言
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

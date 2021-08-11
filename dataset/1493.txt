@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:最近通宵好腰疼是不是肾虚？（男，18岁）
+医生:熬夜对身体不好，疲劳可以引起腰疼腿疼
+患者:吃点什么补肾最好
+医生:改变自己的生活习惯，勤换衣物勤洗澡，多饮水勤排尿，禁饮酒辛辣饮食，避免久坐久站熬夜，衣物适当宽松。
+
+Summary:
+可以加关注，病情有变化或者有其它问题再咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

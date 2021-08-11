@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:我婆婆左眼上下眼皮总是跳，都三个多月了，打针针灸都没有太大的效果，请问这个是什么原因呢？（女，25岁）
+医生:多久？！？！？！？！？！？！
+医生:这是面肌痉挛
+患者:三个月了？你回答的时候能不能不敷衍，我知道是面部痉挛，我是说有什么好办法啊
+医生:针灸
+医生:这很很难治疗
+患者:针灸已经有半个月了，也没什么用，是不是得去医院做手术呢
+医生:去看看
+
+Summary:
+去心理医生看看
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

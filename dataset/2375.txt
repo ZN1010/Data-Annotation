@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:Iga肾病可以吃鸭子吗（女，12岁）
+医生:IgA肾病需要补充优质蛋白，即牛奶，蛋白，动物性蛋白包括鸭肉。
+医生:但是凡事有度，鸭肉不要过量食用。
+患者:可以吃微辣吗
+医生:尽量不要吃刺激性食物。
+
+Summary:
+肾病患者需要优质蛋白以减轻尿素氮的产生,优质蛋白包括牛奶,鸡蛋蛋清,瘦肉等动物性蛋白。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

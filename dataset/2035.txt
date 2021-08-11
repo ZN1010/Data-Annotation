@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:类风湿 类风湿的治疗（男，70岁）
+医生:你好！类风湿是免疫过度引起的小关节病变，晨起疼痛重，活动后减轻
+医生:治疗，可以口服布洛芬等止痛抗风湿的药，骨质疏松的应用骨肽，补钙等
+患者:谢谢
+医生:不客气
+
+Summary:
+类风湿需要通过化验检查确诊。因为药物的副作用,建议在当地医生指导下治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

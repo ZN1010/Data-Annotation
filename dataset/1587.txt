@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:晚上睡不着 拖延症 白天没精神 怎么办（女，25岁）
+医生:解决失眠  是有什么心事吗
+
+Summary:
+失眠引起上述症状建议改善睡眠。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

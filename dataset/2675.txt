@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:可以使我的记忆力变强的方法（女，13岁）
+医生:你好，充足的睡眠，健康的饮食可以有效改善记忆力
+患者:怎样可以背书更快更有效
+医生:在头脑清醒的时候记忆，同时注意巩固已经记住的部分
+
+Summary:
+健康的生活是身体健康的基础。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

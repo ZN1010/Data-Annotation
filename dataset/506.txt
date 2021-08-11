@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:肾功能不全有什么办法（男，63岁）
+医生:这要看看是什么原因导致的？肾功能的指标是什么样？
+医生:肾性、肾前性、肾后性？
+患者:肌肝160
+患者:？
+医生:有轻度增高，问题倒是不大，每天尿量多少？
+患者:1000
+医生:每天注意尿量，减少就口服利尿剂，定期复查肾功能，是什么原因检查了没有？
+
+Summary:
+只要检测肾功能和尿量。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

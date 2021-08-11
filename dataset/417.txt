@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:运动会使肋骨疼吗？最近做了两天运动，后来发现肋下端肋骨一按就疼，正常吗（女，22岁）
+医生:你好，春雨医生帮你回答
+医生:你好，会的
+医生:熬夜劳累受凉多会引起肋骨疼痛
+医生:考虑是肋软骨炎可能
+患者:肋软骨炎。。。严重么
+医生:不严重，不要过于担心
+
+Summary:
+你好，你可以局部热敷按摩，外用活血止痛膏或者扶他林膏，吃点布洛芬类药物治疗。多休息，不要熬夜劳累受凉。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

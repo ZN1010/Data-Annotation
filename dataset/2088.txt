@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:肠胃型感冒可我食欲很好（女，16岁）
+医生:那具体有什么不舒服呢？
+患者:就是晚上会恶心想吐
+医生:有多长时间了呢？有没有肚子痛拉肚子？有没有咳嗽喉咙痛？
+患者:没有肚子痛跟拉肚子 喉咙有点不舒服就是总是呃嗯呃嗯的声音
+医生:如果没用药物过敏没有怀孕的话，可以吃藿香正气丸，多喝点水休息一下
+患者:好的
+
+Summary:
+普通感冒一般 5~7 天可自愈,症状较轻无需药物治疗;症状明显影响日常生活,可用感冒药缓解症状,注意适当休息,多饮水、清淡饮食。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

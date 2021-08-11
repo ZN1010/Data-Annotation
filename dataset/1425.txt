@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:钢板取出后骨缝多久能长好？上桡骨骨折！（男，32）
+医生:你好，非常愿意为你解答
+医生:长的快慢与体质，营养有关，一般一个半月左右就可
+患者:谢谢
+医生:不客气
+医生:请点击屏幕右上角“评价”，给我一个最好评价好吗^_^。打分和文字评价，以便我改进工作，继续进步，谢谢，为方便找我，请+下关注，心意都随意，有问题尽管来找我！
+
+Summary:
+长的快慢与体质,营养有关,一般一个半月左右就可。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

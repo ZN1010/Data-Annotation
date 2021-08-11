@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:想知道自己有没有胃下垂？（女，22岁）
+医生:可以到医院做一下上消化道钡餐透视
+患者:喔
+患者:只有这样吗
+患者:可以看出胃的所有问题吗？
+医生:当然不是，可以看看有没有胃下垂
+
+Summary:
+可以到医院做一下上消化道钡餐透视
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

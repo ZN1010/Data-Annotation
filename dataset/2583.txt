@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:热伤风，流鼻涕，身边没有药（男，23岁）
+医生:还是要吃药的，可以威维c银翘片。
+医生:多饮水，多休息。
+患者:好谢谢
+医生:不客气
+
+Summary:
+热伤风可以服用维c银翘片。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

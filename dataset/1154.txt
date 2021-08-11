@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:鼻子毛细血管出血这是什么原因引起的（男，48岁）
+医生:这个原因很多？如自身血管问题，炎症，挖伤等原因。
+患者:严重吗？
+医生:那要看了才知道。也有可能是全身因素引起，那就严重多了。建议到医院检查一下。必要时查一下血常规和凝血酶原时间。
+
+Summary:
+那要看了才知道。也有可能是全身因素引起,那就严重多了。建议到医院检查一下。必要时查一下血常规和凝血酶原时间。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

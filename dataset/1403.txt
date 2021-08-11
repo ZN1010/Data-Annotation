@@ -1,0 +1,21 @@
+Dialogue:
+
+患者:听神经瘤手术全切后，会复发吗（男，24岁）
+医生:如果全切复发机会就很小了。但还建议每年复查一下
+患者:您知道听神经瘤是什么原因引起的呢
+患者:复发的话可能是因为什么
+医生:长瘤病因医学无明确定论，复发原因还是细胞学上的遗留吧！
+患者:好的，怎样预防呢
+医生:放松心情过日子，每年复查即可，如果发现小的复发可行放射治疗
+患者:会有转移的可能吗
+医生:一般不会
+患者:哦哦
+
+Summary:
+如果全切复发机会就很小了。但还建议每年复查一下。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

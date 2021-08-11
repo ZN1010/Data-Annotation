@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:中风了可以吃鸭蛋吗？（女，16岁）
+医生:中风多久了？平时血压高吗？年龄多大？
+患者:血压高，85，半年之久
+医生:一般老年人鸡蛋鸭蛋可以少吃，尤其是少吃蛋黄，因为胆固醇稍高一些。只要不是每天都吃，如果他喜欢吃就让他吃吧。问题不大的。
+
+Summary:
+中风老人尽量清淡饮食为主，适当运动，保持愉悦心情，偶尔吃些以前喜欢的食物也可以的，毕竟人需要享受生活。只要不是吃太多，应该都是可以的。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

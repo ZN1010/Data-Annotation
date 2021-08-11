@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:我的包皮下面有好多小疙瘩怎么办？（男，18岁）
+医生:你好，考虑包皮龟头炎，建议注意局部清洗，必要时行包皮环切术
+
+Summary:
+针对本次问诊,医生更新了总结建议:针对本次问诊,医生更新了总结建议:祝您早生活愉快!希望您给予客观平价,欢迎您关注我,利于有问题咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

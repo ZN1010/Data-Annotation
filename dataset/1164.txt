@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:血压值为115/88请问这个血压正常吗？我是不是就高血压啦？（男，23岁）
+医生:您好，血压还可以，低压稍微偏高一些。但在正常范围
+患者:有没有问题啊，我心里好害怕啊，总是担心这事现在
+医生:没有问题。
+医生:戒烟戒酒，规律作息，低盐饮食，保障睡眠，适量运动。
+
+Summary:
+以上回复,作为总结。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

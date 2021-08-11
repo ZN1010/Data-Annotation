@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:辽宁哪家医院治疗听神经瘤比较权威（男，58 岁）
+医生:盛京医院比较好，你可以去咨询下。
+医生:您是哪的人？
+
+Summary:
+可补充完善后下次咨询,祝您健康。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

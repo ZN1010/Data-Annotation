@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:什么情况需要检查甲状腺？（女，27岁）
+医生:你好，很高兴为你服务
+医生:一般体检就需要查甲状腺
+医生:包括甲状腺肿物或者甲功异常
+
+Summary:
+遵照医嘱就可以。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

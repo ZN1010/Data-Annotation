@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:过敏性咽炎传染给别人吗？（男，20岁）
+医生:不会！过敏性鼻炎 ，过敏性咽炎一般情况下不会传染。
+患者:过敏性咽炎没有细菌病毒感染吗？
+医生:对外界物质过敏引发，不是细菌，病毒感染，不会传染！
+
+Summary:
+不会!过敏性鼻炎 ,过敏性咽炎一般情况下不会传染。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

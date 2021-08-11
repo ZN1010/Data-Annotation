@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:小孩抽动症要怎么治疗？？（男，4岁）
+医生:建议你去医院咨询小儿神经内科。
+
+Summary:
+小儿抽动症的具体治疗方案请去儿童医院神经精神科咨询。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:得了乳房纤维瘤 又发现怀孕了怎么办（女，22岁）
+医生:做过超声吗？病灶有多大？
+患者:没有做过检查 就是摸起来最左边 圆鼓鼓的
+医生:做个超声看一下，如果很小就不用管它，如果比较大担心对哺乳有影响，可以做个微创治疗
+患者:可以生完孩子再去开刀吗
+医生:也可以的
+医生:去查个超声看看吧，对孩子也没影响
+医生:同时可以留个结果，便于和以后对比
+
+Summary:
+做个超声检查明确一下,如果很小就不用管它,如果比较大,担心对哺乳有影响,可以做个微创治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

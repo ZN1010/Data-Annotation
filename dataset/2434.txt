@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:酒精肝的治疗方法是怎样的呢？（男，25岁）
+医生:你好，现在什么情况，转氨酶高吗？
+医生:最重要的一点，酒一定要戒
+医生:饮食以清淡为主，少吃油腻食物，适当运动。
+
+Summary:
+戒酒,合理饮食,及时药物治疗,祝您健康。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

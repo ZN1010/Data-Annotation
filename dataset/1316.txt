@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:自发性气胸，胸闷怎么办？（男，26岁）
+医生:肺被压缩多少？知道吗？
+医生:如果肺被压缩超过30%必须行胸腔闭式引流。低于30%可观察。
+
+Summary:
+自发性气胸,肺被压缩超过30%必须行胸腔闭式引流。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:你好  植物神经紊乱有哪些症状？（男，28岁）
+医生:您好！是多系统问题。
+医生:头晕眼花心慌出汗难受，睡眠不好，，，
+患者:哦  我整天头昏  脑子不清醒  浑身难受  发麻   有时昏起来感觉快不行了
+医生:是的去医院看看神经内科吧。必须面对面了解情况才能搞清楚诊断哦
+患者:嗯
+
+Summary:
+植物神经功能紊乱是一个大概念。是排它性诊断。需要医生综合评估一下。是多系统问题。与焦虑有相关性。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

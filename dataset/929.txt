@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:二尖瓣狭窄患者咳痰痰中带有血丝 是什么原因二尖瓣狭窄患者咳痰痰中带有血丝是什么原因
+医生:有心力衰竭吗？最近感冒吗？
+患者:意思就是支气管静脉曲张破裂导致的？
+
+Summary:
+多数是左心衰。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

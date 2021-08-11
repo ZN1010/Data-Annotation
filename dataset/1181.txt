@@ -1,0 +1,23 @@
+Dialogue:
+
+患者:嘴巴里有苦水怎么回事感觉嘴巴里没味道（男，27岁）
+医生:你好，很高兴回答你的问题
+医生:不知您的这个症状有多久了。
+医生:平时饮食如何
+医生:有没有看过口腔科，口腔疾病也可以引起，如牙周炎
+患者:快二十几天了
+患者:不是口腔问题
+患者:0
+医生:可以去查个幽门螺旋杆菌
+患者:跟这个有什么关系？
+医生:幽门螺旋杆菌感染会出现口腔异味
+患者:我这是口苦口里有苦水
+
+Summary:
+口腔异味,原因较多,可以去医院明确原因。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

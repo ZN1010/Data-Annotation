@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:肺病的人感冒一直咳嗽吃什么药（男，18岁）
+医生:是具体什么肺病？咳嗽多长时间了？咳痰吗？
+医生:咳嗽原因很多，有支气管炎引起的、有咳嗽变异性哮喘引起的、有胃食管反流病引起的、也有鼻涕倒流刺激嗓子引起的鼻后滴流综合征等。不同的原因引起的咳嗽得用不同的方法治疗。
+医生:不管什么原因，建议中西医结合治疗效果会更好一些。
+
+Summary:
+肺病较多,慢性支气管炎,慢阻肺,支扩,肺癌,肺结核都可以导致不同程度的咳嗽,针对不同的原因,针对性的治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

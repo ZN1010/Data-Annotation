@@ -1,0 +1,21 @@
+Dialogue:
+
+患者:结肠息肉门诊前需要不吃饭吗（女，52岁）
+医生:你好，很高兴为你解答问题
+医生:结肠息肉有多大？可以做肠镜下息肉摘除
+患者:你好向医生
+患者:上次就是问的你
+患者:挂李晓波医生的号，明天早上第一次去看
+患者:需要晚上不吃饭吗
+患者:半年前0.6*0.6
+医生:需要做
+医生:明天不吃饭，具体什么时候做需要排队
+
+Summary:
+可以做肠镜下息肉摘除
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

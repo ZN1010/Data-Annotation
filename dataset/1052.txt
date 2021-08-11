@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:脑脊液漏做蝶窦ct 可以吗（男，18岁）
+医生:你好，病人什么症状呢？一般脑脊液漏的病人伴有其他症状？做头颅CT,多数可以看出来的
+
+Summary:
+一般脑脊液漏的病人伴有其他症状做头颅CT,多数可以看出来的。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:寒冷性荨麻疹用什么中药泡澡可以缓解（女，25岁）
+医生:你的情况应该是遇到冷空气会起荨麻疹？
+患者:是啊
+医生:你拍一个舌头照片发给我，我给你诊断一下吧！
+医生:建议你用玉屏风散治疗四周，看看效果怎么样再联系我。
+
+Summary:
+建议你用玉屏风散治疗四周,看看效果怎么样再联系我。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

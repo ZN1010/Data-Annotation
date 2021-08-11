@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:单纯疱疹反复发作怎么办？（女，21岁）
+医生:您好，可以长期口服小剂量阿昔洛韦片采用病毒抑制疗法治疗
+患者:吃了，好了就没吃，又反复了
+医生:建议您坚持口服一段时间，好了也吃的
+患者:好吧
+
+Summary:
+祝您早日康复。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:宫颈原位癌做了手术复发几率多大？（女，33岁）
+医生:你好！很高兴为您解答问题
+医生:宫颈原位癌可以手术治愈
+医生:复发几率很小，
+患者:哦(´-ω-`)那就好，谢谢了
+医生:嗯，不客气
+
+Summary:
+宫颈原位癌可以手术治愈。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

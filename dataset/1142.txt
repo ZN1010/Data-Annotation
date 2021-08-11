@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:窦性心律不齐 电轴右偏是什么意思？（男，21岁）
+医生:您好正常人的心率可以出现窦性心率不齐的，电轴右偏要伴有其他心电图表现才能诊断，单纯心电轴右偏没意义。
+患者:好的
+
+Summary:
+正常人的心率可以出现窦性心率不齐的,电轴右偏要伴有其他心电图表现才能诊断,单纯心电轴右偏没意义。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

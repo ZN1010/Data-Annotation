@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:冠状动脉供血不足应该怎么办？（女，45岁）平时应该注意些什么问题？
+医生:你好，请问有什么症状吗？
+患者:头晕
+医生:是脑供血不足？
+
+Summary:
+注意作息规律,避免熬夜及过度疲劳,解除思想负担,忌烟酒等。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

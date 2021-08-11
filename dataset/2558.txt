@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:长了血管痣， 会不会以后有致癌的危险？（女，18岁）
+医生:不要刺激它，定期观察。。。
+患者:怎么观察？
+医生:近期突然增大，疼痛等就去医院检查取病理，但是一般不会癌变，尽量不要刺激。
+
+Summary:
+血管痣如果 近期突然增大,疼痛等就去医院检查取病理,但是一般不会癌变,尽量不要刺激。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

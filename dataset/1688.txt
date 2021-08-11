@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:孕11周:羊水栓塞是什么？
+医生:羊水栓塞是指在分娩过程中羊水进入到产妇的血管瘤
+患者:那不是很危险吗？好吓人啊
+医生:对啊！
+医生:发生几率很低，但是危险很大
+
+Summary:
+保持心情舒畅。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

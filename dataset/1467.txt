@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:宝宝两个月脚凉凉的，体温是正常的，这是为什么？有事吗？（女，21岁）
+医生:你好但愿我可以帮到你啊
+医生:末稍循环不好啊。可以宝贝按摩啊！吃进血运循环啊！可以热敷啊！
+患者:这是病吗
+患者:他精神挺好，也能吃能睡，就是脚凉，是不是屋里开空调的原因啊
+医生:宝贝不可以在空调房间啊！
+
+Summary:
+末稍循环不好啊。可以宝贝按摩啊！吃进血运循环啊！可以热敷啊！
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

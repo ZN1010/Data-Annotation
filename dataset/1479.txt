@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:食管狭窄会造成进食后心跳加速吗？（女，26岁）
+医生:会的。胸部的神经支配是交叉的，会出现相互影响。
+医生:请问你有食道狭窄吗？怎样诊断的？
+患者:我明天打算去看。。我吞不下东西。大口一点吃下去胸口难受
+患者:而且心跳好快。不吃东西就好点
+医生:那要考虑食道有否划伤？做个胃镜！心电图！
+
+Summary:
+确诊食道狭窄,进食时会出现心跳加速,考虑系此部位与心脏支配神经有交叉。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

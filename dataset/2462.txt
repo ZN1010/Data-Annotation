@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:怎么确定是否为慢性细菌性前列腺炎（男，39岁）
+医生:你好！最关键的就是前列腺液的细菌镜检和细菌培养，还有支原体!
+患者:那怎么判断是急性还是慢性
+医生:急性的有会阴部明显疼痛，发热，血象高，尿频尿急等症状，病情重而急!
+患者:那慢性的是否很难治疗
+医生:慢性细菌性前列腺炎虽然难治，但还相对有效，最难治的是慢性非细菌性前列腺炎!
+
+Summary:
+如果确诊是慢性前列腺炎,建议抓紧治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

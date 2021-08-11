@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:糜烂性胃炎，现在出现浮肿。（女，75）
+医生:哪里肿  肿多久了  心脏有问题吗
+患者:全身，心率不齐，肝大，脾大。
+患者:嗜睡。
+医生:做过什么检查  以前有过什么疾病  从什么时候开始的
+医生:肝脏彩超做过吗  有肝硬化吗
+患者:肿了大约两个星期。
+
+Summary:
+从你的症状上来看  像是肝硬化引起的脾大  腹水  肝硬化低蛋白引起的全身浮肿
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

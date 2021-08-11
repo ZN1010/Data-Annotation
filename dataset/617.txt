@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:一般医院甲流化验多少钱（男，16岁）
+医生:一般的医院是不检查这项指标的。要到传染病医院或疾控中心检查。具体价格不是很清楚。
+
+Summary:
+一般的医院是不检查这项指标的。要到传染病医院或疾控中心检查。具体价格不是很清楚。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

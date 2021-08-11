@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:颅内出血卧床十几天  双腿酸痛.蹲不下（男，54岁）
+医生:你好！何部位出血？出血量多少？意识清楚吗？肢体功能如何？
+患者:头部脑出血  基本好了  休息十几天  这两天双腿酸痛
+医生:与长期活动减少有关，有无肿胀？
+患者:没有肿胀
+医生:可以配合中药烫洗及推拿按摩治疗改善。
+患者:谢谢
+医生:不客气，谢谢咨询！有问题可再关注咨询，祝开心！顺便给予评价，谢谢！
+
+Summary:
+可以配合中药烫洗及推拿按摩治疗改善。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

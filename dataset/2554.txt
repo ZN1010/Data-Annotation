@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:请问感冒会得脑膜炎吗（女，27岁）
+医生:在医学观点来看，不是不可能，但发生概率很低。
+患者:我帮朋友问得，他就是眼睛不舒服，去看医生又说眼睛发炎咯，再加上有点感冒，她说医生说的如果还痛的话，要去照脑部ct看是否是脑膜炎
+医生:请转告她放心，不会！☺
+患者:哦哦，非常谢谢您了
+医生:不客气，积极治疗眼病。
+患者:好的一定，谢谢
+
+Summary:
+感冒转为脑炎是有可能的，尤其是小儿病毒感染，但发生机率很低，但是需要警惕。小儿感冒一定到大医院就诊。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

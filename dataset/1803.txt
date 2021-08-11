@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:腹股沟斜疝怎么办，一岁小盆友（男，15个月）
+医生:您好，宝宝以前疝有没有嵌顿？
+患者:没有
+医生:建议手术
+
+Summary:
+建议手术，发生嵌顿及时就诊
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

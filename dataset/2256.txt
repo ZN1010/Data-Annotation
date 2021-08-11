@@ -1,0 +1,15 @@
+Dialogue:
+
+患者:小儿腺样体肥大淋有肿块（女，9）用做手术吗
+医生:可以手术治疗。孩子有什么症状
+患者:睡觉打呼噜趴着睡
+医生:建议手术
+
+Summary:
+祝早日康复。尽快治疗
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

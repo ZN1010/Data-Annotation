@@ -1,0 +1,14 @@
+Dialogue:
+
+患者:最近失眠睡眠质量不好请指导（男，60岁）
+医生:您好很高兴为您提供帮助
+医生:这个年龄段的老年人临床上常见的睡眠相对较少，请问您作息时间怎么样？一般能睡几个小时？
+
+Summary:
+祝早日康复,生活愉快。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

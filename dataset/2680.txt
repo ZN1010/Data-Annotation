@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:小儿感冒了应该吃什么呀（女，22岁）
+医生:你好！请问多大宝宝？现在什么症状？
+患者:3天
+医生:现在什么症状
+医生:建议到医院就诊！
+医生:婴儿体质差，很容易出现肺炎！
+
+Summary:
+建议到医院检查治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

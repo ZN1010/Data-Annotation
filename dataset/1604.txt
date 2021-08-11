@@ -1,0 +1,16 @@
+Dialogue:
+
+患者:，，，，，，，，，，阿（女，16岁）
+医生:你好很高兴为你解答疑难。。
+医生:怎么了？
+患者:没- -
+医生:么么哒！
+
+Summary:
+健康生活,均衡饮食,努力学习。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

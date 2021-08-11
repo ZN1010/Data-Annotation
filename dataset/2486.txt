@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:@医生，你好，我女儿上次医院做B超说是肠淋巴结发炎，每天睡觉前都会痛一下，差不多有一两个月了，他们说不用吃药也没事的，到时，最近好像痛频繁起来了，怎么办？如果不吃药有没有关系的（女，女儿）
+医生:你好，宝宝肠系膜淋巴结发炎，肚子就是间断性疼痛，建议你不要让宝宝受凉，吃点消炎药蒲地蓝消炎口服液就好了
+
+Summary:
+,宝宝肠系膜淋巴结发炎,肚子就是间断性疼痛,建议你不要让宝宝受凉,吃点消炎药蒲地蓝消炎口服液就好了。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

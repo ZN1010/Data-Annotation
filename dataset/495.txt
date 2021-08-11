@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:你好，肝脏血管瘤要不要紧（男，46）
+医生:你好！很高兴为您解答问题
+医生:请问有什么不舒服吗？发现多长时间了？有增大吗？
+医生:肝血管瘤是良性的，没有症状不增大可以不用处理，定期复查
+患者:没有，谢谢！
+医生:春雨提示：为了感谢医生的细心指导与建议，您能否为该医生给予好评呢，您的好评是对他职业的认同与肯定，谢谢🙂
+
+Summary:
+肝血管瘤是良性的,没有症状不增大可以不用处理,定期复查。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

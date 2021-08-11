@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:快速问答-蔓迪 米诺地尔 使用后脸长痘痘（男，28岁）
+医生:外用米诺地尔治脱发与痘痘无关
+
+Summary:
+外用米诺地尔治脱发与痘痘无关。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

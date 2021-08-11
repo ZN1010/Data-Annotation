@@ -1,0 +1,21 @@
+Dialogue:
+
+患者:啪啪啪后入需要做那些措施 ？（男，19岁）
+医生:你好！你的意思是避孕吗？
+患者:不是避孕
+患者:那个后入
+医生:？？没明白？
+患者:就是领肛交
+患者:想和老婆尝试一下
+患者:第一次需要做什么准备
+医生:哦哦哦
+医生:肛交有风险，有些会引起肛裂
+
+Summary:
+阴道会分泌粘液，可以减少摩擦力，可是肛门不会。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

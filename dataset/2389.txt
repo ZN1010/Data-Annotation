@@ -1,0 +1,13 @@
+Dialogue:
+
+患者:产后用束腹带好，还是用纱布绑好？（女，27岁）
+医生:当然是腹带的束缚效果更好
+
+Summary:
+完善检查，及时治疗。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

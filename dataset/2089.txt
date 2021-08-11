@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:苯丙酮尿症每一月采血化验
+医生:家长朋友您好！请问你是哪位家长
+医生:有事情请留言，抽空会回复的
+医生:家长朋友您好！本周四也就是8号正式开业啦，您可以过来复查了。
+患者:我是马雅琪爸爸
+医生:噢马雅琪爸爸啊！你好，知道了，我备注下。
+
+Summary:
+确诊苯丙酮尿症,长期低苯丙氨酸饮食控制,定期复查。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

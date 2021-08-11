@@ -1,0 +1,18 @@
+Dialogue:
+
+患者:我发烧了，春雨医生你能给我治治吗？（女，40）
+医生:发热多长时间了，量体温了吗？还好其他症状吗？
+患者:😷
+患者:体温39度七
+患者:没有其他的一个样啊
+医生:什么意思，能说明一下吗？
+医生:可以吃点退热药，多喝水，用温水搽浴降温
+
+Summary:
+吃点退热药（奈普生），多喝水，用温水搽浴降温，好好休息。如果效果不好，及时去医院检查。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:

@@ -1,0 +1,19 @@
+Dialogue:
+
+患者:原发性高血压妊娠吃什么降压药好（女，38岁）
+医生:怀孕或哺乳期能用的降压药是硝苯地平和拉贝洛尔
+患者:备孕期能吃吗？
+医生:尽量生活方式调整，注意饮食休息，减少用药
+医生:怀孕都可以，备孕也是可以的
+患者:好的！因为怀大孩时有妊高症，所以觉得要二孩很紧张
+患者:这两个药哪个对肝功能副作用小
+医生:能给孕妇用都比较小
+
+Summary:
+怀孕或哺乳期能用的降压药是硝苯地平和拉贝洛尔。
+
+1. Nonspecific template?: t or f
+
+2. Medical terms in summary but NOT in dialogue:
+
+3. Medical terms in BOTH summary and dialogue:
