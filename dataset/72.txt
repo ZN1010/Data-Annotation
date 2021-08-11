@@ -7,7 +7,7 @@ Dialogue:
 Summary:
 颅脑外伤恢复期,不建议使用过度的药物治疗,主要是靠功能锻炼。暴力导致的损伤,修复需要时间,过度的使用药物,也无法加快组织修复的过程,反而可以引发各种副作用。就像十月怀胎的道理一样,创伤的愈合有期自己的时间规律,尚无任何药物那加快这个过程。只有功能锻炼可以加快身体的恢复。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
