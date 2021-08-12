@@ -17,7 +17,7 @@ Dialogue:
 Summary:
 多饮水,注意休息。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: t
 
 2. Medical terms in summary but NOT in dialogue:
 

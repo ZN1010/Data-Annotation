@@ -11,8 +11,8 @@ Dialogue:
 Summary:
 如果在阴茎表皮下看上去似白色米粒样,考虑包皮垢的可能。由于网络医生不能亲自看患儿,不能盲目下结论,还请原谅。建议带宝宝去医院外科就诊。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 包皮垢
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 
