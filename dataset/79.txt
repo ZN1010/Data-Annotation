@@ -8,8 +8,8 @@ Dialogue:
 Summary:
 问题分析：您好，错构瘤一般是发育异常引起的良性病变，这个一般是不会自己消失的，有可能随着生长变大意见建议：这类疾病如果肿物体积不大，不用管它，注意定期复查就好，有明显症状时 可以手术治疗
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 错构瘤
