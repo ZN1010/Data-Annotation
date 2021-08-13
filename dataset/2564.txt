@@ -12,8 +12,8 @@ Dialogue:
 Summary:
 影像学发现的轻微脑缺血灶一般无需特别处理,建议主要从平时控制高血压高血脂的角度去保养。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 高血脂
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 脑缺血, 高血压

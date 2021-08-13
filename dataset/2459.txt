@@ -21,8 +21,8 @@ Dialogue:
 Summary:
 你好，由于没有图片，您可以外擦派瑞松乳膏，按照湿疹治疗。2，最好拍图，进一步帮助判断。3、能够医院就诊检查一下真菌涂片、排除股癣。那最好了
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 派瑞松乳膏, 真菌涂片, 股癣
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 湿疹

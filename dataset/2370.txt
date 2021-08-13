@@ -13,8 +13,8 @@ Dialogue:
 Summary:
 抗癫痫药物很多,要根据患者的病情使用。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 癫痫

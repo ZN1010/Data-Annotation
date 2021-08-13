@@ -6,8 +6,8 @@ Dialogue:
 Summary:
 建议检查腰椎ct。考虑有腰椎间盘突出。注意休息避免受凉劳累,多穿点衣服保暖,给予针灸理疗康复按摩。热水袋热敷外用止痛膏药,疼痛重服用消炎止痛药物对症治疗。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 腰椎, 针灸, 消炎
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: ct, 腰椎间盘突出

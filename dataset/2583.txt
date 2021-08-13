@@ -9,8 +9,8 @@ Dialogue:
 Summary:
 热伤风可以服用维c银翘片。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 热伤风, 维c银翘片

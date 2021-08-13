@@ -11,8 +11,8 @@ Dialogue:
 Summary:
 本例是临床常见的宫颈糜烂,建议及时治疗。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 临床
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 宫颈糜烂

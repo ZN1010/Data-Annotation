@@ -8,8 +8,8 @@ Dialogue:
 Summary:
 如果真是角膜炎那要抓紧治疗,因为角膜炎严重的话会影响视力,因为角膜炎病因有细菌,真菌,病毒,治疗有所侧重,所以建议你到医院检查。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 角膜炎

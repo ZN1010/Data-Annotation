@@ -7,8 +7,8 @@ Dialogue:
 Summary:
 上感这个季节常见,要如果反复着凉感冒发烧,就应及时就医。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 上感
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 感冒, 发烧

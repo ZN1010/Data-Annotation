@@ -9,8 +9,8 @@ Dialogue:
 Summary:
 胸痛除了考虑心肺疾病原因，还有消化系统疾病原因。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 胸痛, 心肺疾病, 消化系统
 
 3. Medical terms in BOTH summary and dialogue:

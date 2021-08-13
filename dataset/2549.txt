@@ -26,8 +26,8 @@ Dialogue:
 Summary:
 骨肉瘤恶性程度高，建议行全身化疗
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 骨肉瘤, 化疗

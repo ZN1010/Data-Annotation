@@ -15,8 +15,8 @@ Dialogue:
 Summary:
 年轻男性高血压降压药首选美卡素这一类,实在不行才选尼莫地平那一类,尼莫地平降压效果太差,尼福达和它是一类,降压效果可以。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 尼莫地平
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 高血压, 降压药, 美卡素, 尼福达

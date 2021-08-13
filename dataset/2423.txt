@@ -9,8 +9,8 @@ Dialogue:
 Summary:
 鼻炎可以是感冒导致，也可以是过敏性鼻炎引起。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 感冒, 过敏性
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 鼻炎

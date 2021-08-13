@@ -7,8 +7,8 @@ Dialogue:
 Summary:
 咳嗽原因:1、咽喉部、气管等呼吸道分泌物的刺激,气管反射性收缩引起咳嗽;2、过敏性哮喘,引起的咳嗽属于气道过敏性炎症。分为致病因素和诱发因素。如变应原、细菌、病毒因素等。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 咳嗽, 咽喉, 气管, 呼吸道, 反射性收缩, 过敏性, 哮喘, 变应原

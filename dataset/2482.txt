@@ -15,7 +15,7 @@ Dialogue:
 Summary:
 身体健康重要，建议休息半个月
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

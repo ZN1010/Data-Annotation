@@ -9,7 +9,7 @@ Dialogue:
 Summary:
 你的健康一块钱也不值,这是你自己定的价。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: t
 
 2. Medical terms in summary but NOT in dialogue:
 

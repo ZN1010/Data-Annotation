@@ -11,8 +11,8 @@ Dialogue:
 Summary:
 生活中常出现的症状没有临床意义,建议放松心情,多休息。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 临床
 
 3. Medical terms in BOTH summary and dialogue:

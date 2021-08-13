@@ -8,7 +8,7 @@ Dialogue:
 Summary:
 建议控制情绪,放松心态。多与人沟通交流。适当运动。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

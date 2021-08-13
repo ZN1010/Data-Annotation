@@ -7,8 +7,8 @@ Dialogue:
 Summary:
 ,软骨瘤是良性骨肿瘤,如果未出现压迫神经,血管,不影响活动,可不用处理。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 软骨瘤, 良性, 骨肿瘤

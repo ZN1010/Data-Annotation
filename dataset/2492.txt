@@ -10,8 +10,8 @@ Dialogue:
 Summary:
 眼球就像鸡蛋一样，里面是胶样液体，玻璃体。当玻璃体液化时，出现“飞蚊”，如果眼底是好的，这种飞蚊可以不处理的。但有些新发生的，可能会伴有眼底病，需要到医院检查。糖尿病，高度近视，外伤史，眼底出血是要去医院检查的重点人群
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 胶样液体, 玻璃体, 液化, 眼底, 糖尿病
 
 3. Medical terms in BOTH summary and dialogue:

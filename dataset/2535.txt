@@ -8,7 +8,7 @@ Dialogue:
 Summary:
 睡眠障碍表现多种多样,病因较多,具体情况需具体分析。找出确切的病因,去除病因有针对性治疗是关键。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

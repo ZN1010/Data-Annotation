@@ -12,8 +12,8 @@ Dialogue:
 Summary:
 鼻中隔偏曲,慢性肥厚性鼻炎,手术效果良好。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 慢性肥厚性鼻炎
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 鼻中隔偏曲

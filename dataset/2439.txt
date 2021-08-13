@@ -6,8 +6,8 @@ Dialogue:
 Summary:
 胃肠功能紊乱主要在调节,如果久治不愈建议去医院检查。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 胃肠功能紊乱
 
 3. Medical terms in BOTH summary and dialogue:

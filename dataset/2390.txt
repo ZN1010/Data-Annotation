@@ -11,8 +11,8 @@ Dialogue:
 Summary:
 血压在正常高限,需要在不同时间点,在平静休息10分钟后测量血压,反复多次测量,明确有无高血压;首先在饮食上多加注意,尤其需要低盐饮食,加强身体锻炼;定期监测血压。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 高血压
 
 3. Medical terms in BOTH summary and dialogue:
