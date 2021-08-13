@@ -6,8 +6,8 @@ Dialogue:
 Summary:
 ,妇科炎症,月经不调等疾病是很常见的,所以不要太担心,祝你健康。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 妇科炎症, 月经不调
 
 3. Medical terms in BOTH summary and dialogue:

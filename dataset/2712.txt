@@ -6,7 +6,7 @@ Dialogue:
 Summary:
 手术切除，而且赶紧手术，避免病情加重！
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

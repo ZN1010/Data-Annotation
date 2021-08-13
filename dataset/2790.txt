@@ -13,8 +13,8 @@ Dialogue:
 Summary:
 急性阑尾炎首选手术治疗,输液也可以,输液时间要长点儿,7~10天。注意休息,多吃清淡的少吃油腻的,不要喝酒不要吃辛辣刺激性的食物。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 急性阑尾炎, 输液

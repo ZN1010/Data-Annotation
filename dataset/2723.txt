@@ -12,7 +12,7 @@ Dialogue:
 Summary:
 凭空想出来的问题最可怕了!别乱想。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

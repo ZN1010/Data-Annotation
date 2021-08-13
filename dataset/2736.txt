@@ -11,8 +11,8 @@ Dialogue:
 Summary:
 腰肌劳损通过锻炼腰背肌肌力,推荐个方法你试试吧,每天晚上睡觉前使用扶他林药膏涂抹患处按摩吸收,然后趴床上腰部放置热水袋热敷腰部,双手后背放置腰部做头向上抬高动作,到最高处停留十秒,再慢慢返回趴下,反反复复锻炼。每天坚持二十分钟最好。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 腰背肌, 扶他林
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 腰肌劳损

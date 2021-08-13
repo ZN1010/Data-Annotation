@@ -11,7 +11,7 @@ Dialogue:
 Summary:
 如果渗出太多，每天都得换药
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

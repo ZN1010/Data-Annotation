@@ -11,8 +11,8 @@ Dialogue:
 Summary:
 ,根据你的白带可以看看,是什么阴道炎,如果是黄色泡沫样白带,外阴瘙痒有可能是滴虫性阴道炎如果白带是豆腐渣样白带,而且奇痒难忍,有可能是,霉菌性阴道炎。如果是滴虫性阴道炎可以用甲硝唑栓,如果是霉菌性阴道炎,可以用达克宁栓。注意要清洗内裤开水烫,在太阳底下暴晒。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 阴道炎, 外阴瘙痒, 甲硝唑栓, 达克宁栓
 
 3. Medical terms in BOTH summary and dialogue:

@@ -10,7 +10,7 @@ Dialogue:
 Summary:
 建议:1. 作息时间规律,早睡早起。2. 晚饭不要吃的过饱,不要喝太多的水,不要吃辛辣、油脂多的食物。3. 睡前不要饮用咖啡和茶水。4. 建议睡前喝一杯牛奶。5. 不吸烟,因为吸烟不利于健康及睡眠。6. 睡前洗热水澡,可提高睡眠质量。7. 锻炼身体有助于睡眠,最佳锻炼时间是下午。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

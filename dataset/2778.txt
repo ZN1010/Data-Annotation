@@ -10,8 +10,8 @@ Dialogue:
 Summary:
 而且抽动症的症状会阶段性的改变,现在是眨眼,可能以后会出现摇头,如果影响到宝宝的生活,还是要治疗的。如果影响不大,宝宝现在还小,没有学习压了,建议不吃药,以心理开导,家长配合为主。注意宝宝情绪。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 抽动症

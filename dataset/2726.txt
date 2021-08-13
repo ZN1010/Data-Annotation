@@ -28,7 +28,7 @@ Dialogue:
 Summary:
 你好患者，不好意思，刚才我们的交流可能带点方言。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

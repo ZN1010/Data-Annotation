@@ -10,7 +10,7 @@ Dialogue:
 Summary:
 由于没有病人相关影像资料,建议当地医院就诊,咨询相关费用情况。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

@@ -22,8 +22,8 @@ Dialogue:
 Summary:
 脱髓鞘脊髓炎具体病因不明,可能与感染,病毒,自身免疫低下等有关。本病一旦确诊,应尽早治疗,目前无特效治疗方法,主要包括减轻脊髓损害、防治并发症及促进功能恢复。药物治疗1皮质类固醇激素;2免疫球蛋白;3抗生素;4维生素B族有助于神经功能恢复。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 固醇激素, 免疫球蛋白, 抗生素, 维生素B
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 脱髓鞘脊髓炎
