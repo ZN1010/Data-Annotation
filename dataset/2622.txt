@@ -20,8 +20,8 @@ Dialogue:
 Summary:
 幼儿一般在6个月之后患脑膜炎的机率较大,孩子越小病情越重,危险性越大。成人发病期间最好与之隔离,预防重于治疗。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 脑膜炎

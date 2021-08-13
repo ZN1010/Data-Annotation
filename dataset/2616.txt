@@ -13,8 +13,8 @@ Dialogue:
 Summary:
 无论是出血还是梗塞，我们在临床上还是可以见到许多血压平时不高的患者发病的。这也可以说明高血压不是中风的唯一原因。预防中风应该是一个全面系统的工程。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 梗塞, 血压, 中风

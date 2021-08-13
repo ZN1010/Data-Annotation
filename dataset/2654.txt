@@ -15,8 +15,8 @@ Dialogue:
 Summary:
 早孕,建议定期复查孕酮,HCG,到期做彩超。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 孕酮, HCG, 彩超

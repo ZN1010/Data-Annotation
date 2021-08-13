@@ -15,8 +15,8 @@ Dialogue:
 Summary:
 尘肺一般属于职业暴露引起的。引起肺间质病变导致肺活量降低出现气短活动后加重等。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 气短
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 尘肺, 肺间质, 病变

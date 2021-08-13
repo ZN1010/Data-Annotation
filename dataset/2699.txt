@@ -12,7 +12,7 @@ Dialogue:
 Summary:
 乌眼圈: 注意休息,尽量少熬夜少玩手机电脑,睡前少喝水,并可以局部凉毛巾冷敷。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

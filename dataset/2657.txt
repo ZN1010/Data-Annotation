@@ -18,7 +18,7 @@ Dialogue:
 Summary:
 个人意见,这种情况下,如果没有非要同房的理由,建议再等两天看看。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

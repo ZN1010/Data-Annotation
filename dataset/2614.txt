@@ -9,8 +9,8 @@ Dialogue:
 Summary:
 腰椎间盘突出的诊断包括临床症状和X片CT或MRI检查。侧突多少代偿性。腰椎间盘突出突出治疗后多可恢复!但应该排除其他原因所致的脊柱侧弯。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: X片, MRI, 侧突, 代偿性
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 腰椎间盘突出, CT, 脊柱侧弯

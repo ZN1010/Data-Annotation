@@ -14,8 +14,8 @@ Dialogue:
 Summary:
 宝宝有两种可能，一个是常见的高热惊厥，一个是脑炎【颅内感染】。需要面诊医生根据宝宝的表现，查体及相关的辅助检查明确抽搐原因
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 高热惊厥, 颅内感染, 面诊
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 脑炎

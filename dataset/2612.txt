@@ -6,8 +6,8 @@ Dialogue:
 Summary:
 挂消化内科,感染科都是可以的。如果当地有寄防所,可以到寄防所治疗。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 消化内科, 感染科, 寄防所

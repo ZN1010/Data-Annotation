@@ -13,8 +13,8 @@ Dialogue:
 Summary:
 ,你的情况考虑帕金森病肌紧张所致。治疗主要是抗帕金森治疗。随着病情好转,疼痛症状亦相应好转。祝好。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 病肌
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 帕金森

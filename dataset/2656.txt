@@ -27,8 +27,8 @@ Dialogue:
 Summary:
 你现在这种情况,可用注入法,就是用针把脓肿里的液体抽出来,然后注入碘酊。要点是:抽完液体,针头一定在囊里别出来,冲洗干净后,注入的碘酊为囊液的三分之一,不能太多,也不要太少,注意,一定要注入囊腔。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 囊腔
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 碘酊, 囊液

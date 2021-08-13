@@ -14,8 +14,8 @@ Dialogue:
 Summary:
 生活规律,避免劳累,忌辛辣刺激饮食,多食蔬菜、水果,保持大便通畅,避免久蹲久坐,多做提肛锻炼,便后温开水坐浴,肛内塞太宁栓,外敷龙珠软膏。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 太宁栓, 龙珠软膏
 
 3. Medical terms in BOTH summary and dialogue:

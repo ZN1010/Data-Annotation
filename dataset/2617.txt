@@ -13,8 +13,8 @@ Dialogue:
 Summary:
 需要到妇产科咨询并进行相关产科检查明确。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 妇产科

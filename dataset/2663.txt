@@ -9,7 +9,7 @@ Dialogue:
 Summary:
 这种情况主要是加强功能锻炼。要树立信心,还要有耐心。慢慢情况会有所好转的。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

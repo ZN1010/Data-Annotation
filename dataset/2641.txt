@@ -10,8 +10,8 @@ Dialogue:
 Summary:
 及时到新生儿科检查治疗,祝孩子健康成长。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 新生儿科
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 
