@@ -12,8 +12,8 @@ Dialogue:
 Summary:
 我强烈反对神经官能症的诊断！本来人家没有明确的疾病，只是一些亚健康状态，你非要给人诊断一个病症，既不科学，也不利于人家的恢复。本来人家可以通过休息和生活调理恢复的，你偏偏让人家吃药，虽然都是些谷维素之类的安慰剂，但毕竟是药，会无形中增加别人恢复的难度。需要科普一下这个知识。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 亚健康, 谷维素
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 神经官能症

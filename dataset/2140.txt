@@ -15,8 +15,8 @@ Dialogue:
 Summary:
 中老年心脏急救,首先平卧,给氧,口含速效救心丸。有高血压者,可含服硝酸甘油。怀疑心梗者,嚼服阿斯匹林。等。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 高血压, 硝酸甘油, 阿斯匹林
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 速效救心丸

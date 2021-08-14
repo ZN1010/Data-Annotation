@@ -11,8 +11,8 @@ Dialogue:
 Summary:
 考虑是神经衰弱，建议白天做做运动，增强体质，坚持一段时间就好了
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 神经衰弱

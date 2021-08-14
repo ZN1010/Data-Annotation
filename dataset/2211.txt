@@ -9,7 +9,7 @@ Dialogue:
 Summary:
 应该现在还没有恢复好，米饭比较硬，先不要吃，先吃清淡易消化富含营养的
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

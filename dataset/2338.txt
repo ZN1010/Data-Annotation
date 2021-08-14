@@ -12,7 +12,7 @@ Dialogue:
 Summary:
 请关注微信公众号“春雨医生”或手机下载APP“春雨医生”、有免费健康咨询、可以在主页搜索（陈守新医生）关注、方便找到我、更好的为你提供高质量、更贴心的服务、祝健康！
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: t
 
 2. Medical terms in summary but NOT in dialogue:
 

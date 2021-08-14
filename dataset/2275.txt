@@ -6,7 +6,7 @@ Dialogue:
 Summary:
 只要不贴肚脐,只是暂时用2-3天止痛,是可以用膏药的。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

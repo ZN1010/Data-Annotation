@@ -6,7 +6,7 @@ Dialogue:
 Summary:
 祝您早日康复,可以关注我,随时提问(如果没有其他问题,不用回复。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: t
 
 2. Medical terms in summary but NOT in dialogue:
 

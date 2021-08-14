@@ -11,7 +11,7 @@ Dialogue:
 Summary:
 完全勃起时，阴茎长度大于8厘米就是正常的，不影响性交及快感
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

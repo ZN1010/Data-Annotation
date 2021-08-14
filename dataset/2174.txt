@@ -18,7 +18,7 @@ Dialogue:
 Summary:
 注意卫生，特别是大便后清洗一下
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

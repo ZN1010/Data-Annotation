@@ -22,8 +22,8 @@ Dialogue:
 Summary:
 结核性胸膜炎的治疗要及时，不要出现胸膜肥厚粘连了才治疗
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 结核性, 胸膜

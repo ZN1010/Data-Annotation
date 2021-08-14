@@ -24,8 +24,8 @@ Dialogue:
 Summary:
 膝关节疼痛原因很多。可以行相关检查排除！目前你的症状不明显，适当休息，保暖。如没有缓解，去医院检查后再联系我
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 膝关节疼痛

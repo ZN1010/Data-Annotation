@@ -21,8 +21,8 @@ Dialogue:
 Summary:
 宫颈囊肿属于生理性改变,不需要处理。宫内膜息肉需要积极处理,建议诊刮手术。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 宫颈囊肿, 宫内膜息肉, 诊刮

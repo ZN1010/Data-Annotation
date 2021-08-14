@@ -13,8 +13,8 @@ Dialogue:
 Summary:
 智齿是长在口腔最后面的牙齿。智齿往往不能完全萌出或者萌出时位置不正，再加上位置靠后不能做到有效清洁，这些病因积聚，在身体抵抗力低时很容易诱发智齿冠周炎！消炎的方法有口服消炎药、冠周冲洗，疼痛或者肿胀明显需要及时就医，防止间隙感染！
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 消炎, 感染
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 智齿, 冠周炎

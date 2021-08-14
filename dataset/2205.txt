@@ -9,7 +9,7 @@ Dialogue:
 Summary:
 建议平时注意忌口禁食辛辣刺激食物,含糖高的食物,油性大食物,多喝水,少熬夜,多吃蔬菜水果,清淡饮食,多运动,增强抵抗力。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

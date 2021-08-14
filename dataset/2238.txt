@@ -42,8 +42,8 @@ Dialogue:
 Summary:
 如果是神经炎,可以用营养神经的药物维生素B1、甲钴胺,但神经病变恢复比较慢,主要在早期治疗。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 维生素B1, 甲钴胺, 病变
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 神经炎

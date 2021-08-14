@@ -8,8 +8,8 @@ Dialogue:
 Summary:
 利君沙0.375，一天三次，维c银翘片2片，一天三次，发烧体温高时吃奈普生2片。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 利君沙0.375, 维c银翘片, 奈普生

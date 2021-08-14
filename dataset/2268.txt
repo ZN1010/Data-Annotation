@@ -20,8 +20,8 @@ Dialogue:
 Summary:
 根据你的情况建议观察一下看看，上肢经常给予按摩治疗，活动一下关节，定期复查，必要时检查肌电图看看。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 上肢
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 肌电图

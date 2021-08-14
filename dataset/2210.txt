@@ -7,8 +7,8 @@ Dialogue:
 Summary:
 建议如果有胸水建议尽快抽干净,避免胸膜黏连,同时规范抗结核治疗。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 胸水, 胸膜黏连, 抗结核治疗

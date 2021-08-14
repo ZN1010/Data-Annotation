@@ -15,8 +15,8 @@ Dialogue:
 Summary:
 脑梗不同时期有不同的诊疗方案。都有规范的指南作为指导。中医中药一般作为辅助,不能替代规范的西医治疗。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 脑梗

@@ -15,8 +15,8 @@ Dialogue:
 Summary:
 建议继续服用高血压药物,低盐低脂饮食,戒烟酒,避免熬夜、劳累、情绪激动,保持心情舒畅。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 高血压

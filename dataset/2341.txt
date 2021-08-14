@@ -17,8 +17,8 @@ Dialogue:
 Summary:
 根据目前症状，考虑合并胸膜炎导致，建议输液治疗，应用抗炎药物输液治疗，配合口服路盖克止痛治疗！
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 胸膜炎, 输液, 口服, 路盖克

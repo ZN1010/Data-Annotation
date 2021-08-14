@@ -20,8 +20,8 @@ Dialogue:
 Summary:
 扁桃体炎，如果白细胞增高，需要用消炎药的。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 扁桃体炎, 白细胞, 消炎
