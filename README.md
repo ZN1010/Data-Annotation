@@ -12,4 +12,4 @@ Annotation Guideline:
 
 
 
-The first 30 dialogues (ID from 2 to 64) have been annotated. You may take a look at them as some annotation examples. Don't hesitate to contact **njz5124@psu.edu** for further assistance. Thanks!
+The first 30 dialogues (IDs from 2 to 64) and the last 400 dialogues (IDs from 2130 to 2815) have been annotated. You may take a look at them as some annotation examples. Don't hesitate to contact **njz5124@psu.edu** for further assistance. Thanks!
