@@ -9,7 +9,7 @@ Dialogue:
 Summary:
 建议平时饮食清淡一些,不要暴饮暴食,少吃生冷辛辣刺激油腻食物,不喝酒,浓茶水,冰镇饮料,咖啡,不要熬夜,不要过于劳累和精神压力。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

@@ -10,8 +10,8 @@ Dialogue:
 Summary:
 目前的医疗技术还不能根治近视，吃药打针，滴眼水，甚至是手术都不行。 只能通过戴眼镜，角膜塑形镜，或者手术来矫正提高视力
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 角膜塑形镜

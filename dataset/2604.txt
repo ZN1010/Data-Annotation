@@ -24,7 +24,7 @@ Dialogue:
 Summary:
 饮食上注意规律，避免刺激性及油腻食物，避免过饱，过甜及过冷食物。戒酒。祝早日康复！
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

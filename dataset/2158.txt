@@ -9,8 +9,8 @@ Dialogue:
 Summary:
 有的与精子有关,主要是有抗精子抗体阳性,就能流产,化验血就知道了。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 阳性
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 流产, 化验

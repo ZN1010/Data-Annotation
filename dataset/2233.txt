@@ -24,8 +24,8 @@ Dialogue:
 Summary:
 应该没有骨骼、神经、肌腱的损伤,药物效果不明显,建议适当运动。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 骨骼, 神经, 肌腱

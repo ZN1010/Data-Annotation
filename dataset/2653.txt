@@ -12,8 +12,8 @@ Dialogue:
 Summary:
 !根据你的情况,像是包皮龟头炎,可外用特比奈芬搽剂,口服氟康唑片。性伴侣要同时治疗!忌食辛辣刺激性食物,禁用肥皂、香皂、浴液、消毒液及热水烫洗,忌烟忌酒。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 包皮龟头炎, 特比奈芬搽剂, 氟康唑片
 
 3. Medical terms in BOTH summary and dialogue:

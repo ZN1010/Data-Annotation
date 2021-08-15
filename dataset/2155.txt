@@ -13,8 +13,8 @@ Dialogue:
 Summary:
 心肌桥是一种先天性血管畸形。临床表现有胸痛及心肌缺血的冠心病表现。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 先天性, 血管畸形, 心肌缺血, 冠心病
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 心肌桥

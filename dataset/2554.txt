@@ -11,8 +11,8 @@ Dialogue:
 Summary:
 感冒转为脑炎是有可能的，尤其是小儿病毒感染，但发生机率很低，但是需要警惕。小儿感冒一定到大医院就诊。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 脑炎, 小儿病毒感染
 
 3. Medical terms in BOTH summary and dialogue:

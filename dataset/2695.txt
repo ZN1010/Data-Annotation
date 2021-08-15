@@ -10,8 +10,8 @@ Dialogue:
 Summary:
 两岁宝宝积食后干恶心，无呕吐，精神好，大小便正常。可以给宝宝吃消食片助消化。多喝水，吃清淡易消化的食物，多吃蔬菜水果，保持大便通畅。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 积食, 消食片
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 

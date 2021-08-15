@@ -17,8 +17,8 @@ Dialogue:
 Summary:
 那托百士眼水和普南扑灵眼水交替滴，看看效果怎么样
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 托百士, 普南扑灵

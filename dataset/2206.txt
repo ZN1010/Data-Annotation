@@ -31,8 +31,8 @@ Dialogue:
 Summary:
 放松心情，注意休息，注意饮食，均衡营养，避免着凉，采取胸膝卧位趴趴和艾条熏脚纠正胎位试试，加上每天适时活动活动，散散步，也帮助纠正胎位，坚持一到两周，去医院复查看情况，必要时可以让大夫试试外倒转术，祝你成功！
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 外倒转术
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 胸膝, 艾条

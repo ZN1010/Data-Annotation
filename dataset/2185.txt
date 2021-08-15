@@ -21,8 +21,8 @@ Dialogue:
 Summary:
 突发性聋治疗目前多采用综合治疗的方法,有效率在70--80%左右。开始治疗的时间与预后有一定的关系,因此应该在发病后7~10天内尽早治疗。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 突发性聋
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 综合治疗

@@ -11,8 +11,8 @@ Dialogue:
 Summary:
 骨质增生，中年男性病人，建议缓解期加强腰背肌锻炼，局部热敷。发作期止痛药物缓解症状，卧硬板床。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 骨质增生, 腰背肌, 止痛药物

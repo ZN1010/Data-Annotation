@@ -6,7 +6,7 @@ Dialogue:
 Summary:
 一般都采取药物治疗,其他的只能起到辅助作用。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

@@ -8,8 +8,8 @@ Dialogue:
 Summary:
 看当时的损伤骨质破坏,缺损情况,一般的裂缝骨折,没有移位和缺损的骨折,只要治疗得当,能很好的复位,一般都会恢复的。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 骨质, 骨折

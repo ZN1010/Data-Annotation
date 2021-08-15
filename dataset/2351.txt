@@ -12,8 +12,8 @@ Dialogue:
 Summary:
 饮食清淡,避免感冒,避免辛辣,增强体质,营养均衡。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 感冒

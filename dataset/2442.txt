@@ -40,7 +40,7 @@ Dialogue:
 Summary:
 祝弟弟早日恢复健康，千万要，树立战胜疾病的信心，病情变化，及时就医复查，千万不要延误病情啊！
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

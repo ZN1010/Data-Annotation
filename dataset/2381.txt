@@ -8,8 +8,8 @@ Dialogue:
 Summary:
 普通炎症的话一般吃3-7天,不能少于三天,一定要按说明书服用,不可吃一顿停一顿。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 炎症

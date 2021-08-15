@@ -15,8 +15,8 @@ Dialogue:
 Summary:
 精索静脉曲张必须手术,严重可导致生育功能障碍,睾丸软化、萎缩。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 精索, 静脉曲张, 睾丸, 软化, 萎缩

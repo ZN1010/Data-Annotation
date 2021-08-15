@@ -29,8 +29,8 @@ Dialogue:
 Summary:
 不会完全切除附睾的,一般只是将附睾囊肿摘除。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 附睾, 囊肿

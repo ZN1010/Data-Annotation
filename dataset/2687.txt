@@ -14,7 +14,7 @@ Dialogue:
 Summary:
 外形变化不明显可以不用手术
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

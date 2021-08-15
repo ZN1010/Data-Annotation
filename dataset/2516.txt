@@ -6,8 +6,8 @@ Dialogue:
 Summary:
 头颅外伤小心颅内出血。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 头颅, 颅内出血
 
 3. Medical terms in BOTH summary and dialogue:

@@ -12,7 +12,7 @@ Dialogue:
 Summary:
 建议您每天监测血压，3次/日（早中晚），做记录。以规律观察血压情况。目前药物治疗稳定的话，尽量不要换药。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

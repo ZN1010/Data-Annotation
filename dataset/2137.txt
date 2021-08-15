@@ -6,8 +6,8 @@ Dialogue:
 Summary:
 自发性气胸多由于肺大泡引起,严重者影响呼吸,有生命危险,手术的目地,去掉明显的肺大泡,减少复发率。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 自发性, 气胸, 肺大泡

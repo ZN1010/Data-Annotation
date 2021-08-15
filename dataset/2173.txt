@@ -7,8 +7,8 @@ Dialogue:
 Summary:
 毛周角化症,建议用温水洗澡(不要用太热的水),洗澡后及时总身体乳。平时多喝水,多吃水果蔬菜。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 毛周角化症

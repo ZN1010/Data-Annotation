@@ -9,7 +9,7 @@ Dialogue:
 Summary:
 小孩生病大家都非常紧张,包括医生,要耐心点,咳嗽与病情严重程度不一定完全相关,还可以看看咳痰等情况。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

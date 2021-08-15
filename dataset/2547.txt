@@ -15,8 +15,8 @@ Dialogue:
 Summary:
 血管畸形容易出血或缺血,癫痫发作等,建议早日干预治疗。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 血管畸形, 癫痫

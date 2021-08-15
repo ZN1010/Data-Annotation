@@ -13,7 +13,7 @@ Dialogue:
 Summary:
 手淫是正常的性行为,只要不频繁,是无害的。你需要的是,尽量每周2到3次为宜。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

@@ -7,8 +7,8 @@ Dialogue:
 Summary:
 最重要是血铜检测。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 血铜
 
 3. Medical terms in BOTH summary and dialogue:

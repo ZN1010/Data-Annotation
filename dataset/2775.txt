@@ -10,7 +10,7 @@ Dialogue:
 Summary:
 较常见问题、但部分患者难以从根本上彻底解决，注意一些修甲穿鞋的常识会有所帮助。拨趾甲是严重者无奈之举和必要手段。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

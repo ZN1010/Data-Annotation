@@ -7,7 +7,7 @@ Dialogue:
 Summary:
 注意饮食避免辛辣刺激生冷食物。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

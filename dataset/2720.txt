@@ -18,8 +18,8 @@ Dialogue:
 Summary:
 肛裂可能性大。建议内外同治。内调大便，外用药物促进伤口愈合。预防很中要。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 肛裂

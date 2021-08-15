@@ -8,8 +8,8 @@ Dialogue:
 Summary:
 对于肥胖，在排除其它疾病引起外，首先应采取健康的生活方式，改变饮食和运动习惯，并自觉地长期坚持；控制总进食量，采用低热卡、低脂肪饮食，只有当摄入的能量低于生理需要量、达到一定程度负平衡，才能把贮存的脂肪动员出来消耗掉。由于您体重较大，建议您根据自身条件进行运动，如有保护的慢跑；如果您检查出伴有其它与肥胖相关的疾病，建议您到专科就诊，必要时可采取药物治疗手段和外科手术。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 热卡

@@ -10,6 +10,6 @@ Summary:
 
 1. Nonspecific template?: t or f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 清火枝麦片, 参苓白术散, 知柏地黄丸
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 阴虚内热, 脾胃湿热

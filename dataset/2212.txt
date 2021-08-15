@@ -8,8 +8,8 @@ Dialogue:
 Summary:
 月经期同房危害极大,容易引起感染:1.易造成各种炎症,如子宫内膜炎、输卵管炎,甚至盆腔炎和不孕。2.易引起子宫内膜异位症3.有可能引起免疫性不孕4.各种血液传染病会互传5.引起经期出血增多或出血时间延长。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 感染, 炎症, 子宫内膜炎, 输卵管炎, 盆腔炎, 子宫内膜异位症, 免疫性不孕, 传染病
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 

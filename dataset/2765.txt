@@ -10,8 +10,8 @@ Dialogue:
 Summary:
 可以服用脾肾两助丸。精神抑郁焦虑可以服用黛力新。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 脾肾两助丸, 黛力新

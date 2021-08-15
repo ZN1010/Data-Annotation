@@ -10,7 +10,7 @@ Dialogue:
 Summary:
 到医院检查看看肺部有没有有问题。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

@@ -15,8 +15,8 @@ Dialogue:
 Summary:
 头痛表现多种多样,常见的有偏头痛,紧张性头痛,丛集性头痛等。病因比较多,血管神经性头痛较为多见,有时精神心理因素也可以加重症状。具体情况需具体分析。一般先观察或对症治疗,并积极寻找病因,去除病因是关键。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 偏头痛, 丛集性头痛
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 紧张性头痛, 血管神经

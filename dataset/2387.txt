@@ -11,7 +11,7 @@ Dialogue:
 Summary:
 日常调理饮食更是非常重要，尽量不要吃刺激性的食物，特别是过辣，过凉，过烫，过酸等食物，每天只要饮食规律，多吃水果蔬菜，注意保暖和休息，适量运动，心情保持舒畅，会给您一个健康的身体，如症状不缓解，建议及时去医院就诊！
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: t
 
 2. Medical terms in summary but NOT in dialogue:
 

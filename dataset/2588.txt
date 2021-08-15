@@ -12,6 +12,6 @@ Summary:
 
 1. Nonspecific template?: t or f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 头皮糠疹, 硫磺软膏, 维生素b, 西咪替丁片
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 酮康唑洗剂

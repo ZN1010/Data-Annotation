@@ -6,8 +6,7 @@ Dialogue:
 Summary:
 养成良好的健康生活方式对每个人的健康有利。可以参看我发起的多个健康话题。也许对你有用。祝身体健康。
 
-1. Nonspecific template?: t or f
-
+1. Nonspecific template?: t
 2. Medical terms in summary but NOT in dialogue:
 
 3. Medical terms in BOTH summary and dialogue:

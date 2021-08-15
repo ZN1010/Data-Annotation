@@ -9,8 +9,8 @@ Dialogue:
 Summary:
 哮喘,是一种发作性支气管痉挛、喉鸣气喘的病理状态。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 发作性, 支气管, 痉挛, 喉鸣气喘
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 哮喘

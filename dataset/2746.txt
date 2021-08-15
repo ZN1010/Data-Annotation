@@ -15,8 +15,8 @@ Dialogue:
 Summary:
 霉菌性外耳道炎，治疗起来比较麻烦，点药疼痛感明显，需医院就诊清理耳道。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 霉菌性外耳道炎

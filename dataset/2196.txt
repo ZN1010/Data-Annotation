@@ -8,8 +8,8 @@ Dialogue:
 Summary:
 对于青春期和你这个年龄的青年常因为手淫会引起前列腺炎,但极少会有前列腺癌,因为前列腺癌在亚洲人群发病率很低的,多为老年人。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 前列腺炎, 前列腺癌

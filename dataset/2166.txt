@@ -10,7 +10,7 @@ Dialogue:
 Summary:
 针对本次问诊,医生更新了总结建议:多喝水,注意休息。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

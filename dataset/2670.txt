@@ -13,8 +13,8 @@ Dialogue:
 Summary:
 从与您的对话中判断，低钾是不进食引起的。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 低钾

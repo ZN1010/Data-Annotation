@@ -6,8 +6,8 @@ Dialogue:
 Summary:
 ,宝宝肠系膜淋巴结发炎,肚子就是间断性疼痛,建议你不要让宝宝受凉,吃点消炎药蒲地蓝消炎口服液就好了。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 肠系膜淋巴结, 间断性疼痛, 消炎药, 蒲地蓝消炎口服液

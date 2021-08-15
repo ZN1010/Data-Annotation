@@ -8,10 +8,10 @@ Dialogue:
 患者:消化道是什么意思
 
 Summary:
-伤寒是消化道传染病，一般导致发热，腹泻等等症状，主要治疗就是联合消炎和补液治疗
+伤寒是消化道传染病，一般导致发热，等腹泻等症状，主要治疗就是联合消炎和补液治疗
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 腹泻
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 伤寒, 消化道, 传染病, 消炎, 补液

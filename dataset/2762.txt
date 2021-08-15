@@ -10,8 +10,8 @@ Dialogue:
 Summary:
 过氧化苯甲酰凝胶。外用涂抹的可以用一用。要多吃蔬菜,避免油腻辛辣的食物,避免便秘。不要应用油脂类化妆品,以及类固醇激素的化妆品。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 过氧化苯甲酰凝胶, 类固醇激素
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 

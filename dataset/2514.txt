@@ -7,8 +7,8 @@ Dialogue:
 Summary:
 毛支患儿难以口服药物,多数都需要静脉用药。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 静脉用药
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 毛支, 口服

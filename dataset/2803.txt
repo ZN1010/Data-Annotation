@@ -15,8 +15,8 @@ Dialogue:
 Summary:
 药物中毒所致色弱，早期可以药物促进恢复，晚期目前没有有效治疗方法
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 药物中毒, 色弱

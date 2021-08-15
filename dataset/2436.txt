@@ -10,7 +10,7 @@ Dialogue:
 Summary:
 多注意休息及清淡营养饮食,不要熬夜、劳累,不要吃辛辣肥甘厚腻食物。建议配合医生调理,有利于身体健康。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

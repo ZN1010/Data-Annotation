@@ -8,7 +8,7 @@ Dialogue:
 Summary:
 正常值： 30.**** ug/l。可以用药排铅。尊医嘱就可以了。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

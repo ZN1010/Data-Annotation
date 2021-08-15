@@ -13,8 +13,8 @@ Dialogue:
 Summary:
 心功能不全,高血压患者,常规治疗的同时也要注意饮食调节,建议给予清淡易消化,低盐,低胆固醇饮食。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 心功能, 高血压, 胆固醇

@@ -6,8 +6,8 @@ Dialogue:
 Summary:
 自发性气胸,肺被压缩超过30%,行闭式引流。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 自发性气胸, 闭式引流

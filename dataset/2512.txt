@@ -17,7 +17,7 @@ Dialogue:
 Summary:
 你面前的状态完全可以适应正常生活,只要不过于劳累就可以了。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

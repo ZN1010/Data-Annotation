@@ -11,8 +11,8 @@ Dialogue:
 Summary:
 急性肾炎多是链球菌感染造成的以血尿为突出表现的疾病 可恢复
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 急性, 肾炎, 链球菌, 感染, 血尿

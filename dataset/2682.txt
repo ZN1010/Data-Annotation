@@ -7,7 +7,7 @@ Dialogue:
 Summary:
 !这个量很小,不影响哺乳。祝宝宝健康成长。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

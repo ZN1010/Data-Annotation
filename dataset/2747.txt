@@ -12,8 +12,8 @@ Dialogue:
 Summary:
 保护脊柱首先是保持正确姿势,重点是加强颈腰肌锻炼。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 颈腰肌
 
 3. Medical terms in BOTH summary and dialogue:

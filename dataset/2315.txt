@@ -13,8 +13,8 @@ Dialogue:
 Summary:
 但如果平时无明显诱因出现头晕,晕厥等现象建议还是做个颅脑CT,排除一下脑血管疾病。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 颅脑, CT, 脑血管
 
 3. Medical terms in BOTH summary and dialogue:

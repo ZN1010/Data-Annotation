@@ -6,8 +6,8 @@ Dialogue:
 Summary:
 可以做理疗的,理疗具有消炎的作用。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 消炎
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 理疗

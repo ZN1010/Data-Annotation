@@ -26,7 +26,7 @@ Dialogue:
 Summary:
 睡眠不好表现多种多样,原因比较多,具体情况需具体分析。一般是先观察或对症治疗,并积极寻找病因,去除病因是关键。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

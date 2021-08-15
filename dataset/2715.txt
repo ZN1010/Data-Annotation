@@ -6,7 +6,7 @@ Dialogue:
 Summary:
 睡前喝一杯热牛奶,睡前热水泡泡脚,以微出汗为宜。再就是缓解压力,精神放松。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

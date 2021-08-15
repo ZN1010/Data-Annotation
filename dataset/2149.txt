@@ -14,7 +14,7 @@ Dialogue:
 Summary:
 你好：高壓12O低壓8o這是正常血壓、
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 

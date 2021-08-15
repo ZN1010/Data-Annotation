@@ -23,8 +23,8 @@ Dialogue:
 Summary:
 脂肪瘤在超声和其他影像上比较典型,可以先行检查诊断明确后再行下一步治疗。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 脂肪瘤, 超声

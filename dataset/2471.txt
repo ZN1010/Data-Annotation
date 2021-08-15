@@ -6,8 +6,8 @@ Dialogue:
 Summary:
 皮肤癌注意没有皮肤破溃应该不是的。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 皮肤破溃
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 皮肤癌

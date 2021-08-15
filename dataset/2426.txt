@@ -10,8 +10,8 @@ Dialogue:
 Summary:
 胃病保健养胃的食品较多，但是不要刻意去想，维生素类，纤维素食物，合理营养即可
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 胃病
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 维生素, 纤维素

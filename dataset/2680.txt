@@ -10,7 +10,7 @@ Dialogue:
 Summary:
 建议到医院检查治疗。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: t
 
 2. Medical terms in summary but NOT in dialogue:
 

@@ -12,8 +12,8 @@ Dialogue:
 Summary:
 鼻炎主要是对症处理,平时注意保持鼻部卫生,保持鼻腔湿润,忌食辛辣刺激食物,宜多饮水,希望对你有所帮助!祝你早日康复。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 鼻炎

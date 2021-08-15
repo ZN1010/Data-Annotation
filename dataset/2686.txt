@@ -12,8 +12,8 @@ Dialogue:
 Summary:
 ,根据以上信息,胆总管下段炎性狭窄要是可以观察治疗,如果有黄疸等梗阻症状,需要行手术治疗,十二指肠憩室要是症状重,建议手术治疗。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
-2. Medical terms in summary but NOT in dialogue:
+2. Medical terms in summary but NOT in dialogue: 黄疸, 梗阻
 
-3. Medical terms in BOTH summary and dialogue:
+3. Medical terms in BOTH summary and dialogue: 胆总管, 十二指肠憩室
