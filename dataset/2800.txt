@@ -11,7 +11,7 @@ Dialogue:
 Summary:
 建议口服敏使朗与天麻素胶囊药物治疗看看。
 
-1. Nonspecific template?: t or f
+1. Nonspecific template?: f
 
 2. Medical terms in summary but NOT in dialogue:
 
