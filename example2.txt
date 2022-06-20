@@ -7,7 +7,7 @@ Dialogue:
 Summary 1: A是D
 Summary 2: A是B
 Summary 3: A不是B
-Summary 4: C是D
+Summary 4: C是D，可以加关注,有泌尿外科男科问题再咨询
 
 
 
