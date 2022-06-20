@@ -1,0 +1,17 @@
+Dialogue:
+
+患者:
+医生:半月后抽血查hcg,.或者20天查尿
+医生:半月后抽血查hcg,20天后查鸟
+患者:谢谢
+医生:不客气
+
+Summary 1: 或者20,天后查鸟。可以查hcg。
+Summary 2: 半月后抽血查hcg,20天后查鸟。
+Summary 3: 半月后抽血查hcg,20天后查鸟
+Summary 4: 半月后抽血查hcg,20天后查鸟
+
+
+
+Unfaithful?: []
+Incoherent?: []

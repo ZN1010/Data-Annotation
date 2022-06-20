@@ -1,0 +1,15 @@
+Dialogue:
+
+患者: A是B 
+医生: C是D
+
+
+Summary 1: A是D
+Summary 2: A是B
+Summary 3: A不是B
+Summary 4: C是D
+
+
+
+Unfaithful?: [3]
+Incoherent?: []
